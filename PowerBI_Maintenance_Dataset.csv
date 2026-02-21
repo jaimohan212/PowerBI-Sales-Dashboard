@@ -1,0 +1,3001 @@
+Ticket_ID,Date,Equipment_Type,Location,Downtime_Hours,Failure_Type
+20001,2024-06-03,Compressor,Plant C,4,Overheating
+20002,2024-05-28,Compressor,Plant B,9,Mechanical Failure
+20003,2024-12-08,Generator,Plant A,1,Short Circuit
+20004,2024-02-21,Motor,Plant A,16,Overheating
+20005,2024-09-07,Motor,Plant B,23,Mechanical Failure
+20006,2024-05-26,Transformer,Plant B,3,Overheating
+20007,2024-11-24,Transformer,Plant A,6,Overheating
+20008,2024-12-15,Generator,Plant B,13,Electrical Fault
+20009,2024-09-14,Generator,Plant B,17,Mechanical Failure
+20010,2024-09-29,Generator,Plant A,15,Mechanical Failure
+20011,2024-05-04,Panel,Plant B,21,Mechanical Failure
+20012,2024-07-22,Motor,Plant C,12,Mechanical Failure
+20013,2024-09-12,Generator,Plant A,8,Electrical Fault
+20014,2024-05-10,Motor,Plant C,16,Electrical Fault
+20015,2024-01-21,Compressor,Plant B,3,Short Circuit
+20016,2024-03-18,Compressor,Plant B,4,Mechanical Failure
+20017,2024-11-30,Motor,Plant C,7,Overheating
+20018,2024-02-20,Compressor,Plant B,15,Electrical Fault
+20019,2024-12-27,Compressor,Plant B,11,Overheating
+20020,2024-12-26,Compressor,Plant C,16,Overheating
+20021,2024-09-22,Transformer,Plant B,22,Overheating
+20022,2024-04-25,Transformer,Plant A,14,Short Circuit
+20023,2024-02-24,Motor,Plant C,23,Short Circuit
+20024,2024-10-18,Motor,Plant C,13,Mechanical Failure
+20025,2024-02-20,Panel,Plant C,9,Electrical Fault
+20026,2024-11-25,Transformer,Plant C,18,Mechanical Failure
+20027,2024-09-29,Motor,Plant A,3,Short Circuit
+20028,2024-09-10,Transformer,Plant C,20,Short Circuit
+20029,2024-03-01,Panel,Plant C,22,Overheating
+20030,2024-12-12,Motor,Plant B,5,Mechanical Failure
+20031,2024-12-16,Motor,Plant C,22,Overheating
+20032,2024-08-12,Motor,Plant B,2,Short Circuit
+20033,2024-12-01,Motor,Plant C,22,Mechanical Failure
+20034,2024-04-12,Generator,Plant C,21,Mechanical Failure
+20035,2024-02-17,Transformer,Plant A,17,Electrical Fault
+20036,2024-08-12,Transformer,Plant B,16,Short Circuit
+20037,2024-12-07,Transformer,Plant A,20,Short Circuit
+20038,2024-08-20,Panel,Plant B,13,Electrical Fault
+20039,2024-03-10,Generator,Plant C,20,Short Circuit
+20040,2024-02-16,Transformer,Plant A,11,Overheating
+20041,2024-08-15,Transformer,Plant B,8,Overheating
+20042,2024-01-10,Motor,Plant B,21,Overheating
+20043,2024-07-03,Motor,Plant A,5,Mechanical Failure
+20044,2024-03-20,Motor,Plant B,2,Overheating
+20045,2024-01-13,Transformer,Plant C,4,Short Circuit
+20046,2024-11-09,Motor,Plant B,3,Electrical Fault
+20047,2024-12-05,Transformer,Plant C,2,Overheating
+20048,2024-11-19,Panel,Plant B,3,Overheating
+20049,2024-03-24,Panel,Plant A,16,Mechanical Failure
+20050,2024-03-26,Compressor,Plant C,20,Short Circuit
+20051,2024-06-05,Generator,Plant B,9,Electrical Fault
+20052,2024-05-23,Motor,Plant C,6,Short Circuit
+20053,2024-03-03,Motor,Plant A,15,Overheating
+20054,2024-02-12,Generator,Plant B,5,Short Circuit
+20055,2024-06-06,Generator,Plant B,9,Electrical Fault
+20056,2024-07-03,Compressor,Plant C,6,Overheating
+20057,2024-10-12,Generator,Plant A,3,Short Circuit
+20058,2024-11-18,Transformer,Plant A,23,Electrical Fault
+20059,2024-01-24,Motor,Plant B,13,Overheating
+20060,2024-12-22,Generator,Plant C,22,Overheating
+20061,2024-07-23,Transformer,Plant B,15,Short Circuit
+20062,2024-12-27,Generator,Plant B,11,Mechanical Failure
+20063,2024-08-11,Transformer,Plant C,16,Mechanical Failure
+20064,2024-04-10,Panel,Plant A,15,Electrical Fault
+20065,2024-07-22,Transformer,Plant B,6,Short Circuit
+20066,2024-01-08,Compressor,Plant B,14,Electrical Fault
+20067,2024-06-20,Transformer,Plant C,11,Short Circuit
+20068,2024-07-26,Generator,Plant C,20,Electrical Fault
+20069,2024-04-05,Panel,Plant B,10,Electrical Fault
+20070,2024-06-10,Panel,Plant A,16,Short Circuit
+20071,2024-10-17,Transformer,Plant C,12,Mechanical Failure
+20072,2024-04-05,Generator,Plant B,7,Electrical Fault
+20073,2024-11-01,Panel,Plant A,7,Short Circuit
+20074,2024-05-24,Transformer,Plant C,18,Short Circuit
+20075,2024-09-14,Transformer,Plant C,15,Short Circuit
+20076,2024-10-26,Transformer,Plant B,6,Overheating
+20077,2024-04-11,Panel,Plant C,19,Short Circuit
+20078,2024-06-25,Motor,Plant B,8,Short Circuit
+20079,2024-11-23,Generator,Plant C,20,Overheating
+20080,2024-04-19,Compressor,Plant A,15,Overheating
+20081,2024-07-16,Compressor,Plant A,4,Mechanical Failure
+20082,2024-05-08,Generator,Plant C,18,Short Circuit
+20083,2024-12-24,Motor,Plant B,13,Electrical Fault
+20084,2024-05-16,Generator,Plant C,22,Overheating
+20085,2024-01-27,Transformer,Plant B,22,Overheating
+20086,2024-05-16,Generator,Plant C,1,Mechanical Failure
+20087,2024-06-12,Generator,Plant A,8,Mechanical Failure
+20088,2024-12-14,Panel,Plant B,19,Mechanical Failure
+20089,2024-12-21,Compressor,Plant A,17,Short Circuit
+20090,2024-05-10,Compressor,Plant A,10,Short Circuit
+20091,2024-05-30,Transformer,Plant A,1,Short Circuit
+20092,2024-09-02,Transformer,Plant C,1,Overheating
+20093,2024-04-19,Panel,Plant B,21,Mechanical Failure
+20094,2024-03-13,Transformer,Plant A,5,Overheating
+20095,2024-10-12,Motor,Plant B,1,Electrical Fault
+20096,2024-10-01,Panel,Plant B,21,Short Circuit
+20097,2024-12-23,Panel,Plant A,23,Overheating
+20098,2024-03-07,Generator,Plant C,21,Electrical Fault
+20099,2024-02-19,Generator,Plant A,20,Overheating
+20100,2024-10-30,Motor,Plant A,13,Electrical Fault
+20101,2024-01-03,Panel,Plant B,9,Overheating
+20102,2024-08-13,Panel,Plant C,16,Overheating
+20103,2024-03-06,Generator,Plant B,8,Short Circuit
+20104,2024-06-03,Compressor,Plant C,14,Overheating
+20105,2024-12-27,Compressor,Plant A,17,Overheating
+20106,2024-04-20,Generator,Plant C,4,Mechanical Failure
+20107,2024-10-22,Transformer,Plant B,7,Overheating
+20108,2024-09-12,Panel,Plant A,17,Short Circuit
+20109,2024-09-30,Motor,Plant C,16,Overheating
+20110,2024-06-03,Compressor,Plant C,14,Short Circuit
+20111,2024-05-18,Transformer,Plant B,16,Mechanical Failure
+20112,2024-06-15,Panel,Plant C,2,Short Circuit
+20113,2024-01-19,Transformer,Plant A,15,Mechanical Failure
+20114,2024-12-10,Panel,Plant C,11,Mechanical Failure
+20115,2024-08-10,Panel,Plant B,13,Mechanical Failure
+20116,2024-02-26,Generator,Plant C,4,Mechanical Failure
+20117,2024-10-20,Generator,Plant A,1,Mechanical Failure
+20118,2024-05-12,Motor,Plant A,15,Short Circuit
+20119,2024-12-03,Motor,Plant C,12,Mechanical Failure
+20120,2024-10-18,Transformer,Plant C,21,Mechanical Failure
+20121,2024-12-09,Generator,Plant A,9,Mechanical Failure
+20122,2024-07-23,Panel,Plant B,7,Mechanical Failure
+20123,2024-04-28,Generator,Plant A,3,Mechanical Failure
+20124,2024-09-09,Panel,Plant C,16,Electrical Fault
+20125,2024-03-25,Generator,Plant C,4,Overheating
+20126,2024-07-03,Panel,Plant B,23,Overheating
+20127,2024-08-12,Transformer,Plant A,14,Mechanical Failure
+20128,2024-05-27,Generator,Plant A,22,Mechanical Failure
+20129,2024-10-06,Compressor,Plant B,13,Electrical Fault
+20130,2024-08-14,Compressor,Plant A,20,Mechanical Failure
+20131,2024-10-12,Panel,Plant B,19,Electrical Fault
+20132,2024-10-10,Transformer,Plant A,2,Overheating
+20133,2024-06-29,Panel,Plant B,10,Short Circuit
+20134,2024-04-18,Transformer,Plant B,19,Overheating
+20135,2024-05-14,Motor,Plant B,15,Short Circuit
+20136,2024-10-17,Generator,Plant C,7,Short Circuit
+20137,2024-10-16,Transformer,Plant C,15,Short Circuit
+20138,2024-04-12,Panel,Plant C,17,Mechanical Failure
+20139,2024-07-19,Motor,Plant A,16,Electrical Fault
+20140,2024-04-26,Panel,Plant B,17,Short Circuit
+20141,2024-11-27,Compressor,Plant A,16,Electrical Fault
+20142,2024-11-05,Compressor,Plant A,18,Overheating
+20143,2024-01-29,Generator,Plant B,17,Short Circuit
+20144,2024-01-27,Generator,Plant C,4,Overheating
+20145,2024-01-13,Motor,Plant A,2,Electrical Fault
+20146,2024-02-11,Compressor,Plant A,17,Electrical Fault
+20147,2024-08-11,Transformer,Plant A,17,Overheating
+20148,2024-01-21,Compressor,Plant C,2,Electrical Fault
+20149,2024-05-15,Generator,Plant B,22,Overheating
+20150,2024-11-21,Panel,Plant B,2,Electrical Fault
+20151,2024-08-08,Motor,Plant A,15,Mechanical Failure
+20152,2024-05-24,Compressor,Plant B,16,Overheating
+20153,2024-01-10,Transformer,Plant C,11,Short Circuit
+20154,2024-08-12,Transformer,Plant B,2,Short Circuit
+20155,2024-05-20,Transformer,Plant A,8,Short Circuit
+20156,2024-04-15,Motor,Plant A,21,Electrical Fault
+20157,2024-09-24,Transformer,Plant B,12,Overheating
+20158,2024-07-12,Transformer,Plant A,14,Electrical Fault
+20159,2024-05-07,Compressor,Plant C,14,Short Circuit
+20160,2024-07-31,Motor,Plant C,12,Mechanical Failure
+20161,2024-05-30,Panel,Plant C,2,Short Circuit
+20162,2024-06-28,Panel,Plant C,14,Short Circuit
+20163,2024-11-12,Transformer,Plant A,23,Short Circuit
+20164,2024-01-26,Generator,Plant A,12,Mechanical Failure
+20165,2024-01-15,Motor,Plant B,9,Mechanical Failure
+20166,2024-01-22,Generator,Plant A,8,Overheating
+20167,2024-12-10,Motor,Plant B,20,Mechanical Failure
+20168,2024-03-05,Motor,Plant A,16,Overheating
+20169,2024-09-07,Compressor,Plant B,10,Mechanical Failure
+20170,2024-01-21,Transformer,Plant B,7,Overheating
+20171,2024-08-20,Compressor,Plant C,15,Short Circuit
+20172,2024-01-16,Generator,Plant B,9,Mechanical Failure
+20173,2024-09-28,Generator,Plant B,4,Electrical Fault
+20174,2024-07-23,Panel,Plant B,23,Electrical Fault
+20175,2024-10-24,Compressor,Plant B,6,Overheating
+20176,2024-06-08,Compressor,Plant B,12,Mechanical Failure
+20177,2024-02-10,Compressor,Plant C,15,Mechanical Failure
+20178,2024-04-17,Panel,Plant B,19,Electrical Fault
+20179,2024-05-04,Compressor,Plant B,22,Mechanical Failure
+20180,2024-05-31,Compressor,Plant B,2,Mechanical Failure
+20181,2024-01-13,Compressor,Plant A,19,Overheating
+20182,2024-07-21,Compressor,Plant A,20,Short Circuit
+20183,2024-03-19,Generator,Plant C,20,Electrical Fault
+20184,2024-02-11,Transformer,Plant B,2,Short Circuit
+20185,2024-06-17,Generator,Plant B,15,Mechanical Failure
+20186,2024-09-05,Compressor,Plant A,12,Mechanical Failure
+20187,2024-04-30,Motor,Plant B,1,Overheating
+20188,2024-09-28,Motor,Plant C,23,Short Circuit
+20189,2024-10-26,Panel,Plant B,14,Short Circuit
+20190,2024-07-27,Generator,Plant C,4,Overheating
+20191,2024-06-06,Panel,Plant A,22,Short Circuit
+20192,2024-04-30,Panel,Plant C,11,Overheating
+20193,2024-08-14,Motor,Plant C,7,Overheating
+20194,2024-01-24,Generator,Plant C,13,Mechanical Failure
+20195,2024-08-17,Transformer,Plant C,14,Mechanical Failure
+20196,2024-01-26,Generator,Plant C,7,Mechanical Failure
+20197,2024-02-27,Panel,Plant C,22,Overheating
+20198,2024-09-21,Compressor,Plant C,11,Mechanical Failure
+20199,2024-05-05,Panel,Plant C,20,Electrical Fault
+20200,2024-10-01,Generator,Plant C,20,Electrical Fault
+20201,2024-01-28,Motor,Plant A,11,Mechanical Failure
+20202,2024-10-27,Generator,Plant C,21,Overheating
+20203,2024-05-07,Transformer,Plant C,9,Electrical Fault
+20204,2024-04-03,Compressor,Plant B,4,Mechanical Failure
+20205,2024-07-09,Compressor,Plant B,2,Electrical Fault
+20206,2024-09-28,Panel,Plant B,2,Electrical Fault
+20207,2024-01-05,Generator,Plant C,9,Electrical Fault
+20208,2024-06-05,Motor,Plant A,19,Short Circuit
+20209,2024-02-21,Transformer,Plant A,15,Electrical Fault
+20210,2024-08-30,Panel,Plant B,21,Mechanical Failure
+20211,2024-05-30,Generator,Plant B,21,Electrical Fault
+20212,2024-09-18,Motor,Plant C,18,Mechanical Failure
+20213,2024-10-31,Generator,Plant A,16,Electrical Fault
+20214,2024-03-20,Motor,Plant A,2,Electrical Fault
+20215,2024-07-01,Generator,Plant B,12,Short Circuit
+20216,2024-12-19,Generator,Plant A,1,Electrical Fault
+20217,2024-04-16,Panel,Plant B,2,Mechanical Failure
+20218,2024-06-02,Generator,Plant B,14,Short Circuit
+20219,2024-10-19,Generator,Plant C,7,Short Circuit
+20220,2024-07-23,Panel,Plant B,17,Electrical Fault
+20221,2024-04-25,Panel,Plant C,15,Electrical Fault
+20222,2024-01-17,Compressor,Plant A,17,Overheating
+20223,2024-10-14,Compressor,Plant A,9,Electrical Fault
+20224,2024-06-04,Panel,Plant B,13,Overheating
+20225,2024-01-25,Transformer,Plant B,2,Mechanical Failure
+20226,2024-10-04,Motor,Plant C,15,Electrical Fault
+20227,2024-11-12,Panel,Plant C,20,Electrical Fault
+20228,2024-05-05,Compressor,Plant A,11,Overheating
+20229,2024-10-26,Generator,Plant A,19,Overheating
+20230,2024-12-23,Panel,Plant B,14,Short Circuit
+20231,2024-10-02,Panel,Plant B,4,Short Circuit
+20232,2024-12-30,Compressor,Plant C,11,Electrical Fault
+20233,2024-06-26,Compressor,Plant B,16,Mechanical Failure
+20234,2024-12-09,Transformer,Plant C,23,Short Circuit
+20235,2024-02-16,Compressor,Plant A,2,Short Circuit
+20236,2024-07-18,Compressor,Plant A,2,Short Circuit
+20237,2024-02-20,Compressor,Plant B,9,Overheating
+20238,2024-10-21,Generator,Plant C,22,Electrical Fault
+20239,2024-09-26,Panel,Plant B,23,Overheating
+20240,2024-07-15,Panel,Plant B,21,Mechanical Failure
+20241,2024-01-21,Compressor,Plant C,21,Overheating
+20242,2024-05-22,Transformer,Plant B,4,Electrical Fault
+20243,2024-09-04,Compressor,Plant C,8,Overheating
+20244,2024-12-21,Transformer,Plant C,23,Mechanical Failure
+20245,2024-12-18,Panel,Plant B,18,Electrical Fault
+20246,2024-01-01,Transformer,Plant C,15,Electrical Fault
+20247,2024-12-30,Transformer,Plant A,2,Electrical Fault
+20248,2024-12-03,Motor,Plant A,22,Electrical Fault
+20249,2024-09-30,Transformer,Plant A,11,Mechanical Failure
+20250,2024-08-28,Transformer,Plant A,17,Electrical Fault
+20251,2024-02-27,Generator,Plant B,7,Mechanical Failure
+20252,2024-05-05,Panel,Plant A,8,Mechanical Failure
+20253,2024-11-24,Compressor,Plant A,10,Overheating
+20254,2024-12-31,Motor,Plant A,3,Overheating
+20255,2024-02-21,Transformer,Plant A,13,Electrical Fault
+20256,2024-08-10,Generator,Plant B,23,Short Circuit
+20257,2024-10-28,Generator,Plant A,17,Short Circuit
+20258,2024-12-28,Compressor,Plant C,13,Electrical Fault
+20259,2024-09-25,Compressor,Plant C,19,Mechanical Failure
+20260,2024-04-05,Panel,Plant B,22,Overheating
+20261,2024-09-29,Transformer,Plant B,9,Electrical Fault
+20262,2024-11-18,Generator,Plant B,21,Electrical Fault
+20263,2024-03-01,Motor,Plant A,16,Mechanical Failure
+20264,2024-11-16,Panel,Plant B,5,Overheating
+20265,2024-06-29,Transformer,Plant A,9,Short Circuit
+20266,2024-05-12,Compressor,Plant B,9,Short Circuit
+20267,2024-03-29,Transformer,Plant C,6,Electrical Fault
+20268,2024-06-21,Compressor,Plant C,21,Electrical Fault
+20269,2024-11-07,Transformer,Plant A,10,Electrical Fault
+20270,2024-01-05,Motor,Plant B,18,Electrical Fault
+20271,2024-12-22,Panel,Plant C,11,Electrical Fault
+20272,2024-12-08,Compressor,Plant A,15,Short Circuit
+20273,2024-07-22,Motor,Plant C,7,Electrical Fault
+20274,2024-06-10,Generator,Plant B,14,Overheating
+20275,2024-03-01,Motor,Plant A,8,Mechanical Failure
+20276,2024-07-08,Motor,Plant C,19,Short Circuit
+20277,2024-11-20,Motor,Plant B,15,Mechanical Failure
+20278,2024-03-03,Compressor,Plant A,19,Mechanical Failure
+20279,2024-02-13,Generator,Plant C,18,Electrical Fault
+20280,2024-08-26,Panel,Plant C,17,Mechanical Failure
+20281,2024-01-28,Motor,Plant A,3,Overheating
+20282,2024-07-16,Compressor,Plant B,3,Electrical Fault
+20283,2024-09-25,Compressor,Plant A,7,Short Circuit
+20284,2024-06-19,Panel,Plant C,10,Overheating
+20285,2024-01-30,Transformer,Plant C,17,Short Circuit
+20286,2024-06-02,Generator,Plant C,15,Electrical Fault
+20287,2024-07-27,Generator,Plant B,8,Electrical Fault
+20288,2024-03-03,Motor,Plant C,17,Short Circuit
+20289,2024-11-24,Transformer,Plant C,3,Mechanical Failure
+20290,2024-02-26,Generator,Plant A,4,Short Circuit
+20291,2024-11-15,Motor,Plant C,8,Overheating
+20292,2024-07-26,Transformer,Plant A,13,Mechanical Failure
+20293,2024-11-03,Compressor,Plant C,1,Electrical Fault
+20294,2024-03-03,Motor,Plant A,18,Overheating
+20295,2024-09-04,Transformer,Plant A,11,Overheating
+20296,2024-05-20,Panel,Plant A,21,Electrical Fault
+20297,2024-04-02,Generator,Plant A,6,Mechanical Failure
+20298,2024-04-16,Motor,Plant B,16,Electrical Fault
+20299,2024-12-30,Compressor,Plant C,21,Overheating
+20300,2024-03-28,Motor,Plant B,19,Overheating
+20301,2024-10-27,Generator,Plant C,23,Overheating
+20302,2024-04-17,Generator,Plant A,17,Electrical Fault
+20303,2024-02-15,Transformer,Plant C,18,Short Circuit
+20304,2024-03-17,Compressor,Plant A,11,Overheating
+20305,2024-08-04,Transformer,Plant C,14,Overheating
+20306,2024-06-17,Compressor,Plant A,12,Mechanical Failure
+20307,2024-10-28,Motor,Plant C,20,Short Circuit
+20308,2024-05-08,Motor,Plant C,7,Mechanical Failure
+20309,2024-07-19,Transformer,Plant C,17,Overheating
+20310,2024-07-14,Panel,Plant A,5,Short Circuit
+20311,2024-12-13,Generator,Plant C,22,Mechanical Failure
+20312,2024-09-24,Transformer,Plant A,14,Electrical Fault
+20313,2024-03-28,Transformer,Plant B,13,Mechanical Failure
+20314,2024-09-09,Motor,Plant C,12,Short Circuit
+20315,2024-08-25,Generator,Plant A,14,Mechanical Failure
+20316,2024-03-13,Transformer,Plant A,9,Short Circuit
+20317,2024-12-23,Motor,Plant A,4,Short Circuit
+20318,2024-12-20,Motor,Plant B,22,Mechanical Failure
+20319,2024-06-09,Transformer,Plant A,19,Mechanical Failure
+20320,2024-02-27,Transformer,Plant B,1,Electrical Fault
+20321,2024-10-17,Motor,Plant B,13,Mechanical Failure
+20322,2024-12-05,Transformer,Plant A,6,Short Circuit
+20323,2024-03-06,Generator,Plant C,1,Overheating
+20324,2024-01-26,Motor,Plant B,22,Mechanical Failure
+20325,2024-10-24,Motor,Plant A,17,Mechanical Failure
+20326,2024-03-17,Transformer,Plant B,3,Short Circuit
+20327,2024-10-12,Transformer,Plant A,17,Overheating
+20328,2024-02-05,Transformer,Plant A,2,Electrical Fault
+20329,2024-01-19,Generator,Plant B,22,Overheating
+20330,2024-10-04,Motor,Plant A,7,Short Circuit
+20331,2024-11-16,Panel,Plant B,1,Short Circuit
+20332,2024-11-08,Generator,Plant A,21,Short Circuit
+20333,2024-09-23,Generator,Plant C,22,Short Circuit
+20334,2024-10-08,Motor,Plant C,15,Overheating
+20335,2024-01-19,Panel,Plant B,4,Overheating
+20336,2024-12-04,Motor,Plant B,6,Overheating
+20337,2024-05-19,Generator,Plant B,21,Mechanical Failure
+20338,2024-03-07,Transformer,Plant B,13,Short Circuit
+20339,2024-11-07,Motor,Plant C,23,Mechanical Failure
+20340,2024-01-18,Motor,Plant B,13,Mechanical Failure
+20341,2024-09-17,Transformer,Plant A,20,Mechanical Failure
+20342,2024-04-21,Panel,Plant A,1,Electrical Fault
+20343,2024-04-24,Panel,Plant B,2,Mechanical Failure
+20344,2024-06-14,Motor,Plant A,6,Short Circuit
+20345,2024-03-07,Transformer,Plant B,11,Mechanical Failure
+20346,2024-09-11,Motor,Plant A,18,Short Circuit
+20347,2024-03-10,Transformer,Plant A,13,Electrical Fault
+20348,2024-11-03,Generator,Plant B,21,Overheating
+20349,2024-07-21,Transformer,Plant B,12,Short Circuit
+20350,2024-05-06,Motor,Plant C,20,Mechanical Failure
+20351,2024-11-16,Compressor,Plant B,7,Short Circuit
+20352,2024-03-20,Panel,Plant C,20,Mechanical Failure
+20353,2024-06-24,Motor,Plant B,7,Overheating
+20354,2024-04-22,Transformer,Plant A,7,Short Circuit
+20355,2024-04-20,Transformer,Plant C,2,Mechanical Failure
+20356,2024-11-04,Panel,Plant A,11,Short Circuit
+20357,2024-05-16,Motor,Plant B,1,Overheating
+20358,2024-05-12,Compressor,Plant B,21,Overheating
+20359,2024-11-23,Generator,Plant B,13,Overheating
+20360,2024-07-07,Compressor,Plant B,12,Short Circuit
+20361,2024-10-03,Generator,Plant C,13,Short Circuit
+20362,2024-08-12,Generator,Plant C,7,Mechanical Failure
+20363,2024-04-12,Motor,Plant B,12,Overheating
+20364,2024-04-16,Generator,Plant A,17,Mechanical Failure
+20365,2024-03-03,Transformer,Plant C,8,Short Circuit
+20366,2024-09-01,Generator,Plant A,3,Electrical Fault
+20367,2024-06-21,Generator,Plant B,7,Overheating
+20368,2024-11-28,Panel,Plant C,19,Mechanical Failure
+20369,2024-11-26,Panel,Plant C,20,Overheating
+20370,2024-07-28,Motor,Plant C,8,Mechanical Failure
+20371,2024-07-09,Motor,Plant A,14,Mechanical Failure
+20372,2024-06-06,Transformer,Plant B,14,Electrical Fault
+20373,2024-11-14,Panel,Plant B,2,Short Circuit
+20374,2024-08-12,Compressor,Plant C,6,Overheating
+20375,2024-06-20,Motor,Plant C,16,Short Circuit
+20376,2024-11-18,Motor,Plant B,9,Mechanical Failure
+20377,2024-02-05,Panel,Plant A,21,Short Circuit
+20378,2024-05-13,Panel,Plant C,15,Electrical Fault
+20379,2024-02-06,Transformer,Plant A,19,Short Circuit
+20380,2024-04-02,Panel,Plant A,15,Mechanical Failure
+20381,2024-03-15,Generator,Plant B,22,Mechanical Failure
+20382,2024-08-31,Compressor,Plant B,12,Electrical Fault
+20383,2024-07-01,Generator,Plant A,9,Overheating
+20384,2024-07-23,Generator,Plant A,16,Electrical Fault
+20385,2024-07-05,Generator,Plant B,6,Overheating
+20386,2024-06-14,Motor,Plant C,20,Mechanical Failure
+20387,2024-04-24,Generator,Plant A,15,Short Circuit
+20388,2024-07-25,Motor,Plant C,13,Mechanical Failure
+20389,2024-09-01,Panel,Plant A,21,Electrical Fault
+20390,2024-11-28,Compressor,Plant B,23,Electrical Fault
+20391,2024-06-09,Compressor,Plant C,10,Short Circuit
+20392,2024-01-13,Generator,Plant B,14,Electrical Fault
+20393,2024-10-20,Compressor,Plant A,3,Mechanical Failure
+20394,2024-08-23,Motor,Plant B,12,Short Circuit
+20395,2024-09-29,Panel,Plant C,1,Overheating
+20396,2024-04-23,Generator,Plant B,21,Electrical Fault
+20397,2024-05-31,Transformer,Plant C,16,Overheating
+20398,2024-01-26,Compressor,Plant B,10,Short Circuit
+20399,2024-06-16,Compressor,Plant B,9,Electrical Fault
+20400,2024-02-01,Generator,Plant C,18,Short Circuit
+20401,2024-08-08,Compressor,Plant C,1,Electrical Fault
+20402,2024-07-24,Compressor,Plant C,10,Electrical Fault
+20403,2024-12-07,Transformer,Plant A,7,Electrical Fault
+20404,2024-04-07,Motor,Plant B,10,Short Circuit
+20405,2024-03-31,Generator,Plant C,12,Short Circuit
+20406,2024-08-01,Generator,Plant A,11,Mechanical Failure
+20407,2024-07-06,Transformer,Plant A,9,Mechanical Failure
+20408,2024-02-26,Transformer,Plant C,5,Short Circuit
+20409,2024-04-16,Motor,Plant C,4,Short Circuit
+20410,2024-07-13,Panel,Plant C,20,Electrical Fault
+20411,2024-01-22,Generator,Plant A,13,Mechanical Failure
+20412,2024-07-04,Compressor,Plant A,8,Mechanical Failure
+20413,2024-03-25,Motor,Plant B,16,Short Circuit
+20414,2024-03-20,Generator,Plant A,1,Mechanical Failure
+20415,2024-11-24,Motor,Plant C,17,Short Circuit
+20416,2024-03-17,Panel,Plant B,15,Mechanical Failure
+20417,2024-11-25,Generator,Plant B,15,Overheating
+20418,2024-12-06,Compressor,Plant B,18,Overheating
+20419,2024-06-25,Generator,Plant B,6,Mechanical Failure
+20420,2024-06-22,Motor,Plant C,2,Short Circuit
+20421,2024-03-22,Panel,Plant B,5,Overheating
+20422,2024-01-21,Motor,Plant C,19,Electrical Fault
+20423,2024-06-27,Motor,Plant A,7,Short Circuit
+20424,2024-11-25,Transformer,Plant C,9,Overheating
+20425,2024-08-12,Motor,Plant B,2,Electrical Fault
+20426,2024-09-21,Panel,Plant A,7,Overheating
+20427,2024-09-25,Compressor,Plant A,14,Overheating
+20428,2024-09-07,Transformer,Plant A,23,Electrical Fault
+20429,2024-09-29,Motor,Plant B,15,Electrical Fault
+20430,2024-12-08,Generator,Plant C,12,Mechanical Failure
+20431,2024-09-28,Transformer,Plant C,20,Overheating
+20432,2024-10-06,Panel,Plant B,4,Electrical Fault
+20433,2024-08-10,Generator,Plant B,13,Mechanical Failure
+20434,2024-03-15,Panel,Plant A,9,Electrical Fault
+20435,2024-05-30,Generator,Plant C,12,Mechanical Failure
+20436,2024-12-24,Compressor,Plant B,10,Mechanical Failure
+20437,2024-12-07,Panel,Plant B,9,Electrical Fault
+20438,2024-04-14,Generator,Plant C,21,Electrical Fault
+20439,2024-02-11,Panel,Plant A,23,Overheating
+20440,2024-06-24,Transformer,Plant A,7,Overheating
+20441,2024-09-01,Panel,Plant A,12,Mechanical Failure
+20442,2024-09-09,Panel,Plant C,16,Electrical Fault
+20443,2024-09-30,Generator,Plant B,15,Overheating
+20444,2024-11-29,Panel,Plant B,7,Mechanical Failure
+20445,2024-04-01,Compressor,Plant B,8,Overheating
+20446,2024-01-11,Motor,Plant B,7,Mechanical Failure
+20447,2024-05-31,Transformer,Plant C,11,Overheating
+20448,2024-07-07,Generator,Plant A,4,Electrical Fault
+20449,2024-06-12,Panel,Plant A,18,Short Circuit
+20450,2024-05-05,Panel,Plant A,19,Short Circuit
+20451,2024-07-29,Panel,Plant A,7,Mechanical Failure
+20452,2024-04-06,Transformer,Plant B,13,Short Circuit
+20453,2024-11-04,Motor,Plant B,9,Short Circuit
+20454,2024-12-04,Compressor,Plant C,18,Mechanical Failure
+20455,2024-02-16,Compressor,Plant A,7,Short Circuit
+20456,2024-11-03,Generator,Plant B,20,Overheating
+20457,2024-08-11,Motor,Plant B,16,Overheating
+20458,2024-02-26,Motor,Plant B,23,Overheating
+20459,2024-03-15,Transformer,Plant A,5,Electrical Fault
+20460,2024-09-10,Panel,Plant B,7,Overheating
+20461,2024-05-30,Motor,Plant A,6,Short Circuit
+20462,2024-02-28,Panel,Plant A,2,Short Circuit
+20463,2024-11-20,Transformer,Plant C,7,Overheating
+20464,2024-03-26,Generator,Plant C,21,Electrical Fault
+20465,2024-06-18,Generator,Plant A,9,Overheating
+20466,2024-05-25,Panel,Plant A,13,Electrical Fault
+20467,2024-11-22,Panel,Plant A,17,Electrical Fault
+20468,2024-02-02,Motor,Plant B,17,Overheating
+20469,2024-01-03,Transformer,Plant B,15,Electrical Fault
+20470,2024-10-10,Generator,Plant B,18,Short Circuit
+20471,2024-09-13,Motor,Plant C,15,Overheating
+20472,2024-05-05,Compressor,Plant A,11,Short Circuit
+20473,2024-04-22,Motor,Plant B,12,Electrical Fault
+20474,2024-10-29,Panel,Plant B,23,Mechanical Failure
+20475,2024-10-19,Compressor,Plant C,17,Overheating
+20476,2024-12-07,Motor,Plant C,12,Mechanical Failure
+20477,2024-02-17,Transformer,Plant A,7,Mechanical Failure
+20478,2024-12-29,Generator,Plant A,7,Mechanical Failure
+20479,2024-10-01,Compressor,Plant B,21,Mechanical Failure
+20480,2024-07-13,Transformer,Plant B,23,Short Circuit
+20481,2024-12-04,Motor,Plant B,10,Overheating
+20482,2024-08-12,Panel,Plant B,16,Short Circuit
+20483,2024-07-31,Panel,Plant B,11,Electrical Fault
+20484,2024-11-16,Transformer,Plant C,16,Overheating
+20485,2024-10-08,Panel,Plant A,2,Overheating
+20486,2024-05-17,Generator,Plant C,2,Short Circuit
+20487,2024-12-20,Transformer,Plant A,18,Electrical Fault
+20488,2024-11-28,Transformer,Plant A,5,Mechanical Failure
+20489,2024-03-10,Panel,Plant A,14,Electrical Fault
+20490,2024-10-25,Transformer,Plant C,8,Short Circuit
+20491,2024-03-10,Motor,Plant B,6,Short Circuit
+20492,2024-07-26,Compressor,Plant A,9,Short Circuit
+20493,2024-07-18,Compressor,Plant A,6,Mechanical Failure
+20494,2024-02-28,Panel,Plant C,21,Overheating
+20495,2024-09-15,Generator,Plant C,17,Electrical Fault
+20496,2024-12-06,Generator,Plant B,8,Electrical Fault
+20497,2024-12-16,Panel,Plant B,3,Mechanical Failure
+20498,2024-11-29,Panel,Plant A,12,Short Circuit
+20499,2024-12-22,Transformer,Plant C,13,Electrical Fault
+20500,2024-12-04,Generator,Plant B,18,Overheating
+20501,2024-06-13,Compressor,Plant B,23,Electrical Fault
+20502,2024-09-01,Panel,Plant B,11,Short Circuit
+20503,2024-03-24,Compressor,Plant C,2,Electrical Fault
+20504,2024-11-04,Compressor,Plant C,14,Short Circuit
+20505,2024-04-23,Generator,Plant C,1,Overheating
+20506,2024-08-21,Compressor,Plant C,15,Mechanical Failure
+20507,2024-09-18,Transformer,Plant C,18,Short Circuit
+20508,2024-06-20,Transformer,Plant A,22,Short Circuit
+20509,2024-01-18,Generator,Plant A,18,Electrical Fault
+20510,2024-08-22,Transformer,Plant C,17,Mechanical Failure
+20511,2024-11-05,Panel,Plant A,1,Short Circuit
+20512,2024-06-05,Generator,Plant C,14,Electrical Fault
+20513,2024-07-29,Compressor,Plant A,20,Overheating
+20514,2024-10-07,Panel,Plant A,22,Mechanical Failure
+20515,2024-11-14,Generator,Plant B,16,Electrical Fault
+20516,2024-07-14,Compressor,Plant C,4,Mechanical Failure
+20517,2024-04-24,Compressor,Plant A,22,Short Circuit
+20518,2024-06-08,Compressor,Plant A,6,Electrical Fault
+20519,2024-06-03,Compressor,Plant B,16,Overheating
+20520,2024-02-20,Compressor,Plant A,20,Overheating
+20521,2024-10-10,Generator,Plant B,6,Electrical Fault
+20522,2024-03-13,Transformer,Plant A,15,Electrical Fault
+20523,2024-11-23,Compressor,Plant B,1,Mechanical Failure
+20524,2024-12-06,Panel,Plant B,7,Electrical Fault
+20525,2024-04-19,Generator,Plant C,23,Mechanical Failure
+20526,2024-10-12,Motor,Plant C,11,Short Circuit
+20527,2024-08-08,Transformer,Plant A,1,Electrical Fault
+20528,2024-01-09,Panel,Plant C,8,Short Circuit
+20529,2024-03-22,Compressor,Plant C,14,Overheating
+20530,2024-11-15,Generator,Plant C,5,Mechanical Failure
+20531,2024-10-20,Generator,Plant A,13,Mechanical Failure
+20532,2024-01-22,Compressor,Plant A,15,Overheating
+20533,2024-04-08,Panel,Plant C,9,Short Circuit
+20534,2024-06-18,Generator,Plant C,8,Mechanical Failure
+20535,2024-07-08,Transformer,Plant A,19,Overheating
+20536,2024-04-15,Panel,Plant C,17,Overheating
+20537,2024-11-15,Compressor,Plant B,19,Overheating
+20538,2024-09-21,Panel,Plant A,18,Electrical Fault
+20539,2024-12-16,Panel,Plant A,18,Short Circuit
+20540,2024-06-16,Motor,Plant B,4,Overheating
+20541,2024-12-09,Compressor,Plant C,2,Short Circuit
+20542,2024-04-22,Transformer,Plant B,5,Mechanical Failure
+20543,2024-11-23,Compressor,Plant C,17,Electrical Fault
+20544,2024-11-01,Motor,Plant C,22,Overheating
+20545,2024-05-27,Compressor,Plant A,7,Overheating
+20546,2024-12-02,Compressor,Plant A,16,Overheating
+20547,2024-08-07,Transformer,Plant C,1,Mechanical Failure
+20548,2024-02-02,Motor,Plant B,12,Electrical Fault
+20549,2024-08-07,Compressor,Plant A,19,Short Circuit
+20550,2024-11-14,Compressor,Plant C,9,Short Circuit
+20551,2024-07-03,Generator,Plant A,16,Short Circuit
+20552,2024-07-11,Compressor,Plant A,7,Short Circuit
+20553,2024-12-26,Transformer,Plant A,15,Short Circuit
+20554,2024-06-28,Generator,Plant B,12,Short Circuit
+20555,2024-12-20,Motor,Plant B,4,Short Circuit
+20556,2024-01-06,Panel,Plant C,6,Electrical Fault
+20557,2024-01-09,Transformer,Plant B,6,Electrical Fault
+20558,2024-12-22,Motor,Plant C,15,Mechanical Failure
+20559,2024-03-01,Generator,Plant C,3,Overheating
+20560,2024-06-11,Panel,Plant A,2,Electrical Fault
+20561,2024-04-08,Motor,Plant A,5,Overheating
+20562,2024-05-27,Transformer,Plant B,8,Mechanical Failure
+20563,2024-02-27,Generator,Plant C,19,Electrical Fault
+20564,2024-08-02,Transformer,Plant C,21,Mechanical Failure
+20565,2024-11-11,Transformer,Plant A,16,Electrical Fault
+20566,2024-06-30,Generator,Plant A,19,Electrical Fault
+20567,2024-02-04,Compressor,Plant A,23,Short Circuit
+20568,2024-10-29,Transformer,Plant B,16,Overheating
+20569,2024-02-15,Generator,Plant C,6,Mechanical Failure
+20570,2024-03-27,Transformer,Plant C,22,Short Circuit
+20571,2024-01-04,Compressor,Plant C,1,Electrical Fault
+20572,2024-09-22,Generator,Plant A,18,Electrical Fault
+20573,2024-04-16,Motor,Plant B,22,Mechanical Failure
+20574,2024-03-15,Motor,Plant B,8,Overheating
+20575,2024-02-09,Motor,Plant A,5,Mechanical Failure
+20576,2024-05-06,Panel,Plant B,12,Electrical Fault
+20577,2024-07-01,Transformer,Plant B,18,Short Circuit
+20578,2024-04-28,Transformer,Plant C,5,Mechanical Failure
+20579,2024-03-13,Generator,Plant A,22,Short Circuit
+20580,2024-02-09,Panel,Plant A,13,Overheating
+20581,2024-07-22,Transformer,Plant A,21,Overheating
+20582,2024-04-05,Generator,Plant A,22,Short Circuit
+20583,2024-10-05,Compressor,Plant C,12,Overheating
+20584,2024-05-22,Transformer,Plant B,16,Short Circuit
+20585,2024-04-24,Transformer,Plant B,14,Short Circuit
+20586,2024-05-12,Compressor,Plant C,11,Short Circuit
+20587,2024-06-16,Compressor,Plant B,9,Overheating
+20588,2024-09-01,Transformer,Plant A,23,Short Circuit
+20589,2024-10-03,Compressor,Plant C,10,Overheating
+20590,2024-09-15,Generator,Plant C,16,Short Circuit
+20591,2024-02-15,Transformer,Plant A,19,Short Circuit
+20592,2024-12-11,Transformer,Plant A,10,Overheating
+20593,2024-11-30,Motor,Plant A,21,Short Circuit
+20594,2024-08-24,Transformer,Plant B,4,Short Circuit
+20595,2024-02-22,Motor,Plant A,21,Overheating
+20596,2024-05-27,Compressor,Plant C,8,Electrical Fault
+20597,2024-07-05,Compressor,Plant B,11,Mechanical Failure
+20598,2024-01-21,Generator,Plant B,6,Overheating
+20599,2024-03-30,Motor,Plant C,4,Short Circuit
+20600,2024-08-20,Transformer,Plant B,21,Mechanical Failure
+20601,2024-08-02,Motor,Plant A,23,Mechanical Failure
+20602,2024-02-20,Compressor,Plant A,5,Short Circuit
+20603,2024-06-01,Compressor,Plant A,18,Short Circuit
+20604,2024-11-19,Generator,Plant A,22,Electrical Fault
+20605,2024-04-25,Compressor,Plant B,3,Short Circuit
+20606,2024-08-01,Motor,Plant C,7,Mechanical Failure
+20607,2024-12-04,Transformer,Plant B,22,Short Circuit
+20608,2024-12-16,Transformer,Plant C,12,Mechanical Failure
+20609,2024-05-16,Motor,Plant C,3,Overheating
+20610,2024-10-11,Generator,Plant A,17,Overheating
+20611,2024-12-31,Transformer,Plant B,3,Mechanical Failure
+20612,2024-03-11,Motor,Plant A,11,Overheating
+20613,2024-09-01,Motor,Plant B,6,Electrical Fault
+20614,2024-02-07,Compressor,Plant B,11,Mechanical Failure
+20615,2024-08-03,Compressor,Plant A,4,Mechanical Failure
+20616,2024-05-06,Generator,Plant B,17,Short Circuit
+20617,2024-03-12,Generator,Plant A,22,Electrical Fault
+20618,2024-08-13,Generator,Plant C,1,Short Circuit
+20619,2024-11-10,Motor,Plant A,12,Electrical Fault
+20620,2024-10-10,Motor,Plant B,3,Electrical Fault
+20621,2024-10-28,Compressor,Plant B,16,Electrical Fault
+20622,2024-09-02,Transformer,Plant C,3,Mechanical Failure
+20623,2024-03-11,Generator,Plant C,14,Overheating
+20624,2024-07-13,Panel,Plant C,17,Overheating
+20625,2024-02-07,Generator,Plant A,19,Short Circuit
+20626,2024-04-26,Compressor,Plant A,7,Short Circuit
+20627,2024-08-25,Motor,Plant B,11,Overheating
+20628,2024-12-29,Compressor,Plant C,16,Overheating
+20629,2024-07-22,Compressor,Plant C,19,Electrical Fault
+20630,2024-12-16,Compressor,Plant A,5,Short Circuit
+20631,2024-11-14,Panel,Plant B,1,Short Circuit
+20632,2024-12-24,Panel,Plant C,10,Short Circuit
+20633,2024-01-05,Generator,Plant A,18,Short Circuit
+20634,2024-06-05,Motor,Plant A,10,Overheating
+20635,2024-04-16,Compressor,Plant C,1,Overheating
+20636,2024-08-15,Transformer,Plant C,13,Mechanical Failure
+20637,2024-05-21,Generator,Plant B,4,Mechanical Failure
+20638,2024-11-09,Generator,Plant C,12,Overheating
+20639,2024-06-20,Compressor,Plant A,16,Electrical Fault
+20640,2024-05-25,Generator,Plant C,19,Overheating
+20641,2024-01-07,Compressor,Plant C,12,Electrical Fault
+20642,2024-12-08,Generator,Plant B,6,Short Circuit
+20643,2024-12-18,Motor,Plant A,16,Mechanical Failure
+20644,2024-10-27,Generator,Plant C,12,Electrical Fault
+20645,2024-01-16,Generator,Plant A,10,Short Circuit
+20646,2024-11-15,Transformer,Plant B,5,Overheating
+20647,2024-02-06,Motor,Plant A,19,Mechanical Failure
+20648,2024-06-01,Motor,Plant C,12,Overheating
+20649,2024-09-21,Motor,Plant C,8,Short Circuit
+20650,2024-07-01,Generator,Plant B,4,Short Circuit
+20651,2024-06-04,Panel,Plant B,7,Overheating
+20652,2024-05-16,Generator,Plant B,23,Short Circuit
+20653,2024-03-30,Compressor,Plant A,5,Short Circuit
+20654,2024-08-05,Transformer,Plant A,11,Electrical Fault
+20655,2024-11-25,Motor,Plant A,17,Overheating
+20656,2024-07-04,Compressor,Plant A,21,Overheating
+20657,2024-07-27,Compressor,Plant B,3,Mechanical Failure
+20658,2024-02-20,Panel,Plant A,2,Electrical Fault
+20659,2024-10-14,Motor,Plant A,19,Electrical Fault
+20660,2024-03-28,Generator,Plant A,2,Short Circuit
+20661,2024-05-15,Motor,Plant A,14,Mechanical Failure
+20662,2024-06-06,Transformer,Plant B,1,Mechanical Failure
+20663,2024-10-08,Motor,Plant B,16,Electrical Fault
+20664,2024-06-03,Compressor,Plant C,15,Mechanical Failure
+20665,2024-08-07,Compressor,Plant C,18,Electrical Fault
+20666,2024-06-15,Generator,Plant A,2,Mechanical Failure
+20667,2024-11-17,Generator,Plant A,11,Electrical Fault
+20668,2024-06-27,Generator,Plant B,21,Electrical Fault
+20669,2024-11-24,Transformer,Plant C,17,Short Circuit
+20670,2024-02-19,Motor,Plant A,13,Short Circuit
+20671,2024-10-27,Panel,Plant C,12,Mechanical Failure
+20672,2024-03-27,Motor,Plant C,2,Short Circuit
+20673,2024-02-02,Generator,Plant C,22,Overheating
+20674,2024-10-01,Transformer,Plant B,21,Overheating
+20675,2024-05-20,Motor,Plant A,18,Mechanical Failure
+20676,2024-07-24,Compressor,Plant A,10,Electrical Fault
+20677,2024-08-11,Motor,Plant B,12,Short Circuit
+20678,2024-04-22,Compressor,Plant B,17,Mechanical Failure
+20679,2024-10-04,Motor,Plant B,22,Overheating
+20680,2024-12-18,Motor,Plant C,14,Electrical Fault
+20681,2024-01-05,Motor,Plant C,22,Short Circuit
+20682,2024-07-30,Generator,Plant A,19,Electrical Fault
+20683,2024-09-12,Compressor,Plant A,13,Electrical Fault
+20684,2024-11-29,Transformer,Plant C,3,Short Circuit
+20685,2024-01-30,Panel,Plant C,8,Short Circuit
+20686,2024-12-12,Compressor,Plant B,5,Overheating
+20687,2024-03-22,Generator,Plant C,22,Overheating
+20688,2024-08-23,Compressor,Plant A,12,Electrical Fault
+20689,2024-12-09,Transformer,Plant A,1,Electrical Fault
+20690,2024-12-26,Compressor,Plant B,21,Overheating
+20691,2024-11-18,Generator,Plant B,16,Overheating
+20692,2024-09-09,Generator,Plant A,12,Electrical Fault
+20693,2024-04-27,Panel,Plant C,23,Mechanical Failure
+20694,2024-01-30,Transformer,Plant C,17,Mechanical Failure
+20695,2024-04-20,Panel,Plant A,9,Mechanical Failure
+20696,2024-09-10,Motor,Plant C,13,Short Circuit
+20697,2024-07-17,Generator,Plant C,23,Overheating
+20698,2024-10-21,Panel,Plant A,4,Mechanical Failure
+20699,2024-12-07,Generator,Plant A,4,Mechanical Failure
+20700,2024-10-23,Generator,Plant B,15,Overheating
+20701,2024-10-13,Motor,Plant A,10,Short Circuit
+20702,2024-08-31,Generator,Plant B,23,Mechanical Failure
+20703,2024-08-08,Panel,Plant B,6,Short Circuit
+20704,2024-06-04,Transformer,Plant C,3,Short Circuit
+20705,2024-08-23,Compressor,Plant A,15,Electrical Fault
+20706,2024-11-15,Panel,Plant C,6,Overheating
+20707,2024-01-19,Motor,Plant A,11,Electrical Fault
+20708,2024-08-02,Compressor,Plant A,2,Mechanical Failure
+20709,2024-04-23,Generator,Plant C,2,Electrical Fault
+20710,2024-07-18,Panel,Plant B,1,Overheating
+20711,2024-01-25,Compressor,Plant A,11,Short Circuit
+20712,2024-04-30,Panel,Plant B,5,Short Circuit
+20713,2024-08-17,Generator,Plant C,6,Mechanical Failure
+20714,2024-04-08,Panel,Plant C,3,Overheating
+20715,2024-12-11,Motor,Plant A,20,Short Circuit
+20716,2024-01-03,Compressor,Plant C,5,Mechanical Failure
+20717,2024-09-17,Compressor,Plant A,20,Overheating
+20718,2024-09-10,Compressor,Plant A,9,Overheating
+20719,2024-01-20,Panel,Plant A,19,Electrical Fault
+20720,2024-07-22,Generator,Plant A,5,Short Circuit
+20721,2024-10-20,Panel,Plant A,23,Overheating
+20722,2024-12-22,Panel,Plant C,12,Short Circuit
+20723,2024-05-07,Compressor,Plant A,12,Short Circuit
+20724,2024-12-23,Generator,Plant B,16,Overheating
+20725,2024-10-18,Transformer,Plant A,7,Short Circuit
+20726,2024-06-22,Generator,Plant A,14,Electrical Fault
+20727,2024-08-08,Panel,Plant A,22,Mechanical Failure
+20728,2024-12-20,Motor,Plant C,9,Mechanical Failure
+20729,2024-02-06,Generator,Plant B,15,Overheating
+20730,2024-11-05,Compressor,Plant B,23,Electrical Fault
+20731,2024-05-28,Motor,Plant B,11,Mechanical Failure
+20732,2024-04-01,Transformer,Plant C,4,Electrical Fault
+20733,2024-03-10,Transformer,Plant C,11,Overheating
+20734,2024-03-24,Motor,Plant A,9,Electrical Fault
+20735,2024-07-23,Transformer,Plant C,6,Overheating
+20736,2024-09-23,Motor,Plant B,17,Mechanical Failure
+20737,2024-03-28,Panel,Plant B,9,Mechanical Failure
+20738,2024-09-08,Motor,Plant C,23,Mechanical Failure
+20739,2024-07-29,Panel,Plant C,6,Mechanical Failure
+20740,2024-12-08,Compressor,Plant B,6,Short Circuit
+20741,2024-01-31,Compressor,Plant B,4,Electrical Fault
+20742,2024-12-22,Transformer,Plant B,20,Electrical Fault
+20743,2024-11-11,Motor,Plant B,11,Electrical Fault
+20744,2024-03-01,Panel,Plant B,3,Overheating
+20745,2024-03-07,Compressor,Plant C,18,Mechanical Failure
+20746,2024-08-13,Compressor,Plant C,16,Mechanical Failure
+20747,2024-11-30,Compressor,Plant A,21,Short Circuit
+20748,2024-11-22,Transformer,Plant A,16,Short Circuit
+20749,2024-03-07,Compressor,Plant A,12,Mechanical Failure
+20750,2024-05-07,Generator,Plant C,14,Electrical Fault
+20751,2024-04-20,Transformer,Plant A,9,Electrical Fault
+20752,2024-09-28,Motor,Plant A,7,Mechanical Failure
+20753,2024-10-27,Generator,Plant C,14,Overheating
+20754,2024-02-03,Transformer,Plant B,20,Electrical Fault
+20755,2024-07-30,Transformer,Plant C,20,Mechanical Failure
+20756,2024-10-26,Panel,Plant C,10,Mechanical Failure
+20757,2024-05-04,Generator,Plant B,11,Short Circuit
+20758,2024-04-12,Generator,Plant A,7,Short Circuit
+20759,2024-07-24,Generator,Plant C,19,Mechanical Failure
+20760,2024-04-29,Compressor,Plant C,19,Overheating
+20761,2024-06-18,Compressor,Plant B,21,Mechanical Failure
+20762,2024-02-04,Motor,Plant C,11,Electrical Fault
+20763,2024-11-26,Motor,Plant A,6,Overheating
+20764,2024-09-02,Motor,Plant B,8,Overheating
+20765,2024-12-05,Compressor,Plant C,1,Short Circuit
+20766,2024-11-04,Panel,Plant A,23,Mechanical Failure
+20767,2024-02-27,Motor,Plant A,8,Short Circuit
+20768,2024-11-01,Transformer,Plant C,5,Electrical Fault
+20769,2024-05-20,Compressor,Plant A,10,Short Circuit
+20770,2024-04-20,Panel,Plant B,2,Electrical Fault
+20771,2024-06-11,Transformer,Plant A,4,Mechanical Failure
+20772,2024-04-20,Transformer,Plant B,22,Mechanical Failure
+20773,2024-05-31,Compressor,Plant B,2,Short Circuit
+20774,2024-03-05,Generator,Plant B,15,Short Circuit
+20775,2024-04-15,Panel,Plant C,20,Short Circuit
+20776,2024-08-03,Compressor,Plant A,10,Electrical Fault
+20777,2024-03-31,Generator,Plant C,21,Overheating
+20778,2024-01-26,Compressor,Plant C,2,Overheating
+20779,2024-06-05,Compressor,Plant B,6,Short Circuit
+20780,2024-03-12,Transformer,Plant C,22,Short Circuit
+20781,2024-02-13,Compressor,Plant A,14,Mechanical Failure
+20782,2024-03-30,Generator,Plant C,5,Short Circuit
+20783,2024-05-12,Transformer,Plant C,2,Mechanical Failure
+20784,2024-06-09,Generator,Plant B,14,Electrical Fault
+20785,2024-08-19,Generator,Plant B,13,Electrical Fault
+20786,2024-09-17,Transformer,Plant C,2,Electrical Fault
+20787,2024-04-20,Generator,Plant B,23,Electrical Fault
+20788,2024-06-12,Motor,Plant C,9,Short Circuit
+20789,2024-03-17,Compressor,Plant A,3,Short Circuit
+20790,2024-07-27,Transformer,Plant A,15,Mechanical Failure
+20791,2024-01-13,Transformer,Plant B,23,Short Circuit
+20792,2024-02-27,Motor,Plant A,3,Mechanical Failure
+20793,2024-12-09,Motor,Plant A,12,Electrical Fault
+20794,2024-02-05,Motor,Plant C,6,Mechanical Failure
+20795,2024-01-25,Motor,Plant B,19,Mechanical Failure
+20796,2024-02-03,Panel,Plant A,17,Short Circuit
+20797,2024-05-19,Transformer,Plant B,6,Electrical Fault
+20798,2024-10-01,Generator,Plant B,19,Overheating
+20799,2024-12-27,Transformer,Plant B,17,Short Circuit
+20800,2024-08-09,Transformer,Plant A,16,Short Circuit
+20801,2024-02-06,Transformer,Plant B,21,Overheating
+20802,2024-12-28,Motor,Plant B,8,Electrical Fault
+20803,2024-05-08,Motor,Plant C,19,Overheating
+20804,2024-11-11,Panel,Plant C,8,Mechanical Failure
+20805,2024-11-18,Transformer,Plant C,20,Overheating
+20806,2024-08-05,Compressor,Plant C,15,Electrical Fault
+20807,2024-11-30,Panel,Plant B,8,Electrical Fault
+20808,2024-09-04,Motor,Plant C,3,Overheating
+20809,2024-04-20,Transformer,Plant C,16,Short Circuit
+20810,2024-10-30,Motor,Plant A,3,Overheating
+20811,2024-08-07,Generator,Plant C,1,Mechanical Failure
+20812,2024-07-14,Motor,Plant C,8,Overheating
+20813,2024-05-26,Motor,Plant A,9,Overheating
+20814,2024-12-09,Panel,Plant B,22,Overheating
+20815,2024-02-09,Generator,Plant B,12,Mechanical Failure
+20816,2024-05-13,Compressor,Plant A,18,Overheating
+20817,2024-12-17,Compressor,Plant A,17,Short Circuit
+20818,2024-07-09,Compressor,Plant B,8,Mechanical Failure
+20819,2024-06-11,Transformer,Plant C,20,Short Circuit
+20820,2024-03-01,Compressor,Plant A,11,Mechanical Failure
+20821,2024-01-05,Transformer,Plant A,7,Electrical Fault
+20822,2024-02-06,Motor,Plant A,14,Electrical Fault
+20823,2024-08-04,Compressor,Plant B,10,Mechanical Failure
+20824,2024-08-12,Panel,Plant B,15,Mechanical Failure
+20825,2024-08-03,Generator,Plant B,12,Mechanical Failure
+20826,2024-05-18,Generator,Plant B,20,Electrical Fault
+20827,2024-04-15,Motor,Plant B,17,Mechanical Failure
+20828,2024-04-08,Generator,Plant C,8,Electrical Fault
+20829,2024-06-16,Generator,Plant C,14,Electrical Fault
+20830,2024-09-20,Motor,Plant B,15,Mechanical Failure
+20831,2024-03-27,Motor,Plant B,11,Mechanical Failure
+20832,2024-03-24,Motor,Plant B,12,Mechanical Failure
+20833,2024-08-11,Panel,Plant A,20,Electrical Fault
+20834,2024-01-11,Motor,Plant A,16,Overheating
+20835,2024-11-22,Motor,Plant B,20,Mechanical Failure
+20836,2024-07-04,Motor,Plant B,18,Overheating
+20837,2024-12-15,Compressor,Plant A,10,Overheating
+20838,2024-08-18,Compressor,Plant A,19,Overheating
+20839,2024-05-20,Panel,Plant A,18,Short Circuit
+20840,2024-04-15,Panel,Plant A,1,Overheating
+20841,2024-09-09,Generator,Plant A,22,Overheating
+20842,2024-02-18,Compressor,Plant B,4,Electrical Fault
+20843,2024-09-19,Panel,Plant B,23,Short Circuit
+20844,2024-07-23,Panel,Plant A,7,Electrical Fault
+20845,2024-12-22,Generator,Plant B,1,Electrical Fault
+20846,2024-02-20,Motor,Plant A,8,Overheating
+20847,2024-06-23,Transformer,Plant A,17,Electrical Fault
+20848,2024-08-12,Generator,Plant A,8,Mechanical Failure
+20849,2024-09-17,Transformer,Plant B,5,Overheating
+20850,2024-08-09,Generator,Plant B,1,Mechanical Failure
+20851,2024-08-10,Generator,Plant B,15,Overheating
+20852,2024-09-25,Motor,Plant B,4,Overheating
+20853,2024-10-24,Panel,Plant C,7,Overheating
+20854,2024-11-13,Compressor,Plant A,14,Short Circuit
+20855,2024-03-14,Generator,Plant A,12,Overheating
+20856,2024-04-23,Motor,Plant B,21,Mechanical Failure
+20857,2024-08-06,Transformer,Plant B,3,Overheating
+20858,2024-02-23,Panel,Plant C,20,Overheating
+20859,2024-07-18,Generator,Plant A,18,Electrical Fault
+20860,2024-05-10,Transformer,Plant A,8,Overheating
+20861,2024-12-04,Generator,Plant B,2,Overheating
+20862,2024-07-10,Compressor,Plant B,6,Overheating
+20863,2024-06-27,Compressor,Plant C,7,Overheating
+20864,2024-10-31,Panel,Plant A,7,Overheating
+20865,2024-10-13,Transformer,Plant C,13,Overheating
+20866,2024-08-27,Compressor,Plant A,1,Short Circuit
+20867,2024-09-01,Motor,Plant B,8,Mechanical Failure
+20868,2024-11-25,Panel,Plant C,23,Short Circuit
+20869,2024-04-26,Generator,Plant B,13,Mechanical Failure
+20870,2024-07-26,Transformer,Plant A,20,Short Circuit
+20871,2024-07-30,Transformer,Plant A,19,Overheating
+20872,2024-09-15,Motor,Plant C,17,Short Circuit
+20873,2024-06-11,Compressor,Plant B,13,Mechanical Failure
+20874,2024-08-13,Transformer,Plant A,16,Electrical Fault
+20875,2024-12-06,Motor,Plant A,15,Electrical Fault
+20876,2024-03-04,Motor,Plant C,11,Overheating
+20877,2024-09-02,Generator,Plant C,12,Overheating
+20878,2024-01-18,Motor,Plant B,22,Mechanical Failure
+20879,2024-02-03,Panel,Plant C,3,Electrical Fault
+20880,2024-11-07,Transformer,Plant A,9,Overheating
+20881,2024-11-18,Panel,Plant B,14,Short Circuit
+20882,2024-06-29,Motor,Plant B,7,Short Circuit
+20883,2024-12-12,Motor,Plant B,11,Electrical Fault
+20884,2024-07-12,Panel,Plant A,10,Mechanical Failure
+20885,2024-07-10,Generator,Plant C,3,Overheating
+20886,2024-03-07,Motor,Plant B,19,Overheating
+20887,2024-07-27,Panel,Plant A,2,Overheating
+20888,2024-12-31,Panel,Plant C,17,Electrical Fault
+20889,2024-06-15,Transformer,Plant B,2,Short Circuit
+20890,2024-09-02,Generator,Plant C,21,Mechanical Failure
+20891,2024-09-01,Compressor,Plant C,16,Electrical Fault
+20892,2024-06-14,Panel,Plant C,17,Electrical Fault
+20893,2024-10-22,Transformer,Plant A,10,Overheating
+20894,2024-07-29,Compressor,Plant B,4,Short Circuit
+20895,2024-05-12,Transformer,Plant B,11,Mechanical Failure
+20896,2024-07-15,Transformer,Plant B,17,Mechanical Failure
+20897,2024-12-12,Generator,Plant A,12,Overheating
+20898,2024-02-18,Motor,Plant C,21,Mechanical Failure
+20899,2024-03-04,Generator,Plant A,10,Short Circuit
+20900,2024-04-21,Compressor,Plant B,16,Overheating
+20901,2024-12-21,Generator,Plant C,4,Overheating
+20902,2024-07-03,Motor,Plant A,3,Short Circuit
+20903,2024-04-13,Generator,Plant A,9,Mechanical Failure
+20904,2024-07-31,Generator,Plant A,6,Short Circuit
+20905,2024-01-05,Generator,Plant A,12,Mechanical Failure
+20906,2024-04-28,Panel,Plant C,1,Mechanical Failure
+20907,2024-12-09,Panel,Plant A,14,Mechanical Failure
+20908,2024-09-05,Generator,Plant C,10,Short Circuit
+20909,2024-06-15,Motor,Plant A,18,Short Circuit
+20910,2024-08-29,Motor,Plant B,13,Electrical Fault
+20911,2024-10-06,Motor,Plant A,9,Short Circuit
+20912,2024-12-28,Motor,Plant A,23,Overheating
+20913,2024-08-25,Transformer,Plant B,19,Overheating
+20914,2024-11-01,Generator,Plant C,4,Overheating
+20915,2024-07-23,Generator,Plant A,3,Overheating
+20916,2024-11-09,Transformer,Plant A,6,Electrical Fault
+20917,2024-01-01,Motor,Plant B,9,Short Circuit
+20918,2024-06-19,Compressor,Plant C,10,Short Circuit
+20919,2024-06-15,Compressor,Plant B,9,Mechanical Failure
+20920,2024-09-14,Transformer,Plant A,17,Short Circuit
+20921,2024-03-03,Compressor,Plant C,10,Mechanical Failure
+20922,2024-09-28,Panel,Plant A,6,Mechanical Failure
+20923,2024-02-06,Generator,Plant B,16,Overheating
+20924,2024-01-16,Compressor,Plant A,17,Electrical Fault
+20925,2024-09-10,Panel,Plant B,11,Electrical Fault
+20926,2024-12-08,Generator,Plant B,20,Short Circuit
+20927,2024-12-11,Panel,Plant C,7,Mechanical Failure
+20928,2024-12-01,Generator,Plant B,4,Overheating
+20929,2024-01-27,Generator,Plant C,10,Mechanical Failure
+20930,2024-04-20,Compressor,Plant C,21,Overheating
+20931,2024-08-20,Transformer,Plant C,14,Mechanical Failure
+20932,2024-03-04,Compressor,Plant C,17,Short Circuit
+20933,2024-04-06,Motor,Plant C,14,Short Circuit
+20934,2024-09-23,Panel,Plant B,20,Mechanical Failure
+20935,2024-11-21,Motor,Plant B,23,Electrical Fault
+20936,2024-08-19,Generator,Plant C,13,Overheating
+20937,2024-02-17,Compressor,Plant B,2,Electrical Fault
+20938,2024-12-15,Motor,Plant C,9,Electrical Fault
+20939,2024-07-28,Motor,Plant B,3,Mechanical Failure
+20940,2024-03-16,Motor,Plant C,4,Overheating
+20941,2024-09-03,Generator,Plant A,12,Overheating
+20942,2024-11-11,Generator,Plant A,15,Short Circuit
+20943,2024-03-08,Generator,Plant C,20,Mechanical Failure
+20944,2024-11-08,Motor,Plant B,8,Mechanical Failure
+20945,2024-03-04,Panel,Plant C,18,Mechanical Failure
+20946,2024-06-30,Compressor,Plant B,5,Short Circuit
+20947,2024-03-20,Compressor,Plant C,2,Short Circuit
+20948,2024-12-08,Generator,Plant C,22,Overheating
+20949,2024-07-21,Motor,Plant B,9,Short Circuit
+20950,2024-06-30,Panel,Plant B,14,Mechanical Failure
+20951,2024-08-01,Transformer,Plant C,1,Mechanical Failure
+20952,2024-04-29,Generator,Plant A,20,Electrical Fault
+20953,2024-08-28,Transformer,Plant A,4,Short Circuit
+20954,2024-11-30,Compressor,Plant A,17,Mechanical Failure
+20955,2024-07-20,Compressor,Plant A,10,Mechanical Failure
+20956,2024-10-18,Panel,Plant A,2,Overheating
+20957,2024-02-23,Panel,Plant B,6,Short Circuit
+20958,2024-05-24,Transformer,Plant A,19,Mechanical Failure
+20959,2024-12-21,Compressor,Plant B,9,Overheating
+20960,2024-03-26,Panel,Plant A,19,Electrical Fault
+20961,2024-01-22,Panel,Plant B,19,Electrical Fault
+20962,2024-11-26,Compressor,Plant A,9,Overheating
+20963,2024-10-18,Compressor,Plant A,3,Short Circuit
+20964,2024-08-23,Motor,Plant B,6,Mechanical Failure
+20965,2024-01-29,Panel,Plant B,6,Short Circuit
+20966,2024-07-01,Transformer,Plant C,17,Overheating
+20967,2024-06-08,Generator,Plant A,13,Mechanical Failure
+20968,2024-01-18,Generator,Plant A,13,Mechanical Failure
+20969,2024-02-07,Compressor,Plant B,7,Mechanical Failure
+20970,2024-04-10,Transformer,Plant B,9,Short Circuit
+20971,2024-10-16,Motor,Plant A,18,Short Circuit
+20972,2024-06-21,Panel,Plant A,1,Overheating
+20973,2024-12-08,Motor,Plant B,22,Electrical Fault
+20974,2024-12-31,Transformer,Plant B,22,Overheating
+20975,2024-03-07,Motor,Plant A,20,Mechanical Failure
+20976,2024-07-09,Compressor,Plant B,13,Overheating
+20977,2024-02-12,Generator,Plant B,8,Electrical Fault
+20978,2024-05-02,Compressor,Plant A,21,Overheating
+20979,2024-10-04,Panel,Plant C,23,Electrical Fault
+20980,2024-12-08,Compressor,Plant B,9,Electrical Fault
+20981,2024-07-14,Transformer,Plant C,1,Mechanical Failure
+20982,2024-11-28,Transformer,Plant B,9,Electrical Fault
+20983,2024-05-04,Panel,Plant C,20,Short Circuit
+20984,2024-04-05,Panel,Plant B,23,Overheating
+20985,2024-06-05,Generator,Plant C,11,Overheating
+20986,2024-02-09,Motor,Plant C,20,Short Circuit
+20987,2024-12-25,Generator,Plant B,4,Short Circuit
+20988,2024-06-21,Compressor,Plant C,16,Mechanical Failure
+20989,2024-06-21,Motor,Plant A,14,Overheating
+20990,2024-04-29,Panel,Plant A,20,Short Circuit
+20991,2024-09-29,Transformer,Plant A,22,Mechanical Failure
+20992,2024-12-23,Compressor,Plant C,21,Overheating
+20993,2024-12-29,Generator,Plant B,18,Overheating
+20994,2024-12-11,Panel,Plant C,22,Short Circuit
+20995,2024-11-14,Motor,Plant B,22,Electrical Fault
+20996,2024-09-17,Motor,Plant C,9,Electrical Fault
+20997,2024-10-07,Transformer,Plant B,1,Short Circuit
+20998,2024-11-24,Panel,Plant C,23,Electrical Fault
+20999,2024-05-03,Panel,Plant C,3,Overheating
+21000,2024-10-04,Compressor,Plant A,20,Mechanical Failure
+21001,2024-04-02,Compressor,Plant C,1,Mechanical Failure
+21002,2024-02-04,Motor,Plant A,3,Short Circuit
+21003,2024-11-06,Generator,Plant B,14,Mechanical Failure
+21004,2024-05-07,Motor,Plant B,14,Short Circuit
+21005,2024-01-20,Compressor,Plant A,23,Electrical Fault
+21006,2024-09-17,Compressor,Plant C,22,Overheating
+21007,2024-06-15,Compressor,Plant B,13,Electrical Fault
+21008,2024-11-14,Motor,Plant C,1,Short Circuit
+21009,2024-08-23,Panel,Plant C,15,Overheating
+21010,2024-02-01,Generator,Plant C,20,Overheating
+21011,2024-08-18,Generator,Plant B,7,Overheating
+21012,2024-07-09,Compressor,Plant B,16,Electrical Fault
+21013,2024-11-25,Transformer,Plant C,20,Overheating
+21014,2024-05-24,Motor,Plant A,23,Electrical Fault
+21015,2024-04-10,Panel,Plant A,21,Electrical Fault
+21016,2024-03-19,Compressor,Plant A,1,Overheating
+21017,2024-06-08,Transformer,Plant C,15,Short Circuit
+21018,2024-09-11,Compressor,Plant A,20,Overheating
+21019,2024-10-05,Transformer,Plant B,15,Overheating
+21020,2024-07-06,Generator,Plant A,19,Electrical Fault
+21021,2024-07-28,Transformer,Plant A,6,Overheating
+21022,2024-08-28,Generator,Plant C,6,Short Circuit
+21023,2024-02-25,Generator,Plant B,1,Overheating
+21024,2024-05-16,Motor,Plant B,16,Short Circuit
+21025,2024-04-15,Transformer,Plant A,18,Mechanical Failure
+21026,2024-03-09,Panel,Plant C,13,Mechanical Failure
+21027,2024-07-08,Panel,Plant C,12,Mechanical Failure
+21028,2024-07-10,Transformer,Plant A,18,Overheating
+21029,2024-10-04,Motor,Plant B,10,Electrical Fault
+21030,2024-02-01,Panel,Plant B,14,Short Circuit
+21031,2024-06-23,Compressor,Plant B,20,Mechanical Failure
+21032,2024-09-14,Panel,Plant C,11,Short Circuit
+21033,2024-05-02,Motor,Plant A,18,Electrical Fault
+21034,2024-03-25,Generator,Plant C,12,Short Circuit
+21035,2024-08-03,Generator,Plant B,17,Short Circuit
+21036,2024-08-03,Generator,Plant C,3,Mechanical Failure
+21037,2024-01-14,Motor,Plant B,21,Short Circuit
+21038,2024-02-06,Generator,Plant A,1,Mechanical Failure
+21039,2024-01-27,Generator,Plant B,1,Electrical Fault
+21040,2024-05-31,Motor,Plant A,6,Mechanical Failure
+21041,2024-03-04,Compressor,Plant C,19,Short Circuit
+21042,2024-03-10,Panel,Plant C,4,Electrical Fault
+21043,2024-06-02,Motor,Plant C,22,Overheating
+21044,2024-09-09,Motor,Plant B,13,Overheating
+21045,2024-09-27,Transformer,Plant A,12,Electrical Fault
+21046,2024-01-29,Generator,Plant C,8,Electrical Fault
+21047,2024-03-14,Compressor,Plant C,20,Short Circuit
+21048,2024-10-10,Transformer,Plant A,7,Overheating
+21049,2024-02-28,Compressor,Plant B,21,Electrical Fault
+21050,2024-08-30,Generator,Plant C,7,Overheating
+21051,2024-11-24,Generator,Plant B,7,Overheating
+21052,2024-05-28,Generator,Plant B,14,Short Circuit
+21053,2024-01-10,Panel,Plant B,18,Electrical Fault
+21054,2024-05-11,Compressor,Plant C,23,Mechanical Failure
+21055,2024-03-02,Compressor,Plant C,19,Electrical Fault
+21056,2024-09-18,Transformer,Plant A,20,Overheating
+21057,2024-08-05,Motor,Plant A,19,Mechanical Failure
+21058,2024-08-19,Generator,Plant B,18,Mechanical Failure
+21059,2024-12-01,Generator,Plant C,6,Overheating
+21060,2024-03-12,Transformer,Plant B,16,Mechanical Failure
+21061,2024-01-16,Compressor,Plant A,3,Mechanical Failure
+21062,2024-02-07,Panel,Plant B,21,Electrical Fault
+21063,2024-06-25,Compressor,Plant B,2,Overheating
+21064,2024-11-16,Panel,Plant C,15,Short Circuit
+21065,2024-03-23,Panel,Plant B,20,Mechanical Failure
+21066,2024-01-17,Compressor,Plant B,11,Overheating
+21067,2024-06-04,Generator,Plant C,19,Electrical Fault
+21068,2024-06-20,Panel,Plant C,18,Electrical Fault
+21069,2024-03-10,Transformer,Plant A,22,Electrical Fault
+21070,2024-03-11,Transformer,Plant C,11,Mechanical Failure
+21071,2024-09-11,Panel,Plant B,3,Short Circuit
+21072,2024-05-10,Generator,Plant A,4,Electrical Fault
+21073,2024-02-18,Panel,Plant A,6,Short Circuit
+21074,2024-01-21,Transformer,Plant A,12,Overheating
+21075,2024-11-15,Transformer,Plant A,21,Electrical Fault
+21076,2024-08-07,Compressor,Plant B,4,Mechanical Failure
+21077,2024-07-05,Generator,Plant B,12,Electrical Fault
+21078,2024-02-01,Compressor,Plant B,4,Mechanical Failure
+21079,2024-07-21,Motor,Plant B,2,Overheating
+21080,2024-10-02,Panel,Plant A,12,Short Circuit
+21081,2024-08-29,Compressor,Plant B,13,Short Circuit
+21082,2024-01-16,Generator,Plant A,16,Short Circuit
+21083,2024-11-11,Panel,Plant C,4,Electrical Fault
+21084,2024-06-21,Panel,Plant B,8,Electrical Fault
+21085,2024-05-16,Panel,Plant C,5,Overheating
+21086,2024-06-27,Panel,Plant C,14,Short Circuit
+21087,2024-12-24,Panel,Plant B,15,Overheating
+21088,2024-03-01,Generator,Plant A,11,Mechanical Failure
+21089,2024-04-13,Motor,Plant C,10,Electrical Fault
+21090,2024-11-12,Transformer,Plant B,10,Short Circuit
+21091,2024-07-13,Motor,Plant C,6,Electrical Fault
+21092,2024-09-12,Transformer,Plant C,16,Short Circuit
+21093,2024-03-16,Compressor,Plant B,21,Short Circuit
+21094,2024-09-27,Panel,Plant C,4,Electrical Fault
+21095,2024-06-29,Compressor,Plant A,9,Electrical Fault
+21096,2024-05-11,Compressor,Plant A,10,Overheating
+21097,2024-05-30,Transformer,Plant C,5,Electrical Fault
+21098,2024-06-03,Generator,Plant C,10,Electrical Fault
+21099,2024-12-24,Panel,Plant B,16,Electrical Fault
+21100,2024-08-22,Compressor,Plant A,11,Mechanical Failure
+21101,2024-09-04,Motor,Plant C,6,Mechanical Failure
+21102,2024-06-13,Panel,Plant A,7,Mechanical Failure
+21103,2024-07-23,Generator,Plant C,12,Overheating
+21104,2024-06-13,Panel,Plant B,13,Overheating
+21105,2024-07-31,Compressor,Plant B,17,Short Circuit
+21106,2024-09-10,Motor,Plant A,9,Overheating
+21107,2024-06-05,Compressor,Plant A,8,Electrical Fault
+21108,2024-06-25,Generator,Plant C,16,Short Circuit
+21109,2024-03-15,Transformer,Plant C,21,Electrical Fault
+21110,2024-06-26,Motor,Plant C,3,Short Circuit
+21111,2024-10-10,Generator,Plant A,5,Overheating
+21112,2024-11-25,Generator,Plant B,21,Mechanical Failure
+21113,2024-05-12,Compressor,Plant B,23,Electrical Fault
+21114,2024-05-04,Compressor,Plant A,13,Short Circuit
+21115,2024-11-07,Compressor,Plant B,18,Mechanical Failure
+21116,2024-11-15,Transformer,Plant A,21,Electrical Fault
+21117,2024-05-06,Panel,Plant C,16,Electrical Fault
+21118,2024-12-10,Panel,Plant A,14,Mechanical Failure
+21119,2024-08-12,Compressor,Plant B,11,Overheating
+21120,2024-01-17,Compressor,Plant A,18,Mechanical Failure
+21121,2024-12-18,Transformer,Plant A,8,Overheating
+21122,2024-11-06,Panel,Plant A,12,Short Circuit
+21123,2024-09-02,Transformer,Plant A,19,Overheating
+21124,2024-05-16,Generator,Plant B,20,Short Circuit
+21125,2024-08-04,Panel,Plant C,2,Short Circuit
+21126,2024-07-14,Compressor,Plant B,9,Short Circuit
+21127,2024-07-19,Motor,Plant B,22,Short Circuit
+21128,2024-12-31,Generator,Plant C,9,Electrical Fault
+21129,2024-07-25,Motor,Plant B,14,Short Circuit
+21130,2024-01-16,Transformer,Plant C,15,Electrical Fault
+21131,2024-01-13,Transformer,Plant C,11,Electrical Fault
+21132,2024-03-18,Transformer,Plant A,13,Short Circuit
+21133,2024-08-01,Compressor,Plant B,5,Overheating
+21134,2024-12-06,Transformer,Plant C,6,Overheating
+21135,2024-11-24,Motor,Plant B,23,Mechanical Failure
+21136,2024-04-28,Generator,Plant B,5,Electrical Fault
+21137,2024-06-29,Compressor,Plant C,1,Electrical Fault
+21138,2024-11-19,Generator,Plant A,18,Overheating
+21139,2024-11-25,Transformer,Plant C,23,Electrical Fault
+21140,2024-12-20,Panel,Plant A,8,Overheating
+21141,2024-05-16,Compressor,Plant C,17,Mechanical Failure
+21142,2024-06-27,Transformer,Plant C,23,Short Circuit
+21143,2024-07-26,Compressor,Plant A,11,Short Circuit
+21144,2024-02-23,Panel,Plant A,11,Short Circuit
+21145,2024-03-19,Motor,Plant B,3,Mechanical Failure
+21146,2024-09-27,Motor,Plant C,8,Electrical Fault
+21147,2024-04-27,Motor,Plant B,8,Mechanical Failure
+21148,2024-04-15,Panel,Plant B,21,Electrical Fault
+21149,2024-04-14,Generator,Plant A,21,Electrical Fault
+21150,2024-10-29,Panel,Plant A,3,Short Circuit
+21151,2024-04-27,Panel,Plant B,22,Overheating
+21152,2024-08-16,Transformer,Plant A,10,Overheating
+21153,2024-05-27,Motor,Plant C,19,Short Circuit
+21154,2024-12-19,Compressor,Plant A,14,Electrical Fault
+21155,2024-05-29,Generator,Plant A,18,Mechanical Failure
+21156,2024-10-30,Compressor,Plant C,23,Short Circuit
+21157,2024-09-12,Transformer,Plant A,3,Short Circuit
+21158,2024-03-22,Transformer,Plant B,20,Mechanical Failure
+21159,2024-01-16,Generator,Plant B,14,Electrical Fault
+21160,2024-07-11,Compressor,Plant B,11,Short Circuit
+21161,2024-07-29,Generator,Plant A,10,Short Circuit
+21162,2024-03-14,Generator,Plant A,14,Electrical Fault
+21163,2024-10-03,Motor,Plant A,1,Mechanical Failure
+21164,2024-03-01,Compressor,Plant B,16,Mechanical Failure
+21165,2024-01-24,Motor,Plant A,6,Overheating
+21166,2024-01-23,Motor,Plant C,18,Overheating
+21167,2024-12-08,Motor,Plant A,16,Mechanical Failure
+21168,2024-09-14,Panel,Plant B,19,Overheating
+21169,2024-07-16,Transformer,Plant C,16,Overheating
+21170,2024-02-22,Transformer,Plant C,5,Electrical Fault
+21171,2024-05-18,Panel,Plant B,12,Short Circuit
+21172,2024-09-27,Generator,Plant C,6,Overheating
+21173,2024-07-19,Compressor,Plant C,2,Overheating
+21174,2024-06-12,Compressor,Plant C,16,Electrical Fault
+21175,2024-04-01,Compressor,Plant C,21,Mechanical Failure
+21176,2024-01-23,Motor,Plant C,23,Overheating
+21177,2024-03-28,Compressor,Plant A,11,Short Circuit
+21178,2024-06-30,Compressor,Plant B,12,Overheating
+21179,2024-12-20,Compressor,Plant B,11,Short Circuit
+21180,2024-10-09,Transformer,Plant A,23,Mechanical Failure
+21181,2024-01-21,Panel,Plant A,20,Overheating
+21182,2024-02-18,Generator,Plant B,19,Short Circuit
+21183,2024-07-08,Panel,Plant B,8,Short Circuit
+21184,2024-07-23,Compressor,Plant A,18,Short Circuit
+21185,2024-02-13,Generator,Plant A,5,Mechanical Failure
+21186,2024-10-26,Generator,Plant C,12,Short Circuit
+21187,2024-05-07,Panel,Plant A,10,Electrical Fault
+21188,2024-07-07,Panel,Plant A,15,Mechanical Failure
+21189,2024-06-18,Panel,Plant C,5,Short Circuit
+21190,2024-10-05,Panel,Plant C,17,Mechanical Failure
+21191,2024-07-19,Motor,Plant B,23,Mechanical Failure
+21192,2024-05-04,Transformer,Plant B,4,Electrical Fault
+21193,2024-10-18,Transformer,Plant A,12,Short Circuit
+21194,2024-11-06,Compressor,Plant C,18,Mechanical Failure
+21195,2024-12-31,Motor,Plant C,8,Mechanical Failure
+21196,2024-01-16,Generator,Plant B,20,Short Circuit
+21197,2024-12-10,Panel,Plant B,17,Electrical Fault
+21198,2024-09-30,Compressor,Plant A,8,Overheating
+21199,2024-10-20,Generator,Plant C,13,Short Circuit
+21200,2024-01-20,Transformer,Plant B,23,Overheating
+21201,2024-01-19,Generator,Plant A,3,Short Circuit
+21202,2024-01-13,Panel,Plant A,3,Short Circuit
+21203,2024-01-17,Panel,Plant A,7,Mechanical Failure
+21204,2024-07-24,Transformer,Plant B,18,Short Circuit
+21205,2024-01-30,Panel,Plant B,21,Electrical Fault
+21206,2024-10-25,Motor,Plant B,7,Electrical Fault
+21207,2024-10-30,Compressor,Plant B,22,Short Circuit
+21208,2024-02-12,Transformer,Plant B,23,Mechanical Failure
+21209,2024-04-02,Transformer,Plant C,2,Mechanical Failure
+21210,2024-03-06,Generator,Plant C,7,Overheating
+21211,2024-04-28,Transformer,Plant C,2,Short Circuit
+21212,2024-11-04,Compressor,Plant C,7,Overheating
+21213,2024-03-12,Motor,Plant A,14,Mechanical Failure
+21214,2024-11-29,Generator,Plant A,15,Electrical Fault
+21215,2024-06-10,Compressor,Plant C,16,Mechanical Failure
+21216,2024-11-25,Transformer,Plant B,8,Electrical Fault
+21217,2024-11-23,Panel,Plant C,16,Overheating
+21218,2024-09-25,Panel,Plant C,21,Mechanical Failure
+21219,2024-08-05,Compressor,Plant A,7,Electrical Fault
+21220,2024-09-10,Motor,Plant B,11,Overheating
+21221,2024-02-28,Panel,Plant A,4,Mechanical Failure
+21222,2024-02-01,Compressor,Plant B,18,Short Circuit
+21223,2024-12-04,Generator,Plant A,23,Mechanical Failure
+21224,2024-04-29,Transformer,Plant C,13,Overheating
+21225,2024-11-05,Motor,Plant B,17,Mechanical Failure
+21226,2024-01-02,Motor,Plant A,12,Overheating
+21227,2024-04-27,Generator,Plant C,18,Electrical Fault
+21228,2024-02-06,Motor,Plant A,10,Mechanical Failure
+21229,2024-04-06,Compressor,Plant A,7,Overheating
+21230,2024-12-24,Motor,Plant A,12,Overheating
+21231,2024-09-13,Motor,Plant C,12,Short Circuit
+21232,2024-05-07,Motor,Plant B,13,Electrical Fault
+21233,2024-12-24,Compressor,Plant A,1,Short Circuit
+21234,2024-06-04,Transformer,Plant C,7,Short Circuit
+21235,2024-05-24,Panel,Plant A,16,Mechanical Failure
+21236,2024-02-26,Motor,Plant B,16,Overheating
+21237,2024-03-10,Generator,Plant A,21,Overheating
+21238,2024-02-13,Generator,Plant C,16,Overheating
+21239,2024-07-30,Compressor,Plant A,16,Mechanical Failure
+21240,2024-06-23,Transformer,Plant A,14,Mechanical Failure
+21241,2024-05-20,Motor,Plant B,11,Electrical Fault
+21242,2024-03-16,Compressor,Plant B,19,Short Circuit
+21243,2024-06-06,Panel,Plant B,11,Electrical Fault
+21244,2024-03-25,Transformer,Plant A,2,Electrical Fault
+21245,2024-11-17,Transformer,Plant C,7,Mechanical Failure
+21246,2024-11-04,Compressor,Plant A,9,Overheating
+21247,2024-01-18,Generator,Plant A,9,Mechanical Failure
+21248,2024-10-10,Transformer,Plant A,14,Mechanical Failure
+21249,2024-02-11,Generator,Plant A,10,Mechanical Failure
+21250,2024-05-13,Transformer,Plant B,16,Electrical Fault
+21251,2024-04-11,Transformer,Plant B,18,Overheating
+21252,2024-05-16,Transformer,Plant B,1,Mechanical Failure
+21253,2024-08-09,Panel,Plant B,2,Electrical Fault
+21254,2024-08-16,Generator,Plant C,20,Mechanical Failure
+21255,2024-10-20,Panel,Plant A,4,Short Circuit
+21256,2024-11-01,Generator,Plant A,2,Overheating
+21257,2024-11-11,Panel,Plant A,4,Electrical Fault
+21258,2024-04-28,Panel,Plant C,23,Short Circuit
+21259,2024-04-08,Panel,Plant C,6,Mechanical Failure
+21260,2024-12-15,Compressor,Plant B,22,Short Circuit
+21261,2024-11-19,Panel,Plant A,4,Short Circuit
+21262,2024-06-07,Transformer,Plant A,18,Electrical Fault
+21263,2024-08-26,Motor,Plant C,5,Overheating
+21264,2024-11-15,Panel,Plant A,11,Overheating
+21265,2024-11-30,Motor,Plant C,13,Electrical Fault
+21266,2024-07-07,Motor,Plant B,3,Mechanical Failure
+21267,2024-11-04,Transformer,Plant C,19,Short Circuit
+21268,2024-09-05,Motor,Plant A,20,Overheating
+21269,2024-01-26,Motor,Plant C,11,Overheating
+21270,2024-07-07,Motor,Plant C,11,Short Circuit
+21271,2024-05-19,Generator,Plant B,21,Mechanical Failure
+21272,2024-06-29,Panel,Plant A,2,Short Circuit
+21273,2024-01-21,Panel,Plant A,22,Electrical Fault
+21274,2024-06-11,Motor,Plant B,15,Electrical Fault
+21275,2024-03-11,Transformer,Plant C,22,Mechanical Failure
+21276,2024-03-22,Generator,Plant C,8,Overheating
+21277,2024-06-03,Transformer,Plant A,2,Overheating
+21278,2024-11-11,Transformer,Plant C,8,Mechanical Failure
+21279,2024-12-20,Motor,Plant B,20,Mechanical Failure
+21280,2024-02-16,Compressor,Plant A,23,Electrical Fault
+21281,2024-07-12,Motor,Plant C,15,Electrical Fault
+21282,2024-08-11,Compressor,Plant B,16,Mechanical Failure
+21283,2024-08-24,Generator,Plant B,13,Overheating
+21284,2024-10-06,Compressor,Plant A,23,Short Circuit
+21285,2024-01-10,Motor,Plant A,17,Short Circuit
+21286,2024-05-31,Motor,Plant C,14,Short Circuit
+21287,2024-12-09,Transformer,Plant C,14,Electrical Fault
+21288,2024-04-13,Motor,Plant C,1,Mechanical Failure
+21289,2024-05-03,Motor,Plant B,1,Overheating
+21290,2024-07-03,Panel,Plant B,3,Electrical Fault
+21291,2024-10-16,Panel,Plant C,22,Mechanical Failure
+21292,2024-02-10,Transformer,Plant A,15,Mechanical Failure
+21293,2024-01-11,Compressor,Plant B,5,Short Circuit
+21294,2024-08-05,Compressor,Plant B,5,Short Circuit
+21295,2024-01-01,Panel,Plant C,4,Overheating
+21296,2024-06-19,Generator,Plant A,14,Overheating
+21297,2024-12-03,Panel,Plant B,20,Short Circuit
+21298,2024-10-08,Generator,Plant A,7,Short Circuit
+21299,2024-02-22,Compressor,Plant B,22,Mechanical Failure
+21300,2024-05-04,Panel,Plant A,15,Overheating
+21301,2024-06-23,Motor,Plant A,11,Mechanical Failure
+21302,2024-09-21,Generator,Plant B,14,Overheating
+21303,2024-09-21,Generator,Plant A,6,Overheating
+21304,2024-07-17,Generator,Plant B,10,Electrical Fault
+21305,2024-09-12,Compressor,Plant B,7,Short Circuit
+21306,2024-06-20,Transformer,Plant A,10,Electrical Fault
+21307,2024-02-28,Motor,Plant B,14,Overheating
+21308,2024-04-15,Panel,Plant A,5,Mechanical Failure
+21309,2024-05-04,Generator,Plant B,22,Overheating
+21310,2024-01-16,Compressor,Plant A,1,Electrical Fault
+21311,2024-02-07,Generator,Plant B,19,Short Circuit
+21312,2024-08-30,Panel,Plant B,8,Mechanical Failure
+21313,2024-07-28,Motor,Plant C,19,Overheating
+21314,2024-11-10,Generator,Plant B,17,Overheating
+21315,2024-10-11,Compressor,Plant B,19,Short Circuit
+21316,2024-06-16,Compressor,Plant A,16,Overheating
+21317,2024-09-20,Transformer,Plant A,4,Overheating
+21318,2024-04-07,Compressor,Plant A,8,Short Circuit
+21319,2024-05-13,Transformer,Plant A,4,Electrical Fault
+21320,2024-12-30,Motor,Plant C,13,Electrical Fault
+21321,2024-06-29,Panel,Plant C,7,Electrical Fault
+21322,2024-08-09,Transformer,Plant A,1,Electrical Fault
+21323,2024-12-29,Generator,Plant A,9,Mechanical Failure
+21324,2024-05-28,Generator,Plant A,4,Mechanical Failure
+21325,2024-08-31,Panel,Plant A,14,Short Circuit
+21326,2024-11-08,Compressor,Plant B,9,Short Circuit
+21327,2024-03-16,Generator,Plant A,3,Short Circuit
+21328,2024-09-18,Transformer,Plant B,15,Mechanical Failure
+21329,2024-08-18,Panel,Plant A,5,Overheating
+21330,2024-07-09,Generator,Plant C,1,Mechanical Failure
+21331,2024-05-13,Compressor,Plant C,11,Electrical Fault
+21332,2024-11-04,Compressor,Plant A,19,Electrical Fault
+21333,2024-09-08,Generator,Plant C,5,Overheating
+21334,2024-09-01,Panel,Plant C,22,Short Circuit
+21335,2024-09-21,Motor,Plant C,17,Mechanical Failure
+21336,2024-11-20,Generator,Plant C,19,Overheating
+21337,2024-11-25,Compressor,Plant B,17,Overheating
+21338,2024-12-08,Motor,Plant B,5,Mechanical Failure
+21339,2024-01-04,Panel,Plant B,20,Overheating
+21340,2024-02-06,Compressor,Plant B,9,Short Circuit
+21341,2024-03-11,Panel,Plant A,22,Mechanical Failure
+21342,2024-09-18,Generator,Plant C,6,Mechanical Failure
+21343,2024-08-24,Panel,Plant C,21,Overheating
+21344,2024-11-02,Compressor,Plant A,13,Short Circuit
+21345,2024-12-20,Generator,Plant A,21,Short Circuit
+21346,2024-06-26,Compressor,Plant B,11,Electrical Fault
+21347,2024-04-05,Compressor,Plant B,23,Mechanical Failure
+21348,2024-08-14,Motor,Plant C,23,Electrical Fault
+21349,2024-01-11,Transformer,Plant A,1,Short Circuit
+21350,2024-09-22,Panel,Plant C,17,Short Circuit
+21351,2024-07-07,Panel,Plant A,6,Electrical Fault
+21352,2024-07-27,Motor,Plant B,3,Mechanical Failure
+21353,2024-01-13,Panel,Plant C,16,Electrical Fault
+21354,2024-06-10,Motor,Plant C,13,Short Circuit
+21355,2024-02-29,Panel,Plant A,12,Short Circuit
+21356,2024-01-05,Panel,Plant C,11,Overheating
+21357,2024-07-20,Compressor,Plant B,23,Overheating
+21358,2024-01-12,Motor,Plant C,2,Electrical Fault
+21359,2024-12-06,Panel,Plant A,19,Overheating
+21360,2024-08-27,Transformer,Plant C,8,Short Circuit
+21361,2024-08-12,Motor,Plant B,13,Mechanical Failure
+21362,2024-06-30,Motor,Plant A,14,Mechanical Failure
+21363,2024-10-23,Motor,Plant A,15,Electrical Fault
+21364,2024-10-30,Compressor,Plant B,17,Overheating
+21365,2024-11-02,Motor,Plant A,15,Electrical Fault
+21366,2024-06-26,Compressor,Plant A,21,Overheating
+21367,2024-04-27,Transformer,Plant C,10,Mechanical Failure
+21368,2024-12-17,Generator,Plant A,1,Overheating
+21369,2024-03-16,Compressor,Plant C,12,Overheating
+21370,2024-02-15,Panel,Plant B,9,Electrical Fault
+21371,2024-08-14,Motor,Plant B,23,Mechanical Failure
+21372,2024-12-21,Generator,Plant B,5,Overheating
+21373,2024-10-20,Compressor,Plant B,22,Mechanical Failure
+21374,2024-08-27,Panel,Plant A,15,Overheating
+21375,2024-12-13,Generator,Plant A,3,Mechanical Failure
+21376,2024-05-20,Transformer,Plant C,19,Overheating
+21377,2024-07-22,Compressor,Plant C,7,Short Circuit
+21378,2024-05-29,Compressor,Plant C,7,Mechanical Failure
+21379,2024-05-09,Transformer,Plant A,7,Short Circuit
+21380,2024-12-14,Compressor,Plant C,2,Short Circuit
+21381,2024-11-28,Motor,Plant A,2,Short Circuit
+21382,2024-09-25,Compressor,Plant B,12,Overheating
+21383,2024-11-08,Motor,Plant A,5,Mechanical Failure
+21384,2024-05-16,Compressor,Plant B,4,Overheating
+21385,2024-04-25,Panel,Plant C,7,Overheating
+21386,2024-12-16,Panel,Plant A,16,Mechanical Failure
+21387,2024-06-09,Generator,Plant C,3,Electrical Fault
+21388,2024-06-03,Panel,Plant C,21,Overheating
+21389,2024-06-21,Transformer,Plant B,2,Short Circuit
+21390,2024-05-09,Generator,Plant C,17,Overheating
+21391,2024-03-19,Panel,Plant A,9,Electrical Fault
+21392,2024-02-26,Motor,Plant C,20,Short Circuit
+21393,2024-12-16,Compressor,Plant B,8,Overheating
+21394,2024-02-26,Panel,Plant B,12,Mechanical Failure
+21395,2024-12-28,Motor,Plant C,7,Short Circuit
+21396,2024-11-30,Generator,Plant B,14,Electrical Fault
+21397,2024-05-13,Compressor,Plant C,16,Overheating
+21398,2024-01-14,Panel,Plant B,1,Mechanical Failure
+21399,2024-10-09,Generator,Plant C,10,Short Circuit
+21400,2024-10-20,Panel,Plant C,11,Short Circuit
+21401,2024-05-26,Generator,Plant A,7,Mechanical Failure
+21402,2024-05-06,Panel,Plant A,18,Electrical Fault
+21403,2024-09-16,Motor,Plant C,19,Short Circuit
+21404,2024-11-09,Transformer,Plant A,14,Electrical Fault
+21405,2024-08-05,Motor,Plant A,17,Electrical Fault
+21406,2024-08-20,Compressor,Plant B,23,Mechanical Failure
+21407,2024-06-16,Panel,Plant A,19,Short Circuit
+21408,2024-05-22,Transformer,Plant B,22,Overheating
+21409,2024-09-16,Transformer,Plant A,13,Mechanical Failure
+21410,2024-08-05,Compressor,Plant A,23,Mechanical Failure
+21411,2024-11-03,Compressor,Plant C,3,Electrical Fault
+21412,2024-05-25,Transformer,Plant A,2,Overheating
+21413,2024-04-08,Compressor,Plant C,9,Mechanical Failure
+21414,2024-06-30,Compressor,Plant C,7,Electrical Fault
+21415,2024-06-17,Panel,Plant C,14,Short Circuit
+21416,2024-08-20,Motor,Plant C,5,Electrical Fault
+21417,2024-04-02,Generator,Plant A,20,Overheating
+21418,2024-04-26,Transformer,Plant C,15,Overheating
+21419,2024-01-04,Generator,Plant A,20,Electrical Fault
+21420,2024-03-25,Transformer,Plant A,1,Short Circuit
+21421,2024-06-15,Transformer,Plant B,20,Overheating
+21422,2024-01-07,Motor,Plant B,7,Overheating
+21423,2024-08-19,Transformer,Plant B,5,Short Circuit
+21424,2024-09-07,Transformer,Plant C,4,Mechanical Failure
+21425,2024-03-25,Motor,Plant A,11,Overheating
+21426,2024-11-14,Compressor,Plant A,19,Electrical Fault
+21427,2024-07-11,Generator,Plant C,6,Short Circuit
+21428,2024-05-02,Transformer,Plant B,20,Overheating
+21429,2024-03-29,Motor,Plant B,18,Mechanical Failure
+21430,2024-04-04,Transformer,Plant A,5,Overheating
+21431,2024-10-26,Motor,Plant A,20,Mechanical Failure
+21432,2024-12-23,Generator,Plant A,15,Overheating
+21433,2024-02-14,Panel,Plant B,21,Overheating
+21434,2024-09-09,Compressor,Plant A,20,Electrical Fault
+21435,2024-02-20,Panel,Plant B,6,Short Circuit
+21436,2024-03-05,Motor,Plant B,4,Short Circuit
+21437,2024-02-23,Transformer,Plant B,17,Electrical Fault
+21438,2024-08-09,Compressor,Plant C,15,Short Circuit
+21439,2024-03-12,Generator,Plant C,18,Short Circuit
+21440,2024-06-16,Compressor,Plant A,6,Short Circuit
+21441,2024-07-04,Transformer,Plant B,20,Overheating
+21442,2024-05-22,Panel,Plant A,22,Overheating
+21443,2024-01-19,Motor,Plant B,19,Mechanical Failure
+21444,2024-01-10,Panel,Plant A,12,Mechanical Failure
+21445,2024-09-28,Compressor,Plant A,9,Short Circuit
+21446,2024-06-19,Transformer,Plant C,8,Short Circuit
+21447,2024-12-29,Motor,Plant C,15,Short Circuit
+21448,2024-01-16,Transformer,Plant C,1,Electrical Fault
+21449,2024-03-20,Transformer,Plant C,2,Overheating
+21450,2024-10-10,Compressor,Plant B,3,Short Circuit
+21451,2024-07-08,Panel,Plant A,19,Short Circuit
+21452,2024-05-27,Transformer,Plant A,10,Overheating
+21453,2024-06-11,Transformer,Plant B,14,Mechanical Failure
+21454,2024-09-21,Transformer,Plant B,19,Short Circuit
+21455,2024-12-25,Motor,Plant A,11,Short Circuit
+21456,2024-05-17,Transformer,Plant C,21,Short Circuit
+21457,2024-10-27,Transformer,Plant C,6,Short Circuit
+21458,2024-12-30,Compressor,Plant C,19,Overheating
+21459,2024-01-30,Transformer,Plant B,14,Overheating
+21460,2024-10-30,Transformer,Plant A,8,Overheating
+21461,2024-06-16,Compressor,Plant B,2,Mechanical Failure
+21462,2024-03-31,Motor,Plant A,22,Short Circuit
+21463,2024-03-31,Panel,Plant C,18,Mechanical Failure
+21464,2024-07-29,Compressor,Plant C,22,Mechanical Failure
+21465,2024-11-25,Motor,Plant C,4,Overheating
+21466,2024-10-26,Panel,Plant A,3,Short Circuit
+21467,2024-06-22,Transformer,Plant C,2,Short Circuit
+21468,2024-05-13,Compressor,Plant A,4,Mechanical Failure
+21469,2024-01-24,Transformer,Plant B,18,Electrical Fault
+21470,2024-07-19,Compressor,Plant C,11,Electrical Fault
+21471,2024-08-06,Panel,Plant B,9,Short Circuit
+21472,2024-01-07,Motor,Plant B,8,Short Circuit
+21473,2024-01-06,Compressor,Plant A,21,Mechanical Failure
+21474,2024-04-27,Motor,Plant B,8,Mechanical Failure
+21475,2024-06-09,Transformer,Plant A,5,Overheating
+21476,2024-03-25,Transformer,Plant A,13,Mechanical Failure
+21477,2024-12-31,Panel,Plant B,7,Mechanical Failure
+21478,2024-09-04,Panel,Plant A,21,Electrical Fault
+21479,2024-06-14,Generator,Plant A,5,Electrical Fault
+21480,2024-05-24,Generator,Plant A,13,Electrical Fault
+21481,2024-01-31,Panel,Plant B,20,Electrical Fault
+21482,2024-08-07,Transformer,Plant A,16,Mechanical Failure
+21483,2024-05-12,Motor,Plant C,14,Short Circuit
+21484,2024-03-04,Panel,Plant B,5,Electrical Fault
+21485,2024-03-16,Motor,Plant B,23,Overheating
+21486,2024-05-10,Generator,Plant A,19,Overheating
+21487,2024-11-07,Motor,Plant B,4,Mechanical Failure
+21488,2024-11-14,Panel,Plant C,22,Overheating
+21489,2024-12-26,Transformer,Plant B,11,Electrical Fault
+21490,2024-02-07,Panel,Plant B,2,Short Circuit
+21491,2024-02-23,Compressor,Plant B,13,Short Circuit
+21492,2024-05-09,Compressor,Plant A,16,Electrical Fault
+21493,2024-08-05,Compressor,Plant C,9,Overheating
+21494,2024-01-02,Transformer,Plant C,16,Mechanical Failure
+21495,2024-09-02,Panel,Plant C,7,Short Circuit
+21496,2024-05-19,Compressor,Plant B,16,Electrical Fault
+21497,2024-10-22,Panel,Plant C,13,Electrical Fault
+21498,2024-09-14,Generator,Plant A,5,Overheating
+21499,2024-04-14,Compressor,Plant B,15,Mechanical Failure
+21500,2024-12-01,Compressor,Plant A,7,Mechanical Failure
+21501,2024-07-03,Transformer,Plant B,18,Overheating
+21502,2024-10-29,Panel,Plant A,20,Electrical Fault
+21503,2024-08-31,Transformer,Plant B,23,Overheating
+21504,2024-06-12,Transformer,Plant A,2,Overheating
+21505,2024-05-11,Panel,Plant C,8,Overheating
+21506,2024-07-21,Generator,Plant B,10,Electrical Fault
+21507,2024-07-28,Panel,Plant B,10,Short Circuit
+21508,2024-12-12,Generator,Plant A,11,Electrical Fault
+21509,2024-04-10,Transformer,Plant A,21,Short Circuit
+21510,2024-09-27,Generator,Plant A,21,Short Circuit
+21511,2024-02-18,Generator,Plant B,8,Overheating
+21512,2024-08-26,Generator,Plant A,16,Mechanical Failure
+21513,2024-08-02,Compressor,Plant C,16,Overheating
+21514,2024-10-17,Compressor,Plant A,17,Electrical Fault
+21515,2024-12-15,Transformer,Plant A,6,Mechanical Failure
+21516,2024-10-06,Panel,Plant A,18,Mechanical Failure
+21517,2024-11-11,Generator,Plant C,17,Electrical Fault
+21518,2024-03-17,Compressor,Plant A,12,Electrical Fault
+21519,2024-10-30,Panel,Plant A,15,Overheating
+21520,2024-05-30,Generator,Plant B,7,Electrical Fault
+21521,2024-10-23,Panel,Plant B,14,Short Circuit
+21522,2024-06-05,Motor,Plant A,4,Short Circuit
+21523,2024-07-16,Generator,Plant B,17,Mechanical Failure
+21524,2024-10-13,Panel,Plant A,11,Overheating
+21525,2024-01-24,Generator,Plant A,6,Overheating
+21526,2024-01-09,Generator,Plant C,10,Mechanical Failure
+21527,2024-05-11,Motor,Plant A,15,Electrical Fault
+21528,2024-03-17,Panel,Plant B,6,Overheating
+21529,2024-08-13,Transformer,Plant B,16,Mechanical Failure
+21530,2024-05-10,Compressor,Plant B,12,Mechanical Failure
+21531,2024-03-30,Generator,Plant B,19,Short Circuit
+21532,2024-04-26,Generator,Plant A,16,Mechanical Failure
+21533,2024-04-19,Generator,Plant C,14,Electrical Fault
+21534,2024-12-19,Generator,Plant C,6,Electrical Fault
+21535,2024-09-27,Compressor,Plant A,9,Electrical Fault
+21536,2024-08-14,Transformer,Plant B,22,Electrical Fault
+21537,2024-08-31,Motor,Plant C,1,Mechanical Failure
+21538,2024-11-03,Transformer,Plant C,22,Overheating
+21539,2024-02-24,Compressor,Plant A,8,Mechanical Failure
+21540,2024-02-06,Panel,Plant B,7,Overheating
+21541,2024-02-24,Motor,Plant C,14,Overheating
+21542,2024-01-12,Motor,Plant A,8,Overheating
+21543,2024-07-03,Panel,Plant C,11,Short Circuit
+21544,2024-08-24,Generator,Plant C,9,Electrical Fault
+21545,2024-10-19,Compressor,Plant B,19,Short Circuit
+21546,2024-07-22,Panel,Plant B,7,Mechanical Failure
+21547,2024-07-29,Transformer,Plant C,6,Short Circuit
+21548,2024-08-13,Transformer,Plant B,18,Overheating
+21549,2024-01-07,Panel,Plant C,5,Mechanical Failure
+21550,2024-08-07,Compressor,Plant C,19,Electrical Fault
+21551,2024-11-06,Motor,Plant C,11,Overheating
+21552,2024-01-28,Motor,Plant A,5,Electrical Fault
+21553,2024-10-19,Generator,Plant B,9,Short Circuit
+21554,2024-07-30,Compressor,Plant B,8,Electrical Fault
+21555,2024-07-07,Transformer,Plant C,11,Mechanical Failure
+21556,2024-03-15,Transformer,Plant B,22,Overheating
+21557,2024-08-29,Generator,Plant C,6,Electrical Fault
+21558,2024-04-23,Transformer,Plant B,15,Short Circuit
+21559,2024-06-15,Generator,Plant B,6,Mechanical Failure
+21560,2024-04-15,Generator,Plant C,22,Overheating
+21561,2024-05-30,Panel,Plant B,11,Short Circuit
+21562,2024-12-31,Motor,Plant C,15,Overheating
+21563,2024-03-24,Compressor,Plant A,12,Electrical Fault
+21564,2024-07-30,Compressor,Plant C,9,Short Circuit
+21565,2024-09-23,Motor,Plant B,10,Short Circuit
+21566,2024-11-17,Compressor,Plant A,15,Electrical Fault
+21567,2024-09-25,Transformer,Plant A,17,Short Circuit
+21568,2024-06-25,Transformer,Plant C,16,Short Circuit
+21569,2024-09-27,Compressor,Plant A,22,Short Circuit
+21570,2024-11-07,Panel,Plant C,8,Electrical Fault
+21571,2024-06-30,Compressor,Plant B,17,Electrical Fault
+21572,2024-06-07,Generator,Plant C,11,Overheating
+21573,2024-07-07,Generator,Plant A,11,Electrical Fault
+21574,2024-07-04,Motor,Plant C,6,Short Circuit
+21575,2024-11-04,Transformer,Plant C,22,Electrical Fault
+21576,2024-09-02,Panel,Plant B,2,Short Circuit
+21577,2024-11-12,Compressor,Plant C,1,Short Circuit
+21578,2024-02-11,Generator,Plant B,20,Short Circuit
+21579,2024-10-11,Transformer,Plant A,6,Electrical Fault
+21580,2024-10-26,Transformer,Plant A,5,Short Circuit
+21581,2024-12-27,Panel,Plant C,23,Overheating
+21582,2024-10-20,Panel,Plant C,22,Mechanical Failure
+21583,2024-06-29,Panel,Plant A,22,Mechanical Failure
+21584,2024-12-30,Panel,Plant A,9,Overheating
+21585,2024-06-30,Generator,Plant A,5,Mechanical Failure
+21586,2024-12-05,Panel,Plant C,18,Overheating
+21587,2024-08-05,Transformer,Plant A,19,Electrical Fault
+21588,2024-06-11,Transformer,Plant C,15,Mechanical Failure
+21589,2024-02-15,Compressor,Plant A,15,Overheating
+21590,2024-04-01,Transformer,Plant A,9,Overheating
+21591,2024-04-14,Transformer,Plant C,14,Short Circuit
+21592,2024-07-25,Generator,Plant B,5,Electrical Fault
+21593,2024-11-23,Transformer,Plant C,17,Overheating
+21594,2024-05-18,Motor,Plant B,15,Mechanical Failure
+21595,2024-01-29,Transformer,Plant C,20,Short Circuit
+21596,2024-09-07,Compressor,Plant B,17,Short Circuit
+21597,2024-07-09,Compressor,Plant B,9,Short Circuit
+21598,2024-02-16,Panel,Plant B,13,Electrical Fault
+21599,2024-09-07,Generator,Plant C,22,Overheating
+21600,2024-09-19,Compressor,Plant C,13,Electrical Fault
+21601,2024-03-04,Motor,Plant C,5,Overheating
+21602,2024-12-03,Motor,Plant B,14,Short Circuit
+21603,2024-11-15,Panel,Plant B,7,Mechanical Failure
+21604,2024-12-13,Generator,Plant C,5,Mechanical Failure
+21605,2024-09-24,Generator,Plant C,12,Electrical Fault
+21606,2024-01-12,Transformer,Plant A,3,Short Circuit
+21607,2024-10-18,Motor,Plant A,9,Overheating
+21608,2024-01-29,Motor,Plant A,10,Electrical Fault
+21609,2024-05-18,Motor,Plant A,1,Short Circuit
+21610,2024-03-25,Motor,Plant A,14,Electrical Fault
+21611,2024-03-14,Compressor,Plant C,1,Mechanical Failure
+21612,2024-09-07,Generator,Plant B,10,Short Circuit
+21613,2024-08-11,Transformer,Plant B,11,Electrical Fault
+21614,2024-02-16,Compressor,Plant C,20,Overheating
+21615,2024-03-21,Generator,Plant C,2,Mechanical Failure
+21616,2024-04-30,Panel,Plant C,23,Overheating
+21617,2024-02-12,Motor,Plant A,2,Electrical Fault
+21618,2024-05-25,Transformer,Plant A,23,Short Circuit
+21619,2024-03-14,Generator,Plant A,11,Mechanical Failure
+21620,2024-02-22,Panel,Plant C,8,Overheating
+21621,2024-08-20,Motor,Plant C,3,Overheating
+21622,2024-10-21,Panel,Plant B,9,Short Circuit
+21623,2024-12-28,Panel,Plant C,16,Electrical Fault
+21624,2024-07-18,Compressor,Plant A,16,Overheating
+21625,2024-06-10,Panel,Plant B,10,Electrical Fault
+21626,2024-02-06,Compressor,Plant C,6,Electrical Fault
+21627,2024-04-06,Compressor,Plant B,20,Electrical Fault
+21628,2024-02-18,Panel,Plant B,20,Short Circuit
+21629,2024-01-10,Generator,Plant C,20,Electrical Fault
+21630,2024-02-09,Panel,Plant A,11,Mechanical Failure
+21631,2024-06-01,Panel,Plant A,8,Short Circuit
+21632,2024-04-15,Generator,Plant B,20,Overheating
+21633,2024-02-10,Motor,Plant C,1,Short Circuit
+21634,2024-06-12,Transformer,Plant C,6,Overheating
+21635,2024-09-14,Motor,Plant A,8,Mechanical Failure
+21636,2024-07-29,Panel,Plant C,14,Electrical Fault
+21637,2024-07-20,Motor,Plant C,3,Electrical Fault
+21638,2024-07-13,Transformer,Plant B,2,Electrical Fault
+21639,2024-02-22,Motor,Plant C,22,Electrical Fault
+21640,2024-05-26,Transformer,Plant C,1,Short Circuit
+21641,2024-10-08,Motor,Plant C,11,Mechanical Failure
+21642,2024-11-05,Compressor,Plant A,21,Overheating
+21643,2024-08-30,Panel,Plant A,6,Short Circuit
+21644,2024-02-20,Transformer,Plant B,8,Electrical Fault
+21645,2024-04-23,Panel,Plant A,7,Electrical Fault
+21646,2024-09-29,Compressor,Plant A,6,Electrical Fault
+21647,2024-04-29,Motor,Plant A,18,Overheating
+21648,2024-07-07,Panel,Plant A,12,Overheating
+21649,2024-02-15,Motor,Plant B,8,Short Circuit
+21650,2024-08-30,Motor,Plant C,21,Mechanical Failure
+21651,2024-11-06,Panel,Plant C,19,Overheating
+21652,2024-02-19,Transformer,Plant C,5,Short Circuit
+21653,2024-11-26,Transformer,Plant B,19,Overheating
+21654,2024-01-11,Panel,Plant A,9,Short Circuit
+21655,2024-02-17,Transformer,Plant B,12,Electrical Fault
+21656,2024-02-25,Generator,Plant B,15,Overheating
+21657,2024-01-08,Motor,Plant B,23,Electrical Fault
+21658,2024-01-14,Panel,Plant C,13,Mechanical Failure
+21659,2024-08-02,Compressor,Plant A,13,Electrical Fault
+21660,2024-09-01,Panel,Plant C,21,Mechanical Failure
+21661,2024-02-23,Panel,Plant B,21,Overheating
+21662,2024-09-29,Motor,Plant B,5,Mechanical Failure
+21663,2024-05-10,Compressor,Plant C,2,Electrical Fault
+21664,2024-01-09,Motor,Plant C,19,Overheating
+21665,2024-07-30,Transformer,Plant C,8,Short Circuit
+21666,2024-05-01,Panel,Plant A,14,Overheating
+21667,2024-04-23,Motor,Plant C,6,Short Circuit
+21668,2024-01-20,Generator,Plant A,7,Electrical Fault
+21669,2024-12-04,Panel,Plant A,14,Overheating
+21670,2024-01-21,Transformer,Plant C,6,Short Circuit
+21671,2024-07-26,Motor,Plant B,16,Electrical Fault
+21672,2024-02-02,Motor,Plant B,4,Mechanical Failure
+21673,2024-05-12,Generator,Plant A,7,Short Circuit
+21674,2024-07-09,Transformer,Plant A,16,Mechanical Failure
+21675,2024-01-26,Generator,Plant A,4,Overheating
+21676,2024-12-29,Panel,Plant B,7,Short Circuit
+21677,2024-03-29,Compressor,Plant A,21,Electrical Fault
+21678,2024-04-01,Motor,Plant A,2,Electrical Fault
+21679,2024-02-02,Generator,Plant B,23,Mechanical Failure
+21680,2024-08-25,Motor,Plant C,8,Electrical Fault
+21681,2024-01-18,Motor,Plant B,10,Overheating
+21682,2024-09-30,Generator,Plant C,2,Overheating
+21683,2024-10-15,Motor,Plant C,6,Mechanical Failure
+21684,2024-01-27,Transformer,Plant A,4,Short Circuit
+21685,2024-10-31,Transformer,Plant A,21,Electrical Fault
+21686,2024-04-17,Compressor,Plant C,1,Overheating
+21687,2024-08-13,Transformer,Plant A,6,Short Circuit
+21688,2024-11-19,Generator,Plant C,12,Overheating
+21689,2024-12-20,Transformer,Plant A,14,Overheating
+21690,2024-01-19,Compressor,Plant B,15,Short Circuit
+21691,2024-08-10,Panel,Plant C,18,Short Circuit
+21692,2024-10-07,Panel,Plant C,17,Electrical Fault
+21693,2024-04-13,Generator,Plant A,9,Mechanical Failure
+21694,2024-11-27,Compressor,Plant B,15,Mechanical Failure
+21695,2024-11-27,Transformer,Plant A,18,Overheating
+21696,2024-12-27,Compressor,Plant B,21,Mechanical Failure
+21697,2024-10-15,Motor,Plant A,18,Overheating
+21698,2024-02-06,Compressor,Plant C,5,Short Circuit
+21699,2024-12-13,Transformer,Plant B,16,Overheating
+21700,2024-08-31,Generator,Plant B,9,Electrical Fault
+21701,2024-02-12,Motor,Plant A,22,Overheating
+21702,2024-05-05,Compressor,Plant B,3,Overheating
+21703,2024-01-09,Panel,Plant A,12,Electrical Fault
+21704,2024-01-14,Transformer,Plant B,14,Electrical Fault
+21705,2024-05-10,Generator,Plant A,1,Mechanical Failure
+21706,2024-11-20,Transformer,Plant A,9,Short Circuit
+21707,2024-07-02,Compressor,Plant A,9,Short Circuit
+21708,2024-10-08,Generator,Plant C,20,Electrical Fault
+21709,2024-02-22,Panel,Plant B,13,Short Circuit
+21710,2024-02-10,Motor,Plant C,8,Overheating
+21711,2024-12-03,Compressor,Plant C,11,Short Circuit
+21712,2024-12-23,Generator,Plant C,14,Electrical Fault
+21713,2024-01-21,Motor,Plant C,16,Short Circuit
+21714,2024-10-21,Generator,Plant B,11,Electrical Fault
+21715,2024-07-26,Compressor,Plant B,19,Mechanical Failure
+21716,2024-05-30,Generator,Plant C,22,Electrical Fault
+21717,2024-03-09,Panel,Plant B,10,Overheating
+21718,2024-11-26,Generator,Plant B,8,Overheating
+21719,2024-11-13,Compressor,Plant A,11,Overheating
+21720,2024-10-27,Generator,Plant B,8,Electrical Fault
+21721,2024-01-27,Motor,Plant C,20,Electrical Fault
+21722,2024-04-25,Motor,Plant B,10,Overheating
+21723,2024-05-21,Transformer,Plant C,17,Short Circuit
+21724,2024-02-10,Transformer,Plant B,23,Electrical Fault
+21725,2024-04-15,Panel,Plant C,11,Short Circuit
+21726,2024-03-14,Motor,Plant B,12,Mechanical Failure
+21727,2024-02-29,Transformer,Plant B,10,Mechanical Failure
+21728,2024-10-24,Generator,Plant B,20,Mechanical Failure
+21729,2024-05-01,Panel,Plant C,17,Mechanical Failure
+21730,2024-07-21,Compressor,Plant A,3,Overheating
+21731,2024-01-11,Transformer,Plant C,7,Electrical Fault
+21732,2024-05-26,Transformer,Plant B,3,Mechanical Failure
+21733,2024-08-03,Motor,Plant C,17,Overheating
+21734,2024-11-16,Panel,Plant B,23,Mechanical Failure
+21735,2024-10-29,Motor,Plant B,8,Electrical Fault
+21736,2024-01-14,Motor,Plant A,21,Mechanical Failure
+21737,2024-03-07,Panel,Plant B,22,Mechanical Failure
+21738,2024-06-28,Generator,Plant B,19,Short Circuit
+21739,2024-12-30,Transformer,Plant B,14,Short Circuit
+21740,2024-08-29,Motor,Plant A,5,Short Circuit
+21741,2024-06-08,Transformer,Plant C,19,Short Circuit
+21742,2024-01-10,Panel,Plant A,13,Mechanical Failure
+21743,2024-05-03,Generator,Plant C,18,Mechanical Failure
+21744,2024-09-29,Compressor,Plant B,23,Short Circuit
+21745,2024-08-28,Generator,Plant C,11,Electrical Fault
+21746,2024-05-22,Panel,Plant C,23,Overheating
+21747,2024-12-18,Generator,Plant C,12,Mechanical Failure
+21748,2024-06-15,Compressor,Plant C,8,Short Circuit
+21749,2024-02-26,Motor,Plant B,12,Overheating
+21750,2024-05-17,Generator,Plant A,1,Short Circuit
+21751,2024-11-22,Panel,Plant C,18,Short Circuit
+21752,2024-12-18,Generator,Plant B,2,Electrical Fault
+21753,2024-01-17,Compressor,Plant B,12,Electrical Fault
+21754,2024-11-27,Panel,Plant B,19,Mechanical Failure
+21755,2024-09-29,Generator,Plant B,23,Short Circuit
+21756,2024-11-29,Panel,Plant C,7,Overheating
+21757,2024-01-03,Compressor,Plant A,7,Mechanical Failure
+21758,2024-08-30,Motor,Plant B,1,Electrical Fault
+21759,2024-04-17,Compressor,Plant A,18,Mechanical Failure
+21760,2024-02-20,Motor,Plant A,8,Mechanical Failure
+21761,2024-12-15,Transformer,Plant A,10,Short Circuit
+21762,2024-06-22,Compressor,Plant B,23,Overheating
+21763,2024-04-25,Motor,Plant B,1,Electrical Fault
+21764,2024-07-01,Transformer,Plant B,15,Mechanical Failure
+21765,2024-12-26,Transformer,Plant A,15,Mechanical Failure
+21766,2024-12-20,Transformer,Plant B,4,Short Circuit
+21767,2024-06-02,Panel,Plant B,10,Mechanical Failure
+21768,2024-09-03,Compressor,Plant A,8,Overheating
+21769,2024-03-16,Compressor,Plant B,14,Short Circuit
+21770,2024-08-31,Compressor,Plant C,13,Electrical Fault
+21771,2024-03-21,Compressor,Plant C,21,Mechanical Failure
+21772,2024-08-16,Panel,Plant C,17,Mechanical Failure
+21773,2024-03-12,Compressor,Plant C,7,Short Circuit
+21774,2024-08-05,Motor,Plant A,6,Mechanical Failure
+21775,2024-08-30,Transformer,Plant B,9,Electrical Fault
+21776,2024-11-09,Panel,Plant C,20,Overheating
+21777,2024-03-18,Panel,Plant C,20,Overheating
+21778,2024-06-06,Compressor,Plant B,8,Short Circuit
+21779,2024-02-17,Transformer,Plant A,14,Mechanical Failure
+21780,2024-11-07,Motor,Plant C,20,Short Circuit
+21781,2024-10-24,Transformer,Plant B,3,Short Circuit
+21782,2024-01-24,Generator,Plant B,23,Short Circuit
+21783,2024-04-19,Transformer,Plant C,13,Short Circuit
+21784,2024-02-21,Motor,Plant C,21,Short Circuit
+21785,2024-10-16,Motor,Plant B,9,Mechanical Failure
+21786,2024-09-15,Motor,Plant B,21,Overheating
+21787,2024-11-19,Panel,Plant C,9,Overheating
+21788,2024-05-18,Panel,Plant C,22,Overheating
+21789,2024-11-01,Generator,Plant C,22,Mechanical Failure
+21790,2024-12-03,Transformer,Plant C,11,Mechanical Failure
+21791,2024-10-01,Compressor,Plant A,6,Short Circuit
+21792,2024-02-13,Generator,Plant B,23,Overheating
+21793,2024-09-15,Compressor,Plant C,12,Short Circuit
+21794,2024-04-22,Compressor,Plant B,4,Overheating
+21795,2024-08-14,Generator,Plant C,4,Electrical Fault
+21796,2024-03-05,Transformer,Plant A,23,Mechanical Failure
+21797,2024-06-11,Compressor,Plant B,22,Electrical Fault
+21798,2024-06-12,Panel,Plant A,17,Overheating
+21799,2024-06-14,Panel,Plant B,7,Short Circuit
+21800,2024-02-08,Generator,Plant A,6,Mechanical Failure
+21801,2024-06-01,Compressor,Plant C,20,Mechanical Failure
+21802,2024-11-15,Generator,Plant C,8,Short Circuit
+21803,2024-12-25,Panel,Plant A,7,Electrical Fault
+21804,2024-09-25,Generator,Plant C,8,Electrical Fault
+21805,2024-11-19,Compressor,Plant A,9,Electrical Fault
+21806,2024-11-21,Compressor,Plant A,1,Electrical Fault
+21807,2024-03-15,Panel,Plant B,3,Mechanical Failure
+21808,2024-09-13,Motor,Plant A,18,Overheating
+21809,2024-07-18,Motor,Plant B,19,Short Circuit
+21810,2024-04-07,Transformer,Plant A,11,Overheating
+21811,2024-04-13,Panel,Plant B,16,Overheating
+21812,2024-06-12,Transformer,Plant B,18,Electrical Fault
+21813,2024-04-22,Panel,Plant C,6,Overheating
+21814,2024-04-12,Compressor,Plant B,2,Electrical Fault
+21815,2024-02-06,Panel,Plant B,4,Electrical Fault
+21816,2024-04-15,Generator,Plant A,5,Overheating
+21817,2024-07-05,Transformer,Plant B,21,Short Circuit
+21818,2024-12-29,Panel,Plant C,14,Overheating
+21819,2024-01-21,Transformer,Plant A,1,Overheating
+21820,2024-05-27,Panel,Plant B,22,Mechanical Failure
+21821,2024-05-08,Motor,Plant A,14,Electrical Fault
+21822,2024-07-05,Transformer,Plant A,21,Mechanical Failure
+21823,2024-10-10,Compressor,Plant A,13,Short Circuit
+21824,2024-07-17,Compressor,Plant A,22,Overheating
+21825,2024-08-22,Panel,Plant A,16,Mechanical Failure
+21826,2024-04-17,Compressor,Plant B,4,Mechanical Failure
+21827,2024-01-09,Compressor,Plant A,6,Overheating
+21828,2024-08-13,Transformer,Plant A,9,Overheating
+21829,2024-07-27,Panel,Plant C,1,Electrical Fault
+21830,2024-09-01,Transformer,Plant C,22,Electrical Fault
+21831,2024-10-14,Panel,Plant A,17,Mechanical Failure
+21832,2024-03-06,Compressor,Plant B,23,Overheating
+21833,2024-12-21,Panel,Plant C,4,Electrical Fault
+21834,2024-06-01,Panel,Plant C,6,Electrical Fault
+21835,2024-07-09,Generator,Plant A,16,Short Circuit
+21836,2024-08-05,Panel,Plant B,7,Mechanical Failure
+21837,2024-06-02,Generator,Plant B,5,Mechanical Failure
+21838,2024-10-03,Transformer,Plant C,9,Mechanical Failure
+21839,2024-03-22,Generator,Plant C,19,Overheating
+21840,2024-08-08,Transformer,Plant C,1,Short Circuit
+21841,2024-10-06,Panel,Plant C,8,Electrical Fault
+21842,2024-04-20,Transformer,Plant C,20,Short Circuit
+21843,2024-04-01,Compressor,Plant A,23,Electrical Fault
+21844,2024-01-12,Panel,Plant A,4,Electrical Fault
+21845,2024-05-18,Generator,Plant A,23,Short Circuit
+21846,2024-06-03,Motor,Plant C,17,Mechanical Failure
+21847,2024-01-23,Panel,Plant A,1,Overheating
+21848,2024-08-07,Compressor,Plant C,2,Short Circuit
+21849,2024-12-13,Transformer,Plant B,21,Mechanical Failure
+21850,2024-08-24,Generator,Plant B,14,Mechanical Failure
+21851,2024-09-09,Generator,Plant A,22,Overheating
+21852,2024-07-01,Compressor,Plant B,2,Overheating
+21853,2024-07-16,Compressor,Plant B,1,Mechanical Failure
+21854,2024-06-18,Panel,Plant B,13,Overheating
+21855,2024-05-02,Motor,Plant A,23,Mechanical Failure
+21856,2024-02-03,Motor,Plant B,8,Electrical Fault
+21857,2024-11-08,Transformer,Plant A,22,Overheating
+21858,2024-01-03,Generator,Plant C,9,Electrical Fault
+21859,2024-01-06,Panel,Plant C,20,Overheating
+21860,2024-10-30,Generator,Plant A,21,Mechanical Failure
+21861,2024-04-11,Panel,Plant A,2,Mechanical Failure
+21862,2024-07-10,Compressor,Plant B,17,Mechanical Failure
+21863,2024-01-13,Transformer,Plant C,6,Mechanical Failure
+21864,2024-02-05,Compressor,Plant B,3,Mechanical Failure
+21865,2024-03-10,Generator,Plant C,20,Mechanical Failure
+21866,2024-10-15,Transformer,Plant B,17,Overheating
+21867,2024-04-14,Panel,Plant B,6,Overheating
+21868,2024-07-22,Panel,Plant C,8,Electrical Fault
+21869,2024-11-08,Transformer,Plant B,14,Short Circuit
+21870,2024-02-24,Compressor,Plant C,10,Overheating
+21871,2024-04-16,Transformer,Plant A,20,Overheating
+21872,2024-05-20,Compressor,Plant B,10,Short Circuit
+21873,2024-08-12,Transformer,Plant C,15,Short Circuit
+21874,2024-11-02,Compressor,Plant C,8,Electrical Fault
+21875,2024-12-13,Motor,Plant B,11,Electrical Fault
+21876,2024-11-04,Transformer,Plant C,16,Mechanical Failure
+21877,2024-02-05,Compressor,Plant B,3,Electrical Fault
+21878,2024-05-12,Generator,Plant B,15,Electrical Fault
+21879,2024-01-25,Generator,Plant A,13,Short Circuit
+21880,2024-12-02,Transformer,Plant A,11,Overheating
+21881,2024-02-06,Transformer,Plant A,14,Mechanical Failure
+21882,2024-01-19,Panel,Plant B,7,Electrical Fault
+21883,2024-02-04,Compressor,Plant B,19,Short Circuit
+21884,2024-12-28,Transformer,Plant C,15,Mechanical Failure
+21885,2024-11-05,Generator,Plant A,6,Mechanical Failure
+21886,2024-01-06,Generator,Plant A,20,Short Circuit
+21887,2024-07-17,Generator,Plant C,22,Electrical Fault
+21888,2024-02-03,Compressor,Plant A,7,Electrical Fault
+21889,2024-02-25,Motor,Plant A,14,Electrical Fault
+21890,2024-09-12,Transformer,Plant A,22,Electrical Fault
+21891,2024-07-29,Motor,Plant C,4,Mechanical Failure
+21892,2024-04-06,Compressor,Plant A,9,Overheating
+21893,2024-10-08,Transformer,Plant B,7,Mechanical Failure
+21894,2024-08-28,Panel,Plant A,15,Mechanical Failure
+21895,2024-06-18,Transformer,Plant B,3,Short Circuit
+21896,2024-12-12,Transformer,Plant A,5,Mechanical Failure
+21897,2024-10-20,Transformer,Plant B,17,Electrical Fault
+21898,2024-08-14,Transformer,Plant A,1,Short Circuit
+21899,2024-11-10,Transformer,Plant B,1,Short Circuit
+21900,2024-05-06,Compressor,Plant B,16,Short Circuit
+21901,2024-10-06,Transformer,Plant A,23,Short Circuit
+21902,2024-01-21,Compressor,Plant C,14,Short Circuit
+21903,2024-11-11,Transformer,Plant A,11,Electrical Fault
+21904,2024-09-02,Transformer,Plant C,14,Overheating
+21905,2024-03-30,Compressor,Plant C,8,Overheating
+21906,2024-01-06,Transformer,Plant C,19,Short Circuit
+21907,2024-09-22,Generator,Plant C,2,Overheating
+21908,2024-04-06,Transformer,Plant C,23,Mechanical Failure
+21909,2024-05-29,Panel,Plant C,10,Overheating
+21910,2024-03-20,Compressor,Plant A,5,Mechanical Failure
+21911,2024-01-17,Transformer,Plant B,15,Electrical Fault
+21912,2024-05-17,Transformer,Plant B,1,Short Circuit
+21913,2024-05-19,Compressor,Plant A,2,Mechanical Failure
+21914,2024-12-04,Motor,Plant A,19,Electrical Fault
+21915,2024-02-09,Generator,Plant A,22,Electrical Fault
+21916,2024-06-16,Generator,Plant C,17,Short Circuit
+21917,2024-03-14,Transformer,Plant C,15,Overheating
+21918,2024-03-14,Compressor,Plant B,18,Electrical Fault
+21919,2024-02-19,Panel,Plant A,21,Overheating
+21920,2024-01-10,Transformer,Plant B,8,Overheating
+21921,2024-04-12,Generator,Plant B,21,Overheating
+21922,2024-12-15,Transformer,Plant C,14,Mechanical Failure
+21923,2024-10-25,Compressor,Plant C,8,Overheating
+21924,2024-12-04,Panel,Plant B,22,Overheating
+21925,2024-04-13,Motor,Plant C,23,Electrical Fault
+21926,2024-10-16,Panel,Plant C,8,Short Circuit
+21927,2024-10-06,Transformer,Plant C,19,Mechanical Failure
+21928,2024-05-21,Generator,Plant B,13,Overheating
+21929,2024-10-23,Compressor,Plant B,5,Short Circuit
+21930,2024-06-18,Transformer,Plant B,10,Overheating
+21931,2024-01-13,Motor,Plant A,7,Overheating
+21932,2024-06-05,Compressor,Plant B,9,Electrical Fault
+21933,2024-06-22,Compressor,Plant C,14,Short Circuit
+21934,2024-06-10,Compressor,Plant B,6,Electrical Fault
+21935,2024-05-11,Transformer,Plant A,10,Electrical Fault
+21936,2024-01-28,Motor,Plant C,1,Overheating
+21937,2024-03-23,Transformer,Plant B,11,Overheating
+21938,2024-12-28,Compressor,Plant B,8,Overheating
+21939,2024-09-25,Compressor,Plant C,6,Short Circuit
+21940,2024-09-07,Generator,Plant B,17,Short Circuit
+21941,2024-04-15,Panel,Plant A,4,Short Circuit
+21942,2024-09-17,Transformer,Plant C,6,Short Circuit
+21943,2024-12-18,Motor,Plant B,15,Overheating
+21944,2024-01-14,Compressor,Plant C,10,Overheating
+21945,2024-03-20,Transformer,Plant B,17,Electrical Fault
+21946,2024-06-08,Panel,Plant B,10,Overheating
+21947,2024-06-26,Transformer,Plant C,5,Short Circuit
+21948,2024-06-03,Panel,Plant B,19,Mechanical Failure
+21949,2024-02-04,Transformer,Plant B,7,Overheating
+21950,2024-09-15,Generator,Plant C,19,Short Circuit
+21951,2024-09-16,Transformer,Plant B,10,Electrical Fault
+21952,2024-05-14,Generator,Plant B,19,Overheating
+21953,2024-05-10,Panel,Plant C,11,Mechanical Failure
+21954,2024-03-21,Compressor,Plant A,3,Short Circuit
+21955,2024-02-28,Compressor,Plant A,11,Overheating
+21956,2024-03-14,Transformer,Plant A,6,Short Circuit
+21957,2024-08-26,Motor,Plant A,6,Mechanical Failure
+21958,2024-05-08,Transformer,Plant A,15,Mechanical Failure
+21959,2024-11-10,Generator,Plant A,3,Electrical Fault
+21960,2024-05-17,Generator,Plant C,22,Mechanical Failure
+21961,2024-04-12,Panel,Plant C,11,Overheating
+21962,2024-01-09,Transformer,Plant C,8,Mechanical Failure
+21963,2024-08-19,Panel,Plant B,23,Overheating
+21964,2024-04-08,Motor,Plant A,23,Overheating
+21965,2024-08-05,Compressor,Plant A,8,Short Circuit
+21966,2024-08-24,Compressor,Plant C,23,Overheating
+21967,2024-08-09,Transformer,Plant B,16,Overheating
+21968,2024-06-16,Panel,Plant B,3,Electrical Fault
+21969,2024-03-02,Panel,Plant C,8,Short Circuit
+21970,2024-11-13,Motor,Plant A,8,Overheating
+21971,2024-01-10,Panel,Plant B,13,Electrical Fault
+21972,2024-08-21,Generator,Plant A,1,Short Circuit
+21973,2024-03-27,Generator,Plant B,10,Mechanical Failure
+21974,2024-09-23,Generator,Plant A,5,Overheating
+21975,2024-07-22,Transformer,Plant B,5,Mechanical Failure
+21976,2024-11-13,Generator,Plant A,17,Short Circuit
+21977,2024-11-28,Generator,Plant A,22,Short Circuit
+21978,2024-12-25,Compressor,Plant A,14,Electrical Fault
+21979,2024-08-28,Transformer,Plant C,6,Overheating
+21980,2024-02-25,Generator,Plant A,14,Overheating
+21981,2024-04-19,Motor,Plant A,12,Electrical Fault
+21982,2024-02-18,Generator,Plant B,20,Mechanical Failure
+21983,2024-08-30,Transformer,Plant B,22,Short Circuit
+21984,2024-01-16,Panel,Plant C,22,Electrical Fault
+21985,2024-03-13,Compressor,Plant B,1,Short Circuit
+21986,2024-07-20,Compressor,Plant A,5,Mechanical Failure
+21987,2024-04-02,Transformer,Plant C,18,Mechanical Failure
+21988,2024-05-16,Generator,Plant C,14,Mechanical Failure
+21989,2024-02-02,Motor,Plant C,7,Overheating
+21990,2024-03-28,Generator,Plant A,15,Short Circuit
+21991,2024-07-21,Generator,Plant A,9,Short Circuit
+21992,2024-02-08,Motor,Plant B,15,Electrical Fault
+21993,2024-04-23,Compressor,Plant B,16,Short Circuit
+21994,2024-11-28,Generator,Plant B,9,Overheating
+21995,2024-09-03,Panel,Plant C,7,Electrical Fault
+21996,2024-12-08,Panel,Plant A,7,Mechanical Failure
+21997,2024-07-26,Transformer,Plant B,17,Short Circuit
+21998,2024-11-07,Transformer,Plant A,11,Overheating
+21999,2024-10-23,Motor,Plant C,6,Overheating
+22000,2024-12-25,Motor,Plant A,14,Short Circuit
+22001,2024-07-29,Transformer,Plant A,15,Overheating
+22002,2024-12-20,Generator,Plant C,21,Mechanical Failure
+22003,2024-02-28,Compressor,Plant B,8,Short Circuit
+22004,2024-06-04,Panel,Plant A,4,Short Circuit
+22005,2024-05-01,Motor,Plant A,1,Short Circuit
+22006,2024-04-29,Transformer,Plant C,6,Electrical Fault
+22007,2024-10-23,Panel,Plant A,1,Mechanical Failure
+22008,2024-11-17,Motor,Plant A,21,Overheating
+22009,2024-03-02,Motor,Plant A,5,Short Circuit
+22010,2024-06-06,Generator,Plant C,19,Short Circuit
+22011,2024-02-09,Motor,Plant A,5,Overheating
+22012,2024-08-29,Compressor,Plant C,22,Mechanical Failure
+22013,2024-02-09,Motor,Plant B,5,Overheating
+22014,2024-12-23,Compressor,Plant A,17,Overheating
+22015,2024-07-08,Generator,Plant C,12,Short Circuit
+22016,2024-08-21,Compressor,Plant C,7,Electrical Fault
+22017,2024-01-15,Panel,Plant A,15,Electrical Fault
+22018,2024-05-03,Motor,Plant C,19,Electrical Fault
+22019,2024-08-15,Transformer,Plant B,23,Electrical Fault
+22020,2024-10-06,Transformer,Plant B,21,Electrical Fault
+22021,2024-02-17,Compressor,Plant B,13,Short Circuit
+22022,2024-07-07,Generator,Plant B,12,Electrical Fault
+22023,2024-10-30,Compressor,Plant C,19,Overheating
+22024,2024-02-16,Compressor,Plant C,13,Short Circuit
+22025,2024-07-02,Compressor,Plant B,6,Overheating
+22026,2024-04-14,Panel,Plant B,1,Electrical Fault
+22027,2024-09-03,Panel,Plant B,6,Mechanical Failure
+22028,2024-09-20,Compressor,Plant B,13,Electrical Fault
+22029,2024-07-24,Generator,Plant B,13,Short Circuit
+22030,2024-01-18,Motor,Plant C,13,Overheating
+22031,2024-12-29,Transformer,Plant B,20,Mechanical Failure
+22032,2024-09-07,Panel,Plant B,4,Mechanical Failure
+22033,2024-08-25,Motor,Plant A,5,Mechanical Failure
+22034,2024-12-05,Panel,Plant C,13,Overheating
+22035,2024-11-16,Panel,Plant B,9,Short Circuit
+22036,2024-12-30,Panel,Plant C,17,Mechanical Failure
+22037,2024-10-28,Compressor,Plant A,3,Overheating
+22038,2024-03-06,Compressor,Plant A,20,Overheating
+22039,2024-12-01,Panel,Plant B,18,Electrical Fault
+22040,2024-05-29,Panel,Plant B,15,Overheating
+22041,2024-07-11,Transformer,Plant B,23,Short Circuit
+22042,2024-05-26,Motor,Plant B,1,Short Circuit
+22043,2024-07-01,Motor,Plant A,9,Mechanical Failure
+22044,2024-04-15,Generator,Plant C,6,Overheating
+22045,2024-08-23,Generator,Plant B,18,Overheating
+22046,2024-05-05,Generator,Plant C,1,Electrical Fault
+22047,2024-06-27,Compressor,Plant B,22,Electrical Fault
+22048,2024-01-13,Compressor,Plant B,7,Overheating
+22049,2024-08-18,Transformer,Plant A,10,Overheating
+22050,2024-01-28,Compressor,Plant B,6,Overheating
+22051,2024-11-18,Generator,Plant B,7,Electrical Fault
+22052,2024-09-17,Panel,Plant B,6,Electrical Fault
+22053,2024-04-09,Generator,Plant A,8,Short Circuit
+22054,2024-07-06,Transformer,Plant C,2,Mechanical Failure
+22055,2024-12-02,Panel,Plant A,9,Mechanical Failure
+22056,2024-10-26,Compressor,Plant B,9,Mechanical Failure
+22057,2024-04-28,Panel,Plant B,7,Mechanical Failure
+22058,2024-02-15,Transformer,Plant B,9,Electrical Fault
+22059,2024-03-08,Compressor,Plant C,17,Electrical Fault
+22060,2024-10-31,Motor,Plant C,3,Overheating
+22061,2024-06-19,Generator,Plant B,16,Short Circuit
+22062,2024-12-23,Generator,Plant B,16,Short Circuit
+22063,2024-07-14,Transformer,Plant C,2,Mechanical Failure
+22064,2024-11-28,Transformer,Plant A,11,Overheating
+22065,2024-01-20,Generator,Plant A,16,Overheating
+22066,2024-04-20,Panel,Plant C,15,Electrical Fault
+22067,2024-05-25,Motor,Plant C,1,Overheating
+22068,2024-07-10,Motor,Plant B,21,Short Circuit
+22069,2024-08-16,Transformer,Plant C,17,Short Circuit
+22070,2024-01-12,Transformer,Plant C,3,Overheating
+22071,2024-08-04,Panel,Plant B,22,Electrical Fault
+22072,2024-03-19,Transformer,Plant C,22,Short Circuit
+22073,2024-02-05,Motor,Plant B,19,Electrical Fault
+22074,2024-09-20,Generator,Plant A,20,Electrical Fault
+22075,2024-01-28,Motor,Plant A,7,Short Circuit
+22076,2024-03-26,Panel,Plant A,22,Electrical Fault
+22077,2024-07-06,Generator,Plant B,11,Mechanical Failure
+22078,2024-10-31,Generator,Plant A,18,Mechanical Failure
+22079,2024-09-10,Motor,Plant A,14,Mechanical Failure
+22080,2024-03-20,Generator,Plant B,16,Overheating
+22081,2024-07-04,Generator,Plant B,6,Short Circuit
+22082,2024-01-05,Transformer,Plant A,2,Mechanical Failure
+22083,2024-02-15,Generator,Plant A,23,Electrical Fault
+22084,2024-12-19,Panel,Plant A,11,Mechanical Failure
+22085,2024-04-11,Generator,Plant C,11,Electrical Fault
+22086,2024-01-02,Transformer,Plant B,10,Short Circuit
+22087,2024-08-04,Compressor,Plant B,4,Mechanical Failure
+22088,2024-01-25,Compressor,Plant B,17,Short Circuit
+22089,2024-09-13,Panel,Plant B,10,Mechanical Failure
+22090,2024-08-10,Panel,Plant A,9,Electrical Fault
+22091,2024-11-19,Generator,Plant B,13,Electrical Fault
+22092,2024-03-09,Generator,Plant C,11,Overheating
+22093,2024-07-15,Compressor,Plant C,10,Overheating
+22094,2024-09-28,Compressor,Plant A,5,Overheating
+22095,2024-06-30,Motor,Plant A,3,Mechanical Failure
+22096,2024-01-18,Compressor,Plant B,4,Short Circuit
+22097,2024-04-16,Compressor,Plant A,3,Mechanical Failure
+22098,2024-01-17,Panel,Plant A,10,Electrical Fault
+22099,2024-05-04,Motor,Plant A,13,Short Circuit
+22100,2024-03-22,Motor,Plant C,5,Electrical Fault
+22101,2024-01-04,Generator,Plant B,13,Overheating
+22102,2024-04-24,Generator,Plant A,1,Electrical Fault
+22103,2024-12-16,Motor,Plant B,11,Mechanical Failure
+22104,2024-12-16,Motor,Plant B,3,Electrical Fault
+22105,2024-05-16,Generator,Plant B,17,Electrical Fault
+22106,2024-10-13,Panel,Plant C,19,Electrical Fault
+22107,2024-08-15,Panel,Plant B,13,Short Circuit
+22108,2024-01-16,Panel,Plant B,16,Electrical Fault
+22109,2024-10-24,Panel,Plant A,18,Electrical Fault
+22110,2024-07-30,Generator,Plant A,23,Overheating
+22111,2024-09-02,Transformer,Plant C,20,Overheating
+22112,2024-10-12,Compressor,Plant B,23,Mechanical Failure
+22113,2024-10-08,Compressor,Plant C,19,Overheating
+22114,2024-06-25,Compressor,Plant B,6,Electrical Fault
+22115,2024-01-31,Compressor,Plant C,23,Overheating
+22116,2024-02-19,Generator,Plant B,7,Short Circuit
+22117,2024-05-22,Transformer,Plant A,15,Mechanical Failure
+22118,2024-02-21,Generator,Plant C,5,Overheating
+22119,2024-08-20,Transformer,Plant A,16,Mechanical Failure
+22120,2024-06-14,Generator,Plant B,6,Mechanical Failure
+22121,2024-02-07,Motor,Plant C,3,Mechanical Failure
+22122,2024-01-20,Transformer,Plant A,12,Short Circuit
+22123,2024-04-08,Compressor,Plant A,4,Electrical Fault
+22124,2024-08-02,Transformer,Plant A,22,Short Circuit
+22125,2024-02-13,Panel,Plant B,3,Mechanical Failure
+22126,2024-04-20,Transformer,Plant C,16,Overheating
+22127,2024-03-29,Panel,Plant A,16,Overheating
+22128,2024-11-14,Panel,Plant B,23,Short Circuit
+22129,2024-04-27,Motor,Plant B,19,Overheating
+22130,2024-08-26,Transformer,Plant B,15,Mechanical Failure
+22131,2024-03-12,Motor,Plant C,9,Mechanical Failure
+22132,2024-11-05,Compressor,Plant B,20,Electrical Fault
+22133,2024-10-30,Transformer,Plant B,2,Mechanical Failure
+22134,2024-06-11,Generator,Plant C,6,Overheating
+22135,2024-09-07,Generator,Plant C,14,Electrical Fault
+22136,2024-12-22,Generator,Plant B,9,Overheating
+22137,2024-07-13,Panel,Plant B,10,Short Circuit
+22138,2024-02-29,Generator,Plant A,18,Electrical Fault
+22139,2024-04-07,Compressor,Plant C,15,Mechanical Failure
+22140,2024-12-21,Transformer,Plant C,4,Electrical Fault
+22141,2024-12-20,Transformer,Plant A,5,Mechanical Failure
+22142,2024-03-13,Panel,Plant B,23,Mechanical Failure
+22143,2024-08-09,Panel,Plant B,21,Overheating
+22144,2024-04-28,Panel,Plant B,6,Mechanical Failure
+22145,2024-06-30,Compressor,Plant B,15,Mechanical Failure
+22146,2024-08-05,Transformer,Plant A,20,Mechanical Failure
+22147,2024-09-12,Motor,Plant C,2,Overheating
+22148,2024-03-28,Panel,Plant C,16,Mechanical Failure
+22149,2024-12-26,Generator,Plant B,5,Short Circuit
+22150,2024-10-01,Motor,Plant A,23,Overheating
+22151,2024-12-01,Motor,Plant B,4,Short Circuit
+22152,2024-01-26,Panel,Plant B,1,Electrical Fault
+22153,2024-04-30,Generator,Plant A,8,Overheating
+22154,2024-10-15,Panel,Plant A,21,Short Circuit
+22155,2024-12-27,Panel,Plant C,10,Overheating
+22156,2024-01-30,Generator,Plant C,15,Mechanical Failure
+22157,2024-07-20,Motor,Plant B,2,Overheating
+22158,2024-02-05,Motor,Plant B,19,Electrical Fault
+22159,2024-05-04,Generator,Plant C,12,Short Circuit
+22160,2024-08-10,Motor,Plant A,10,Overheating
+22161,2024-08-22,Compressor,Plant B,12,Mechanical Failure
+22162,2024-05-03,Panel,Plant B,21,Short Circuit
+22163,2024-06-19,Compressor,Plant A,20,Short Circuit
+22164,2024-06-29,Compressor,Plant B,9,Short Circuit
+22165,2024-08-02,Compressor,Plant A,8,Electrical Fault
+22166,2024-04-27,Transformer,Plant C,2,Mechanical Failure
+22167,2024-08-14,Transformer,Plant C,21,Mechanical Failure
+22168,2024-02-06,Compressor,Plant C,7,Short Circuit
+22169,2024-11-12,Panel,Plant C,4,Overheating
+22170,2024-04-05,Compressor,Plant C,19,Short Circuit
+22171,2024-04-29,Compressor,Plant B,8,Mechanical Failure
+22172,2024-01-12,Transformer,Plant C,13,Electrical Fault
+22173,2024-05-01,Compressor,Plant B,21,Electrical Fault
+22174,2024-02-04,Panel,Plant B,3,Short Circuit
+22175,2024-09-07,Panel,Plant A,5,Electrical Fault
+22176,2024-03-07,Compressor,Plant B,20,Electrical Fault
+22177,2024-02-07,Panel,Plant B,8,Overheating
+22178,2024-10-06,Compressor,Plant C,2,Electrical Fault
+22179,2024-08-17,Transformer,Plant C,10,Overheating
+22180,2024-12-02,Compressor,Plant A,22,Short Circuit
+22181,2024-06-16,Motor,Plant A,16,Mechanical Failure
+22182,2024-11-23,Transformer,Plant B,4,Mechanical Failure
+22183,2024-09-02,Panel,Plant A,14,Overheating
+22184,2024-03-19,Panel,Plant C,3,Mechanical Failure
+22185,2024-04-23,Transformer,Plant C,10,Short Circuit
+22186,2024-10-27,Motor,Plant C,13,Mechanical Failure
+22187,2024-08-04,Transformer,Plant B,5,Electrical Fault
+22188,2024-07-18,Generator,Plant B,22,Short Circuit
+22189,2024-12-17,Motor,Plant A,17,Short Circuit
+22190,2024-08-29,Transformer,Plant C,17,Mechanical Failure
+22191,2024-01-13,Generator,Plant B,11,Mechanical Failure
+22192,2024-12-31,Compressor,Plant B,19,Overheating
+22193,2024-07-25,Motor,Plant A,18,Electrical Fault
+22194,2024-09-18,Compressor,Plant C,17,Mechanical Failure
+22195,2024-04-06,Generator,Plant C,11,Mechanical Failure
+22196,2024-03-11,Panel,Plant A,15,Overheating
+22197,2024-10-29,Panel,Plant A,8,Mechanical Failure
+22198,2024-12-14,Panel,Plant A,12,Electrical Fault
+22199,2024-08-17,Compressor,Plant A,17,Electrical Fault
+22200,2024-12-22,Motor,Plant C,5,Short Circuit
+22201,2024-10-26,Compressor,Plant C,4,Short Circuit
+22202,2024-02-01,Compressor,Plant A,11,Electrical Fault
+22203,2024-09-06,Panel,Plant B,8,Overheating
+22204,2024-09-10,Compressor,Plant B,16,Short Circuit
+22205,2024-09-15,Generator,Plant C,16,Electrical Fault
+22206,2024-06-30,Transformer,Plant C,3,Electrical Fault
+22207,2024-12-05,Transformer,Plant A,12,Short Circuit
+22208,2024-06-14,Transformer,Plant B,13,Electrical Fault
+22209,2024-01-04,Panel,Plant C,1,Electrical Fault
+22210,2024-05-24,Panel,Plant B,4,Electrical Fault
+22211,2024-06-13,Transformer,Plant A,21,Electrical Fault
+22212,2024-12-09,Motor,Plant C,6,Short Circuit
+22213,2024-12-27,Transformer,Plant C,5,Overheating
+22214,2024-04-14,Compressor,Plant B,5,Electrical Fault
+22215,2024-02-05,Transformer,Plant B,21,Mechanical Failure
+22216,2024-11-09,Transformer,Plant C,10,Overheating
+22217,2024-06-17,Motor,Plant B,19,Mechanical Failure
+22218,2024-01-08,Panel,Plant B,18,Mechanical Failure
+22219,2024-03-26,Panel,Plant A,2,Electrical Fault
+22220,2024-04-06,Compressor,Plant B,16,Short Circuit
+22221,2024-11-10,Transformer,Plant C,15,Mechanical Failure
+22222,2024-01-30,Generator,Plant A,5,Mechanical Failure
+22223,2024-04-10,Compressor,Plant C,21,Mechanical Failure
+22224,2024-03-07,Panel,Plant A,22,Electrical Fault
+22225,2024-12-14,Motor,Plant A,9,Electrical Fault
+22226,2024-03-03,Panel,Plant B,23,Short Circuit
+22227,2024-02-01,Panel,Plant B,5,Electrical Fault
+22228,2024-03-27,Motor,Plant C,5,Overheating
+22229,2024-07-29,Transformer,Plant B,9,Short Circuit
+22230,2024-02-20,Transformer,Plant A,9,Electrical Fault
+22231,2024-03-03,Panel,Plant B,2,Electrical Fault
+22232,2024-03-20,Compressor,Plant C,7,Mechanical Failure
+22233,2024-12-08,Generator,Plant A,1,Electrical Fault
+22234,2024-08-19,Compressor,Plant C,20,Mechanical Failure
+22235,2024-12-31,Compressor,Plant B,2,Electrical Fault
+22236,2024-04-10,Panel,Plant A,12,Electrical Fault
+22237,2024-05-08,Panel,Plant C,6,Electrical Fault
+22238,2024-01-19,Generator,Plant B,20,Electrical Fault
+22239,2024-12-22,Generator,Plant B,19,Electrical Fault
+22240,2024-04-03,Generator,Plant C,16,Short Circuit
+22241,2024-03-21,Panel,Plant A,4,Electrical Fault
+22242,2024-04-12,Panel,Plant C,18,Electrical Fault
+22243,2024-06-02,Compressor,Plant B,5,Mechanical Failure
+22244,2024-09-25,Panel,Plant C,22,Overheating
+22245,2024-04-27,Transformer,Plant B,18,Overheating
+22246,2024-12-07,Transformer,Plant A,6,Short Circuit
+22247,2024-10-05,Generator,Plant C,14,Electrical Fault
+22248,2024-12-28,Panel,Plant A,20,Overheating
+22249,2024-08-12,Transformer,Plant C,17,Mechanical Failure
+22250,2024-09-24,Compressor,Plant B,18,Mechanical Failure
+22251,2024-05-16,Motor,Plant A,21,Short Circuit
+22252,2024-08-13,Compressor,Plant B,10,Mechanical Failure
+22253,2024-11-29,Motor,Plant C,23,Overheating
+22254,2024-08-16,Compressor,Plant B,19,Overheating
+22255,2024-11-18,Transformer,Plant C,18,Overheating
+22256,2024-04-17,Panel,Plant A,4,Electrical Fault
+22257,2024-10-26,Motor,Plant B,20,Mechanical Failure
+22258,2024-01-07,Panel,Plant B,15,Mechanical Failure
+22259,2024-05-07,Panel,Plant C,6,Electrical Fault
+22260,2024-12-18,Transformer,Plant C,6,Overheating
+22261,2024-09-23,Generator,Plant C,3,Mechanical Failure
+22262,2024-06-21,Generator,Plant A,9,Overheating
+22263,2024-08-01,Motor,Plant B,11,Electrical Fault
+22264,2024-09-03,Transformer,Plant C,5,Overheating
+22265,2024-04-15,Panel,Plant C,14,Short Circuit
+22266,2024-03-23,Compressor,Plant B,2,Electrical Fault
+22267,2024-10-18,Compressor,Plant A,22,Overheating
+22268,2024-07-21,Motor,Plant B,19,Electrical Fault
+22269,2024-02-10,Motor,Plant C,8,Mechanical Failure
+22270,2024-07-23,Motor,Plant B,13,Short Circuit
+22271,2024-12-13,Transformer,Plant C,19,Electrical Fault
+22272,2024-02-18,Compressor,Plant C,5,Overheating
+22273,2024-05-22,Transformer,Plant B,15,Mechanical Failure
+22274,2024-05-20,Transformer,Plant B,4,Overheating
+22275,2024-02-22,Panel,Plant A,4,Overheating
+22276,2024-04-16,Transformer,Plant C,18,Electrical Fault
+22277,2024-02-02,Transformer,Plant C,19,Electrical Fault
+22278,2024-07-18,Panel,Plant C,20,Overheating
+22279,2024-04-28,Generator,Plant C,22,Electrical Fault
+22280,2024-10-14,Panel,Plant C,9,Overheating
+22281,2024-08-16,Motor,Plant B,15,Electrical Fault
+22282,2024-04-27,Generator,Plant C,12,Short Circuit
+22283,2024-06-24,Compressor,Plant B,4,Electrical Fault
+22284,2024-07-03,Transformer,Plant A,3,Overheating
+22285,2024-11-13,Generator,Plant C,5,Mechanical Failure
+22286,2024-12-03,Compressor,Plant A,17,Electrical Fault
+22287,2024-08-02,Panel,Plant B,5,Short Circuit
+22288,2024-08-08,Panel,Plant B,4,Short Circuit
+22289,2024-05-09,Motor,Plant A,21,Short Circuit
+22290,2024-11-28,Motor,Plant C,7,Short Circuit
+22291,2024-09-28,Generator,Plant B,7,Overheating
+22292,2024-09-02,Transformer,Plant B,7,Short Circuit
+22293,2024-05-02,Panel,Plant B,17,Mechanical Failure
+22294,2024-01-08,Generator,Plant B,15,Electrical Fault
+22295,2024-03-07,Generator,Plant B,7,Short Circuit
+22296,2024-04-24,Generator,Plant B,15,Electrical Fault
+22297,2024-10-14,Motor,Plant A,20,Overheating
+22298,2024-04-14,Panel,Plant C,4,Electrical Fault
+22299,2024-01-25,Motor,Plant C,2,Overheating
+22300,2024-02-22,Motor,Plant C,22,Overheating
+22301,2024-09-03,Generator,Plant C,13,Electrical Fault
+22302,2024-12-02,Compressor,Plant A,12,Short Circuit
+22303,2024-10-07,Compressor,Plant A,10,Mechanical Failure
+22304,2024-02-02,Compressor,Plant C,19,Electrical Fault
+22305,2024-10-13,Generator,Plant B,15,Mechanical Failure
+22306,2024-02-05,Transformer,Plant C,17,Electrical Fault
+22307,2024-12-08,Panel,Plant B,21,Mechanical Failure
+22308,2024-08-26,Generator,Plant B,6,Electrical Fault
+22309,2024-08-04,Generator,Plant A,5,Mechanical Failure
+22310,2024-06-25,Motor,Plant B,21,Mechanical Failure
+22311,2024-02-13,Compressor,Plant A,13,Electrical Fault
+22312,2024-10-30,Generator,Plant C,14,Electrical Fault
+22313,2024-06-06,Transformer,Plant A,14,Overheating
+22314,2024-09-25,Panel,Plant B,15,Mechanical Failure
+22315,2024-06-19,Transformer,Plant B,16,Electrical Fault
+22316,2024-08-08,Generator,Plant B,10,Short Circuit
+22317,2024-08-17,Generator,Plant C,1,Short Circuit
+22318,2024-03-31,Motor,Plant A,11,Overheating
+22319,2024-05-10,Transformer,Plant C,7,Short Circuit
+22320,2024-08-13,Motor,Plant A,17,Electrical Fault
+22321,2024-08-12,Transformer,Plant C,4,Mechanical Failure
+22322,2024-05-22,Compressor,Plant C,7,Electrical Fault
+22323,2024-03-06,Compressor,Plant B,3,Short Circuit
+22324,2024-01-28,Transformer,Plant C,20,Short Circuit
+22325,2024-05-04,Motor,Plant C,14,Electrical Fault
+22326,2024-07-30,Compressor,Plant A,18,Overheating
+22327,2024-03-20,Generator,Plant C,18,Electrical Fault
+22328,2024-08-25,Panel,Plant B,1,Overheating
+22329,2024-05-11,Motor,Plant C,6,Short Circuit
+22330,2024-11-23,Transformer,Plant A,9,Mechanical Failure
+22331,2024-10-26,Panel,Plant A,2,Mechanical Failure
+22332,2024-04-28,Panel,Plant C,8,Electrical Fault
+22333,2024-02-15,Generator,Plant C,20,Overheating
+22334,2024-03-24,Motor,Plant A,4,Short Circuit
+22335,2024-10-08,Panel,Plant B,21,Mechanical Failure
+22336,2024-12-17,Motor,Plant C,10,Electrical Fault
+22337,2024-01-13,Generator,Plant B,23,Electrical Fault
+22338,2024-05-04,Transformer,Plant B,1,Short Circuit
+22339,2024-11-20,Panel,Plant C,11,Short Circuit
+22340,2024-06-20,Panel,Plant B,9,Electrical Fault
+22341,2024-08-21,Panel,Plant A,19,Electrical Fault
+22342,2024-06-29,Motor,Plant B,11,Electrical Fault
+22343,2024-02-20,Panel,Plant A,4,Overheating
+22344,2024-09-25,Motor,Plant C,23,Short Circuit
+22345,2024-06-17,Compressor,Plant B,5,Electrical Fault
+22346,2024-11-11,Compressor,Plant A,21,Short Circuit
+22347,2024-10-14,Motor,Plant A,17,Electrical Fault
+22348,2024-09-30,Compressor,Plant C,18,Electrical Fault
+22349,2024-12-14,Generator,Plant B,5,Electrical Fault
+22350,2024-07-25,Generator,Plant A,18,Short Circuit
+22351,2024-05-27,Compressor,Plant A,17,Electrical Fault
+22352,2024-10-26,Transformer,Plant C,3,Electrical Fault
+22353,2024-02-06,Motor,Plant B,11,Short Circuit
+22354,2024-06-09,Compressor,Plant B,17,Electrical Fault
+22355,2024-10-01,Motor,Plant A,8,Mechanical Failure
+22356,2024-10-14,Compressor,Plant B,8,Mechanical Failure
+22357,2024-04-15,Generator,Plant B,23,Electrical Fault
+22358,2024-01-22,Transformer,Plant B,23,Overheating
+22359,2024-08-20,Motor,Plant B,2,Short Circuit
+22360,2024-05-01,Transformer,Plant B,7,Electrical Fault
+22361,2024-05-08,Generator,Plant B,21,Short Circuit
+22362,2024-11-05,Panel,Plant B,20,Overheating
+22363,2024-08-04,Panel,Plant A,21,Overheating
+22364,2024-05-27,Motor,Plant A,6,Short Circuit
+22365,2024-02-27,Generator,Plant B,20,Overheating
+22366,2024-08-24,Motor,Plant B,18,Overheating
+22367,2024-03-10,Motor,Plant C,7,Short Circuit
+22368,2024-07-07,Motor,Plant A,18,Overheating
+22369,2024-08-29,Transformer,Plant C,12,Mechanical Failure
+22370,2024-03-03,Compressor,Plant A,7,Electrical Fault
+22371,2024-08-28,Generator,Plant C,7,Mechanical Failure
+22372,2024-07-03,Transformer,Plant C,1,Mechanical Failure
+22373,2024-09-15,Compressor,Plant C,10,Electrical Fault
+22374,2024-08-16,Motor,Plant A,10,Mechanical Failure
+22375,2024-08-10,Panel,Plant A,12,Electrical Fault
+22376,2024-04-08,Transformer,Plant B,3,Electrical Fault
+22377,2024-09-03,Generator,Plant A,3,Short Circuit
+22378,2024-02-14,Generator,Plant A,13,Electrical Fault
+22379,2024-09-29,Compressor,Plant A,13,Electrical Fault
+22380,2024-01-05,Transformer,Plant A,6,Overheating
+22381,2024-01-11,Motor,Plant B,3,Overheating
+22382,2024-12-13,Compressor,Plant B,15,Mechanical Failure
+22383,2024-02-08,Generator,Plant A,9,Electrical Fault
+22384,2024-02-11,Transformer,Plant C,21,Electrical Fault
+22385,2024-07-21,Panel,Plant C,6,Short Circuit
+22386,2024-04-03,Motor,Plant A,6,Electrical Fault
+22387,2024-01-05,Generator,Plant B,8,Short Circuit
+22388,2024-02-21,Transformer,Plant C,11,Electrical Fault
+22389,2024-05-29,Panel,Plant B,19,Overheating
+22390,2024-07-23,Generator,Plant B,16,Overheating
+22391,2024-10-26,Panel,Plant C,9,Overheating
+22392,2024-07-05,Generator,Plant A,23,Mechanical Failure
+22393,2024-06-01,Compressor,Plant B,11,Electrical Fault
+22394,2024-04-25,Compressor,Plant C,16,Overheating
+22395,2024-05-28,Compressor,Plant B,6,Short Circuit
+22396,2024-08-07,Transformer,Plant C,17,Overheating
+22397,2024-07-10,Compressor,Plant A,16,Electrical Fault
+22398,2024-08-20,Transformer,Plant A,20,Overheating
+22399,2024-11-19,Motor,Plant A,21,Electrical Fault
+22400,2024-08-08,Compressor,Plant B,18,Electrical Fault
+22401,2024-02-16,Transformer,Plant A,1,Overheating
+22402,2024-05-06,Generator,Plant A,18,Short Circuit
+22403,2024-10-17,Transformer,Plant A,8,Mechanical Failure
+22404,2024-08-02,Transformer,Plant A,22,Electrical Fault
+22405,2024-01-07,Generator,Plant C,10,Mechanical Failure
+22406,2024-07-02,Transformer,Plant C,2,Overheating
+22407,2024-04-25,Generator,Plant B,9,Electrical Fault
+22408,2024-02-21,Panel,Plant C,4,Electrical Fault
+22409,2024-12-31,Compressor,Plant C,11,Overheating
+22410,2024-02-15,Motor,Plant C,10,Mechanical Failure
+22411,2024-01-23,Transformer,Plant C,14,Short Circuit
+22412,2024-05-10,Generator,Plant C,7,Overheating
+22413,2024-05-06,Compressor,Plant A,19,Overheating
+22414,2024-09-21,Transformer,Plant B,6,Short Circuit
+22415,2024-11-04,Compressor,Plant C,16,Short Circuit
+22416,2024-07-14,Panel,Plant C,19,Short Circuit
+22417,2024-02-17,Transformer,Plant B,19,Short Circuit
+22418,2024-03-22,Generator,Plant C,13,Overheating
+22419,2024-04-18,Panel,Plant C,12,Short Circuit
+22420,2024-09-19,Transformer,Plant B,22,Mechanical Failure
+22421,2024-12-20,Compressor,Plant A,15,Short Circuit
+22422,2024-01-31,Panel,Plant A,8,Electrical Fault
+22423,2024-12-23,Generator,Plant B,4,Electrical Fault
+22424,2024-02-25,Transformer,Plant A,20,Short Circuit
+22425,2024-12-20,Compressor,Plant A,8,Overheating
+22426,2024-07-07,Compressor,Plant A,23,Overheating
+22427,2024-01-05,Panel,Plant A,21,Mechanical Failure
+22428,2024-10-12,Transformer,Plant C,16,Overheating
+22429,2024-10-04,Compressor,Plant B,16,Mechanical Failure
+22430,2024-05-24,Panel,Plant A,2,Mechanical Failure
+22431,2024-07-14,Motor,Plant A,22,Mechanical Failure
+22432,2024-01-27,Compressor,Plant B,17,Short Circuit
+22433,2024-05-06,Panel,Plant C,23,Overheating
+22434,2024-05-14,Motor,Plant A,5,Electrical Fault
+22435,2024-01-23,Panel,Plant A,5,Mechanical Failure
+22436,2024-11-26,Compressor,Plant C,12,Electrical Fault
+22437,2024-04-26,Motor,Plant B,7,Mechanical Failure
+22438,2024-01-08,Panel,Plant A,5,Overheating
+22439,2024-04-10,Transformer,Plant A,4,Short Circuit
+22440,2024-09-17,Motor,Plant B,17,Mechanical Failure
+22441,2024-07-17,Panel,Plant C,6,Mechanical Failure
+22442,2024-03-26,Transformer,Plant B,14,Electrical Fault
+22443,2024-08-15,Motor,Plant A,9,Short Circuit
+22444,2024-06-27,Panel,Plant C,4,Overheating
+22445,2024-08-27,Compressor,Plant C,11,Mechanical Failure
+22446,2024-01-12,Motor,Plant C,20,Overheating
+22447,2024-10-29,Motor,Plant B,21,Short Circuit
+22448,2024-08-21,Transformer,Plant B,16,Electrical Fault
+22449,2024-07-01,Panel,Plant B,16,Short Circuit
+22450,2024-10-08,Compressor,Plant A,16,Short Circuit
+22451,2024-12-23,Transformer,Plant B,6,Short Circuit
+22452,2024-07-08,Motor,Plant C,15,Short Circuit
+22453,2024-11-21,Transformer,Plant A,3,Overheating
+22454,2024-08-02,Transformer,Plant A,9,Overheating
+22455,2024-09-14,Transformer,Plant A,1,Electrical Fault
+22456,2024-01-26,Motor,Plant C,11,Mechanical Failure
+22457,2024-09-26,Generator,Plant B,22,Mechanical Failure
+22458,2024-03-22,Transformer,Plant C,6,Short Circuit
+22459,2024-12-23,Generator,Plant B,5,Short Circuit
+22460,2024-07-03,Compressor,Plant A,18,Overheating
+22461,2024-10-14,Compressor,Plant A,21,Mechanical Failure
+22462,2024-03-02,Compressor,Plant C,12,Electrical Fault
+22463,2024-01-30,Panel,Plant B,7,Short Circuit
+22464,2024-01-31,Motor,Plant A,2,Overheating
+22465,2024-10-19,Generator,Plant C,7,Short Circuit
+22466,2024-06-21,Panel,Plant C,9,Short Circuit
+22467,2024-04-11,Generator,Plant B,20,Overheating
+22468,2024-05-07,Motor,Plant B,8,Mechanical Failure
+22469,2024-03-26,Transformer,Plant B,9,Mechanical Failure
+22470,2024-11-10,Panel,Plant A,10,Short Circuit
+22471,2024-01-28,Motor,Plant C,12,Mechanical Failure
+22472,2024-05-01,Panel,Plant B,2,Overheating
+22473,2024-09-07,Compressor,Plant C,10,Mechanical Failure
+22474,2024-03-01,Panel,Plant A,3,Short Circuit
+22475,2024-06-19,Transformer,Plant A,1,Short Circuit
+22476,2024-09-28,Transformer,Plant B,17,Overheating
+22477,2024-11-20,Generator,Plant A,22,Short Circuit
+22478,2024-10-26,Panel,Plant C,1,Mechanical Failure
+22479,2024-04-22,Compressor,Plant C,5,Overheating
+22480,2024-07-12,Transformer,Plant A,14,Short Circuit
+22481,2024-01-19,Generator,Plant A,6,Overheating
+22482,2024-12-05,Compressor,Plant A,9,Overheating
+22483,2024-04-02,Compressor,Plant C,22,Mechanical Failure
+22484,2024-08-04,Compressor,Plant A,14,Mechanical Failure
+22485,2024-06-27,Motor,Plant B,4,Electrical Fault
+22486,2024-07-09,Transformer,Plant B,1,Overheating
+22487,2024-06-11,Motor,Plant C,6,Mechanical Failure
+22488,2024-04-09,Motor,Plant A,7,Short Circuit
+22489,2024-07-05,Transformer,Plant A,21,Electrical Fault
+22490,2024-10-21,Panel,Plant A,6,Electrical Fault
+22491,2024-03-07,Generator,Plant B,1,Short Circuit
+22492,2024-03-13,Transformer,Plant B,8,Mechanical Failure
+22493,2024-08-19,Generator,Plant B,12,Overheating
+22494,2024-07-07,Panel,Plant B,11,Electrical Fault
+22495,2024-02-19,Transformer,Plant B,2,Short Circuit
+22496,2024-11-04,Compressor,Plant C,2,Short Circuit
+22497,2024-10-28,Transformer,Plant C,2,Short Circuit
+22498,2024-11-03,Panel,Plant A,8,Short Circuit
+22499,2024-05-03,Motor,Plant A,21,Electrical Fault
+22500,2024-06-05,Transformer,Plant B,7,Overheating
+22501,2024-09-17,Compressor,Plant A,16,Mechanical Failure
+22502,2024-07-13,Transformer,Plant C,22,Short Circuit
+22503,2024-11-25,Motor,Plant C,9,Short Circuit
+22504,2024-12-16,Transformer,Plant A,16,Overheating
+22505,2024-11-26,Compressor,Plant B,2,Overheating
+22506,2024-09-12,Panel,Plant C,3,Mechanical Failure
+22507,2024-07-18,Compressor,Plant A,2,Electrical Fault
+22508,2024-03-08,Panel,Plant B,22,Overheating
+22509,2024-03-20,Compressor,Plant A,19,Electrical Fault
+22510,2024-08-20,Generator,Plant B,17,Electrical Fault
+22511,2024-07-04,Transformer,Plant B,20,Short Circuit
+22512,2024-04-14,Transformer,Plant C,21,Electrical Fault
+22513,2024-11-20,Motor,Plant C,12,Short Circuit
+22514,2024-05-21,Generator,Plant A,11,Short Circuit
+22515,2024-09-28,Motor,Plant A,20,Mechanical Failure
+22516,2024-12-08,Transformer,Plant B,22,Electrical Fault
+22517,2024-05-03,Motor,Plant C,19,Overheating
+22518,2024-08-10,Panel,Plant B,6,Overheating
+22519,2024-06-22,Generator,Plant B,10,Overheating
+22520,2024-07-09,Compressor,Plant B,14,Mechanical Failure
+22521,2024-05-19,Panel,Plant B,1,Short Circuit
+22522,2024-10-23,Compressor,Plant B,15,Short Circuit
+22523,2024-04-28,Motor,Plant B,6,Overheating
+22524,2024-10-01,Transformer,Plant A,13,Short Circuit
+22525,2024-03-16,Panel,Plant C,14,Short Circuit
+22526,2024-04-18,Generator,Plant C,13,Mechanical Failure
+22527,2024-04-28,Compressor,Plant B,16,Electrical Fault
+22528,2024-09-14,Panel,Plant B,1,Electrical Fault
+22529,2024-01-20,Transformer,Plant B,14,Mechanical Failure
+22530,2024-04-28,Generator,Plant C,13,Mechanical Failure
+22531,2024-12-16,Generator,Plant C,23,Short Circuit
+22532,2024-05-16,Compressor,Plant B,10,Mechanical Failure
+22533,2024-10-03,Panel,Plant C,10,Short Circuit
+22534,2024-09-11,Panel,Plant B,4,Electrical Fault
+22535,2024-09-20,Generator,Plant B,14,Mechanical Failure
+22536,2024-06-15,Motor,Plant B,12,Short Circuit
+22537,2024-06-13,Generator,Plant A,22,Electrical Fault
+22538,2024-01-29,Transformer,Plant C,6,Electrical Fault
+22539,2024-02-04,Panel,Plant C,15,Overheating
+22540,2024-08-24,Compressor,Plant C,5,Electrical Fault
+22541,2024-10-20,Panel,Plant B,10,Mechanical Failure
+22542,2024-03-30,Generator,Plant A,9,Mechanical Failure
+22543,2024-07-21,Transformer,Plant B,10,Short Circuit
+22544,2024-08-15,Motor,Plant B,12,Mechanical Failure
+22545,2024-03-08,Panel,Plant B,22,Electrical Fault
+22546,2024-05-10,Generator,Plant A,4,Short Circuit
+22547,2024-12-30,Generator,Plant B,4,Electrical Fault
+22548,2024-04-20,Generator,Plant B,13,Overheating
+22549,2024-01-12,Transformer,Plant A,14,Short Circuit
+22550,2024-10-14,Generator,Plant B,12,Overheating
+22551,2024-06-23,Generator,Plant B,13,Short Circuit
+22552,2024-11-14,Generator,Plant C,20,Mechanical Failure
+22553,2024-06-02,Panel,Plant A,13,Electrical Fault
+22554,2024-02-12,Generator,Plant C,23,Short Circuit
+22555,2024-12-28,Transformer,Plant B,22,Mechanical Failure
+22556,2024-07-23,Panel,Plant A,2,Mechanical Failure
+22557,2024-06-20,Generator,Plant A,21,Mechanical Failure
+22558,2024-10-20,Motor,Plant B,19,Overheating
+22559,2024-10-11,Transformer,Plant C,9,Mechanical Failure
+22560,2024-11-06,Motor,Plant B,10,Short Circuit
+22561,2024-02-21,Transformer,Plant A,17,Overheating
+22562,2024-04-24,Motor,Plant A,10,Electrical Fault
+22563,2024-01-19,Generator,Plant B,20,Mechanical Failure
+22564,2024-02-04,Motor,Plant B,13,Short Circuit
+22565,2024-02-17,Motor,Plant B,20,Short Circuit
+22566,2024-08-20,Transformer,Plant B,1,Overheating
+22567,2024-08-06,Generator,Plant C,2,Electrical Fault
+22568,2024-04-19,Transformer,Plant C,17,Overheating
+22569,2024-09-10,Generator,Plant C,13,Mechanical Failure
+22570,2024-07-06,Compressor,Plant C,17,Electrical Fault
+22571,2024-01-31,Panel,Plant A,13,Electrical Fault
+22572,2024-09-15,Panel,Plant A,17,Electrical Fault
+22573,2024-06-11,Transformer,Plant C,19,Overheating
+22574,2024-12-09,Generator,Plant B,14,Short Circuit
+22575,2024-11-03,Motor,Plant A,20,Overheating
+22576,2024-03-11,Panel,Plant B,10,Short Circuit
+22577,2024-11-02,Transformer,Plant C,2,Overheating
+22578,2024-02-25,Transformer,Plant A,14,Short Circuit
+22579,2024-04-08,Transformer,Plant A,17,Short Circuit
+22580,2024-01-21,Generator,Plant A,5,Electrical Fault
+22581,2024-04-17,Transformer,Plant A,22,Short Circuit
+22582,2024-02-22,Compressor,Plant C,18,Mechanical Failure
+22583,2024-01-06,Motor,Plant A,3,Mechanical Failure
+22584,2024-08-18,Transformer,Plant C,16,Short Circuit
+22585,2024-03-22,Generator,Plant A,19,Short Circuit
+22586,2024-08-04,Motor,Plant C,18,Short Circuit
+22587,2024-11-30,Motor,Plant C,20,Short Circuit
+22588,2024-02-16,Panel,Plant B,5,Electrical Fault
+22589,2024-12-17,Transformer,Plant C,8,Mechanical Failure
+22590,2024-12-27,Transformer,Plant B,6,Electrical Fault
+22591,2024-08-28,Generator,Plant A,15,Mechanical Failure
+22592,2024-06-26,Compressor,Plant B,3,Short Circuit
+22593,2024-03-22,Compressor,Plant C,9,Mechanical Failure
+22594,2024-10-13,Panel,Plant B,11,Mechanical Failure
+22595,2024-07-10,Compressor,Plant A,20,Overheating
+22596,2024-05-22,Generator,Plant B,23,Overheating
+22597,2024-11-09,Panel,Plant C,14,Short Circuit
+22598,2024-10-05,Transformer,Plant C,23,Electrical Fault
+22599,2024-02-10,Compressor,Plant A,9,Overheating
+22600,2024-09-27,Generator,Plant A,10,Short Circuit
+22601,2024-03-27,Generator,Plant B,15,Electrical Fault
+22602,2024-01-03,Transformer,Plant A,18,Overheating
+22603,2024-07-29,Generator,Plant C,21,Mechanical Failure
+22604,2024-01-01,Panel,Plant B,19,Overheating
+22605,2024-03-15,Panel,Plant B,7,Short Circuit
+22606,2024-08-18,Motor,Plant B,19,Overheating
+22607,2024-03-16,Transformer,Plant B,5,Overheating
+22608,2024-09-16,Generator,Plant A,21,Electrical Fault
+22609,2024-01-25,Compressor,Plant B,18,Electrical Fault
+22610,2024-07-18,Panel,Plant B,1,Mechanical Failure
+22611,2024-04-03,Transformer,Plant B,12,Short Circuit
+22612,2024-12-17,Transformer,Plant C,6,Mechanical Failure
+22613,2024-04-17,Panel,Plant C,13,Mechanical Failure
+22614,2024-12-20,Motor,Plant A,17,Overheating
+22615,2024-04-04,Transformer,Plant C,9,Mechanical Failure
+22616,2024-12-21,Generator,Plant C,21,Electrical Fault
+22617,2024-03-31,Compressor,Plant A,1,Mechanical Failure
+22618,2024-02-13,Compressor,Plant A,12,Short Circuit
+22619,2024-01-23,Panel,Plant B,1,Mechanical Failure
+22620,2024-07-08,Transformer,Plant B,4,Short Circuit
+22621,2024-01-23,Compressor,Plant A,7,Short Circuit
+22622,2024-08-21,Transformer,Plant B,20,Mechanical Failure
+22623,2024-07-04,Panel,Plant B,5,Mechanical Failure
+22624,2024-11-06,Motor,Plant B,23,Mechanical Failure
+22625,2024-11-28,Compressor,Plant A,20,Short Circuit
+22626,2024-03-03,Generator,Plant C,5,Electrical Fault
+22627,2024-04-12,Panel,Plant C,7,Overheating
+22628,2024-11-11,Motor,Plant A,17,Mechanical Failure
+22629,2024-07-07,Generator,Plant A,12,Overheating
+22630,2024-12-01,Generator,Plant B,15,Mechanical Failure
+22631,2024-07-07,Compressor,Plant A,3,Short Circuit
+22632,2024-12-16,Transformer,Plant A,17,Short Circuit
+22633,2024-03-09,Panel,Plant A,14,Overheating
+22634,2024-04-23,Generator,Plant A,15,Electrical Fault
+22635,2024-04-13,Compressor,Plant B,15,Short Circuit
+22636,2024-04-17,Motor,Plant B,15,Overheating
+22637,2024-12-10,Generator,Plant A,19,Short Circuit
+22638,2024-01-21,Motor,Plant A,11,Mechanical Failure
+22639,2024-09-22,Panel,Plant C,18,Overheating
+22640,2024-12-08,Compressor,Plant C,21,Overheating
+22641,2024-07-27,Motor,Plant A,10,Mechanical Failure
+22642,2024-06-18,Transformer,Plant C,21,Overheating
+22643,2024-07-12,Motor,Plant C,9,Mechanical Failure
+22644,2024-12-12,Motor,Plant B,3,Electrical Fault
+22645,2024-05-02,Compressor,Plant B,1,Mechanical Failure
+22646,2024-06-25,Compressor,Plant B,21,Electrical Fault
+22647,2024-01-04,Generator,Plant C,11,Overheating
+22648,2024-07-06,Motor,Plant A,16,Mechanical Failure
+22649,2024-12-11,Motor,Plant B,3,Overheating
+22650,2024-12-17,Compressor,Plant C,21,Electrical Fault
+22651,2024-01-29,Transformer,Plant A,9,Short Circuit
+22652,2024-03-26,Compressor,Plant B,11,Short Circuit
+22653,2024-02-16,Transformer,Plant C,17,Short Circuit
+22654,2024-03-17,Compressor,Plant B,1,Short Circuit
+22655,2024-12-08,Panel,Plant C,9,Short Circuit
+22656,2024-07-09,Motor,Plant B,3,Electrical Fault
+22657,2024-01-31,Transformer,Plant C,10,Short Circuit
+22658,2024-11-02,Panel,Plant A,5,Short Circuit
+22659,2024-06-17,Transformer,Plant B,11,Overheating
+22660,2024-02-05,Generator,Plant B,5,Mechanical Failure
+22661,2024-09-01,Generator,Plant C,12,Mechanical Failure
+22662,2024-12-16,Motor,Plant A,14,Mechanical Failure
+22663,2024-07-06,Panel,Plant A,12,Mechanical Failure
+22664,2024-01-15,Panel,Plant B,19,Electrical Fault
+22665,2024-11-29,Generator,Plant C,9,Mechanical Failure
+22666,2024-08-03,Motor,Plant B,7,Overheating
+22667,2024-06-06,Generator,Plant C,16,Electrical Fault
+22668,2024-06-03,Panel,Plant A,7,Short Circuit
+22669,2024-08-28,Transformer,Plant B,14,Overheating
+22670,2024-10-22,Panel,Plant C,8,Overheating
+22671,2024-02-14,Motor,Plant A,21,Short Circuit
+22672,2024-06-23,Panel,Plant C,18,Short Circuit
+22673,2024-12-11,Compressor,Plant B,3,Overheating
+22674,2024-02-25,Panel,Plant C,2,Electrical Fault
+22675,2024-02-23,Compressor,Plant B,5,Short Circuit
+22676,2024-12-06,Generator,Plant A,8,Mechanical Failure
+22677,2024-09-21,Compressor,Plant C,19,Overheating
+22678,2024-08-26,Panel,Plant A,22,Overheating
+22679,2024-11-16,Panel,Plant A,9,Short Circuit
+22680,2024-04-17,Panel,Plant B,2,Short Circuit
+22681,2024-07-16,Motor,Plant B,15,Mechanical Failure
+22682,2024-08-01,Generator,Plant A,8,Mechanical Failure
+22683,2024-09-02,Compressor,Plant B,10,Mechanical Failure
+22684,2024-02-07,Transformer,Plant A,7,Mechanical Failure
+22685,2024-06-21,Compressor,Plant B,19,Overheating
+22686,2024-04-14,Panel,Plant B,1,Short Circuit
+22687,2024-02-09,Transformer,Plant C,22,Electrical Fault
+22688,2024-05-09,Transformer,Plant C,2,Short Circuit
+22689,2024-06-29,Compressor,Plant B,3,Short Circuit
+22690,2024-07-12,Compressor,Plant A,14,Mechanical Failure
+22691,2024-11-26,Compressor,Plant A,15,Mechanical Failure
+22692,2024-10-15,Compressor,Plant A,21,Overheating
+22693,2024-12-06,Generator,Plant B,14,Mechanical Failure
+22694,2024-02-28,Motor,Plant B,8,Overheating
+22695,2024-12-16,Motor,Plant A,18,Short Circuit
+22696,2024-01-26,Compressor,Plant C,22,Short Circuit
+22697,2024-04-12,Motor,Plant C,17,Short Circuit
+22698,2024-01-21,Compressor,Plant A,7,Overheating
+22699,2024-03-20,Compressor,Plant B,20,Overheating
+22700,2024-11-22,Compressor,Plant B,1,Overheating
+22701,2024-07-17,Generator,Plant A,9,Mechanical Failure
+22702,2024-11-17,Panel,Plant C,9,Electrical Fault
+22703,2024-02-06,Motor,Plant A,11,Mechanical Failure
+22704,2024-01-14,Motor,Plant A,19,Electrical Fault
+22705,2024-08-08,Generator,Plant A,6,Mechanical Failure
+22706,2024-12-29,Generator,Plant C,7,Short Circuit
+22707,2024-06-14,Compressor,Plant A,15,Overheating
+22708,2024-06-21,Compressor,Plant C,20,Mechanical Failure
+22709,2024-05-29,Panel,Plant B,6,Overheating
+22710,2024-06-20,Motor,Plant C,9,Mechanical Failure
+22711,2024-03-21,Generator,Plant C,15,Short Circuit
+22712,2024-12-01,Panel,Plant A,22,Overheating
+22713,2024-08-12,Motor,Plant B,23,Short Circuit
+22714,2024-12-24,Panel,Plant A,6,Electrical Fault
+22715,2024-02-04,Panel,Plant C,7,Overheating
+22716,2024-12-23,Compressor,Plant C,17,Mechanical Failure
+22717,2024-07-06,Panel,Plant A,6,Overheating
+22718,2024-08-11,Compressor,Plant B,9,Electrical Fault
+22719,2024-05-10,Motor,Plant C,3,Electrical Fault
+22720,2024-12-16,Motor,Plant C,14,Mechanical Failure
+22721,2024-11-06,Compressor,Plant C,6,Short Circuit
+22722,2024-01-09,Transformer,Plant B,4,Overheating
+22723,2024-03-09,Panel,Plant A,16,Short Circuit
+22724,2024-01-28,Motor,Plant B,23,Short Circuit
+22725,2024-08-21,Panel,Plant B,16,Mechanical Failure
+22726,2024-01-31,Transformer,Plant C,23,Overheating
+22727,2024-11-10,Panel,Plant B,9,Electrical Fault
+22728,2024-08-19,Transformer,Plant C,4,Mechanical Failure
+22729,2024-12-03,Generator,Plant B,8,Short Circuit
+22730,2024-02-23,Transformer,Plant B,8,Electrical Fault
+22731,2024-06-23,Motor,Plant A,6,Short Circuit
+22732,2024-10-24,Compressor,Plant B,8,Overheating
+22733,2024-10-05,Compressor,Plant A,6,Short Circuit
+22734,2024-12-30,Panel,Plant C,14,Electrical Fault
+22735,2024-03-26,Generator,Plant C,14,Overheating
+22736,2024-03-05,Panel,Plant A,18,Mechanical Failure
+22737,2024-03-29,Transformer,Plant C,13,Short Circuit
+22738,2024-02-23,Compressor,Plant C,15,Overheating
+22739,2024-04-27,Transformer,Plant B,3,Overheating
+22740,2024-12-26,Compressor,Plant A,6,Mechanical Failure
+22741,2024-08-16,Compressor,Plant C,23,Mechanical Failure
+22742,2024-09-23,Compressor,Plant A,20,Electrical Fault
+22743,2024-11-14,Motor,Plant B,17,Overheating
+22744,2024-01-22,Transformer,Plant C,20,Overheating
+22745,2024-09-03,Panel,Plant C,16,Electrical Fault
+22746,2024-11-09,Generator,Plant A,6,Short Circuit
+22747,2024-01-20,Panel,Plant C,8,Overheating
+22748,2024-07-02,Transformer,Plant A,13,Overheating
+22749,2024-12-14,Generator,Plant C,13,Short Circuit
+22750,2024-02-19,Panel,Plant B,20,Mechanical Failure
+22751,2024-03-30,Generator,Plant B,17,Mechanical Failure
+22752,2024-04-13,Transformer,Plant A,21,Mechanical Failure
+22753,2024-07-12,Compressor,Plant C,23,Electrical Fault
+22754,2024-03-14,Transformer,Plant C,22,Short Circuit
+22755,2024-09-25,Motor,Plant A,3,Mechanical Failure
+22756,2024-01-15,Generator,Plant B,13,Electrical Fault
+22757,2024-11-24,Transformer,Plant B,7,Short Circuit
+22758,2024-10-09,Compressor,Plant B,20,Mechanical Failure
+22759,2024-07-16,Compressor,Plant A,5,Overheating
+22760,2024-12-09,Transformer,Plant B,11,Overheating
+22761,2024-07-13,Panel,Plant A,23,Mechanical Failure
+22762,2024-02-05,Transformer,Plant B,18,Mechanical Failure
+22763,2024-07-23,Compressor,Plant B,4,Electrical Fault
+22764,2024-11-03,Transformer,Plant A,20,Overheating
+22765,2024-05-18,Motor,Plant C,22,Short Circuit
+22766,2024-09-20,Panel,Plant C,7,Mechanical Failure
+22767,2024-02-26,Transformer,Plant C,4,Short Circuit
+22768,2024-04-19,Compressor,Plant B,10,Mechanical Failure
+22769,2024-06-22,Transformer,Plant B,1,Overheating
+22770,2024-07-24,Transformer,Plant C,17,Mechanical Failure
+22771,2024-08-12,Generator,Plant B,5,Short Circuit
+22772,2024-03-04,Transformer,Plant B,17,Overheating
+22773,2024-09-08,Motor,Plant C,3,Mechanical Failure
+22774,2024-09-23,Compressor,Plant A,9,Overheating
+22775,2024-12-17,Generator,Plant C,3,Electrical Fault
+22776,2024-11-27,Transformer,Plant C,3,Short Circuit
+22777,2024-11-15,Panel,Plant A,9,Mechanical Failure
+22778,2024-12-22,Motor,Plant B,5,Mechanical Failure
+22779,2024-04-02,Motor,Plant C,10,Mechanical Failure
+22780,2024-07-01,Motor,Plant C,15,Short Circuit
+22781,2024-10-26,Generator,Plant B,12,Electrical Fault
+22782,2024-08-01,Transformer,Plant B,6,Short Circuit
+22783,2024-05-21,Motor,Plant A,7,Mechanical Failure
+22784,2024-03-23,Transformer,Plant B,7,Short Circuit
+22785,2024-04-08,Panel,Plant C,23,Mechanical Failure
+22786,2024-10-07,Transformer,Plant B,4,Short Circuit
+22787,2024-04-11,Transformer,Plant B,13,Overheating
+22788,2024-11-24,Transformer,Plant A,15,Short Circuit
+22789,2024-03-11,Compressor,Plant A,18,Mechanical Failure
+22790,2024-12-03,Generator,Plant C,18,Mechanical Failure
+22791,2024-09-22,Transformer,Plant C,7,Short Circuit
+22792,2024-05-09,Motor,Plant B,10,Short Circuit
+22793,2024-02-29,Compressor,Plant C,16,Overheating
+22794,2024-10-27,Transformer,Plant C,23,Electrical Fault
+22795,2024-04-28,Compressor,Plant B,23,Electrical Fault
+22796,2024-09-19,Generator,Plant B,8,Overheating
+22797,2024-11-23,Compressor,Plant B,19,Electrical Fault
+22798,2024-01-21,Motor,Plant A,11,Electrical Fault
+22799,2024-04-06,Transformer,Plant A,21,Mechanical Failure
+22800,2024-10-29,Motor,Plant B,6,Mechanical Failure
+22801,2024-01-01,Panel,Plant A,10,Mechanical Failure
+22802,2024-07-21,Compressor,Plant A,19,Short Circuit
+22803,2024-05-07,Compressor,Plant A,14,Short Circuit
+22804,2024-12-15,Compressor,Plant C,20,Electrical Fault
+22805,2024-05-11,Generator,Plant B,6,Short Circuit
+22806,2024-02-03,Motor,Plant B,4,Mechanical Failure
+22807,2024-03-27,Panel,Plant C,20,Short Circuit
+22808,2024-02-01,Generator,Plant A,15,Electrical Fault
+22809,2024-09-15,Generator,Plant B,5,Mechanical Failure
+22810,2024-11-19,Transformer,Plant A,16,Electrical Fault
+22811,2024-11-08,Panel,Plant C,7,Short Circuit
+22812,2024-02-02,Compressor,Plant A,2,Overheating
+22813,2024-10-12,Compressor,Plant C,13,Overheating
+22814,2024-11-21,Transformer,Plant C,2,Mechanical Failure
+22815,2024-02-18,Compressor,Plant A,9,Electrical Fault
+22816,2024-10-12,Motor,Plant A,20,Overheating
+22817,2024-03-22,Compressor,Plant B,5,Overheating
+22818,2024-05-23,Motor,Plant C,3,Mechanical Failure
+22819,2024-10-06,Transformer,Plant A,2,Mechanical Failure
+22820,2024-04-01,Transformer,Plant A,14,Electrical Fault
+22821,2024-08-11,Motor,Plant B,8,Overheating
+22822,2024-08-04,Compressor,Plant B,20,Electrical Fault
+22823,2024-06-04,Transformer,Plant B,12,Electrical Fault
+22824,2024-10-03,Transformer,Plant C,17,Mechanical Failure
+22825,2024-01-08,Motor,Plant B,16,Electrical Fault
+22826,2024-02-05,Transformer,Plant C,6,Short Circuit
+22827,2024-05-03,Compressor,Plant B,6,Electrical Fault
+22828,2024-01-09,Transformer,Plant C,18,Overheating
+22829,2024-02-09,Motor,Plant B,2,Electrical Fault
+22830,2024-06-27,Compressor,Plant C,8,Short Circuit
+22831,2024-05-08,Panel,Plant B,23,Short Circuit
+22832,2024-03-08,Motor,Plant B,14,Overheating
+22833,2024-06-02,Panel,Plant A,2,Overheating
+22834,2024-01-03,Transformer,Plant C,17,Electrical Fault
+22835,2024-12-29,Compressor,Plant A,16,Short Circuit
+22836,2024-09-21,Transformer,Plant C,18,Short Circuit
+22837,2024-01-04,Compressor,Plant A,21,Electrical Fault
+22838,2024-09-18,Generator,Plant B,6,Overheating
+22839,2024-11-24,Transformer,Plant A,17,Short Circuit
+22840,2024-10-08,Transformer,Plant B,18,Electrical Fault
+22841,2024-03-25,Transformer,Plant C,14,Overheating
+22842,2024-12-07,Motor,Plant B,10,Electrical Fault
+22843,2024-02-04,Compressor,Plant A,4,Overheating
+22844,2024-04-23,Compressor,Plant C,18,Overheating
+22845,2024-02-28,Compressor,Plant A,11,Short Circuit
+22846,2024-02-07,Motor,Plant B,22,Mechanical Failure
+22847,2024-02-02,Compressor,Plant B,16,Short Circuit
+22848,2024-07-21,Transformer,Plant A,4,Electrical Fault
+22849,2024-07-20,Panel,Plant C,19,Overheating
+22850,2024-04-09,Generator,Plant A,6,Short Circuit
+22851,2024-10-27,Compressor,Plant B,8,Overheating
+22852,2024-10-30,Motor,Plant C,18,Short Circuit
+22853,2024-04-27,Motor,Plant A,19,Electrical Fault
+22854,2024-08-30,Compressor,Plant B,18,Electrical Fault
+22855,2024-01-29,Panel,Plant C,16,Electrical Fault
+22856,2024-08-14,Compressor,Plant A,7,Short Circuit
+22857,2024-12-05,Motor,Plant C,17,Mechanical Failure
+22858,2024-07-31,Generator,Plant B,3,Electrical Fault
+22859,2024-07-05,Panel,Plant A,22,Short Circuit
+22860,2024-04-22,Compressor,Plant A,15,Mechanical Failure
+22861,2024-10-25,Generator,Plant B,4,Short Circuit
+22862,2024-06-09,Compressor,Plant B,16,Short Circuit
+22863,2024-01-19,Panel,Plant B,14,Electrical Fault
+22864,2024-09-20,Motor,Plant A,17,Mechanical Failure
+22865,2024-06-07,Panel,Plant B,9,Short Circuit
+22866,2024-01-11,Transformer,Plant A,7,Short Circuit
+22867,2024-01-08,Compressor,Plant A,14,Short Circuit
+22868,2024-06-01,Generator,Plant C,23,Short Circuit
+22869,2024-04-22,Generator,Plant B,12,Electrical Fault
+22870,2024-05-27,Panel,Plant B,17,Short Circuit
+22871,2024-02-07,Panel,Plant C,9,Mechanical Failure
+22872,2024-05-14,Panel,Plant A,12,Overheating
+22873,2024-08-22,Generator,Plant A,12,Mechanical Failure
+22874,2024-09-11,Motor,Plant A,8,Short Circuit
+22875,2024-03-14,Generator,Plant B,10,Short Circuit
+22876,2024-11-23,Motor,Plant A,12,Mechanical Failure
+22877,2024-12-27,Panel,Plant C,5,Overheating
+22878,2024-10-02,Transformer,Plant A,20,Electrical Fault
+22879,2024-07-27,Generator,Plant B,1,Overheating
+22880,2024-09-23,Panel,Plant B,9,Overheating
+22881,2024-05-23,Generator,Plant A,15,Overheating
+22882,2024-02-11,Panel,Plant A,2,Mechanical Failure
+22883,2024-08-11,Generator,Plant B,4,Overheating
+22884,2024-12-11,Compressor,Plant A,4,Electrical Fault
+22885,2024-02-21,Generator,Plant C,23,Short Circuit
+22886,2024-11-03,Compressor,Plant B,3,Mechanical Failure
+22887,2024-05-16,Motor,Plant A,16,Mechanical Failure
+22888,2024-07-13,Generator,Plant A,8,Overheating
+22889,2024-04-04,Motor,Plant A,7,Short Circuit
+22890,2024-09-14,Transformer,Plant C,12,Short Circuit
+22891,2024-01-25,Compressor,Plant B,12,Short Circuit
+22892,2024-08-19,Generator,Plant C,4,Mechanical Failure
+22893,2024-11-27,Motor,Plant A,15,Electrical Fault
+22894,2024-04-03,Panel,Plant C,6,Short Circuit
+22895,2024-12-15,Motor,Plant A,3,Mechanical Failure
+22896,2024-08-08,Generator,Plant A,7,Overheating
+22897,2024-10-23,Transformer,Plant B,22,Short Circuit
+22898,2024-07-21,Compressor,Plant B,21,Overheating
+22899,2024-12-08,Panel,Plant A,6,Short Circuit
+22900,2024-03-21,Motor,Plant A,1,Overheating
+22901,2024-07-23,Generator,Plant A,8,Mechanical Failure
+22902,2024-03-17,Generator,Plant B,1,Overheating
+22903,2024-02-07,Compressor,Plant B,16,Mechanical Failure
+22904,2024-07-13,Panel,Plant A,3,Overheating
+22905,2024-02-11,Motor,Plant B,2,Overheating
+22906,2024-06-30,Motor,Plant A,6,Overheating
+22907,2024-09-01,Motor,Plant C,8,Short Circuit
+22908,2024-07-13,Compressor,Plant B,7,Electrical Fault
+22909,2024-03-18,Compressor,Plant A,7,Electrical Fault
+22910,2024-11-15,Panel,Plant C,21,Short Circuit
+22911,2024-05-04,Motor,Plant A,19,Overheating
+22912,2024-05-20,Motor,Plant C,18,Overheating
+22913,2024-01-27,Panel,Plant B,3,Short Circuit
+22914,2024-11-10,Panel,Plant B,11,Mechanical Failure
+22915,2024-11-16,Panel,Plant A,11,Mechanical Failure
+22916,2024-10-07,Generator,Plant B,3,Short Circuit
+22917,2024-10-19,Panel,Plant B,23,Electrical Fault
+22918,2024-08-29,Transformer,Plant C,1,Mechanical Failure
+22919,2024-08-23,Compressor,Plant B,23,Short Circuit
+22920,2024-07-21,Panel,Plant C,22,Mechanical Failure
+22921,2024-11-22,Generator,Plant C,10,Short Circuit
+22922,2024-05-21,Transformer,Plant C,2,Mechanical Failure
+22923,2024-04-03,Generator,Plant B,17,Mechanical Failure
+22924,2024-05-31,Generator,Plant A,9,Short Circuit
+22925,2024-09-09,Generator,Plant A,18,Electrical Fault
+22926,2024-03-07,Generator,Plant B,20,Electrical Fault
+22927,2024-06-24,Motor,Plant C,9,Mechanical Failure
+22928,2024-04-12,Compressor,Plant B,11,Mechanical Failure
+22929,2024-03-31,Motor,Plant A,17,Electrical Fault
+22930,2024-07-11,Transformer,Plant C,14,Short Circuit
+22931,2024-06-14,Motor,Plant B,18,Overheating
+22932,2024-03-30,Transformer,Plant C,18,Mechanical Failure
+22933,2024-11-21,Panel,Plant C,12,Overheating
+22934,2024-11-10,Transformer,Plant A,18,Mechanical Failure
+22935,2024-09-24,Motor,Plant C,8,Electrical Fault
+22936,2024-02-20,Motor,Plant B,8,Short Circuit
+22937,2024-06-14,Transformer,Plant C,8,Mechanical Failure
+22938,2024-06-22,Motor,Plant C,20,Overheating
+22939,2024-08-14,Transformer,Plant B,15,Electrical Fault
+22940,2024-09-22,Generator,Plant A,8,Mechanical Failure
+22941,2024-01-09,Compressor,Plant A,14,Short Circuit
+22942,2024-03-27,Transformer,Plant B,13,Mechanical Failure
+22943,2024-04-03,Generator,Plant C,23,Short Circuit
+22944,2024-02-21,Generator,Plant B,8,Short Circuit
+22945,2024-06-27,Generator,Plant B,17,Electrical Fault
+22946,2024-10-04,Generator,Plant B,19,Mechanical Failure
+22947,2024-08-26,Transformer,Plant A,6,Short Circuit
+22948,2024-03-13,Motor,Plant C,17,Electrical Fault
+22949,2024-12-04,Generator,Plant B,4,Mechanical Failure
+22950,2024-03-12,Panel,Plant A,7,Short Circuit
+22951,2024-03-08,Generator,Plant A,17,Electrical Fault
+22952,2024-01-05,Motor,Plant C,22,Mechanical Failure
+22953,2024-12-04,Motor,Plant B,22,Short Circuit
+22954,2024-08-25,Compressor,Plant C,18,Electrical Fault
+22955,2024-04-30,Compressor,Plant B,6,Electrical Fault
+22956,2024-07-29,Generator,Plant A,10,Mechanical Failure
+22957,2024-09-18,Generator,Plant A,18,Electrical Fault
+22958,2024-11-20,Compressor,Plant C,7,Mechanical Failure
+22959,2024-02-27,Generator,Plant B,14,Mechanical Failure
+22960,2024-02-12,Panel,Plant C,22,Short Circuit
+22961,2024-07-15,Transformer,Plant B,14,Mechanical Failure
+22962,2024-03-12,Compressor,Plant C,10,Electrical Fault
+22963,2024-03-31,Compressor,Plant A,22,Mechanical Failure
+22964,2024-02-06,Motor,Plant C,9,Short Circuit
+22965,2024-11-09,Generator,Plant B,10,Electrical Fault
+22966,2024-08-24,Compressor,Plant C,2,Short Circuit
+22967,2024-10-19,Compressor,Plant B,3,Overheating
+22968,2024-06-02,Panel,Plant C,16,Short Circuit
+22969,2024-06-18,Generator,Plant B,10,Overheating
+22970,2024-09-28,Transformer,Plant B,23,Overheating
+22971,2024-04-19,Panel,Plant B,11,Mechanical Failure
+22972,2024-05-30,Transformer,Plant C,10,Electrical Fault
+22973,2024-05-10,Motor,Plant C,12,Mechanical Failure
+22974,2024-09-24,Compressor,Plant A,14,Electrical Fault
+22975,2024-01-23,Panel,Plant B,9,Short Circuit
+22976,2024-05-18,Transformer,Plant A,13,Overheating
+22977,2024-11-03,Generator,Plant A,6,Overheating
+22978,2024-08-26,Motor,Plant B,11,Overheating
+22979,2024-07-10,Motor,Plant A,1,Short Circuit
+22980,2024-05-06,Compressor,Plant C,15,Short Circuit
+22981,2024-01-29,Compressor,Plant A,7,Mechanical Failure
+22982,2024-04-30,Transformer,Plant C,11,Mechanical Failure
+22983,2024-07-16,Transformer,Plant B,17,Electrical Fault
+22984,2024-06-22,Motor,Plant B,5,Electrical Fault
+22985,2024-05-23,Transformer,Plant B,9,Overheating
+22986,2024-06-27,Compressor,Plant A,16,Short Circuit
+22987,2024-12-22,Motor,Plant B,11,Short Circuit
+22988,2024-01-11,Motor,Plant B,17,Mechanical Failure
+22989,2024-05-18,Generator,Plant C,6,Mechanical Failure
+22990,2024-09-09,Generator,Plant A,15,Electrical Fault
+22991,2024-12-10,Transformer,Plant A,3,Electrical Fault
+22992,2024-11-09,Transformer,Plant B,9,Mechanical Failure
+22993,2024-01-19,Compressor,Plant A,12,Mechanical Failure
+22994,2024-06-08,Compressor,Plant B,19,Short Circuit
+22995,2024-11-01,Generator,Plant C,18,Electrical Fault
+22996,2024-05-01,Motor,Plant A,16,Mechanical Failure
+22997,2024-03-12,Panel,Plant A,8,Mechanical Failure
+22998,2024-02-24,Panel,Plant C,19,Overheating
+22999,2024-06-17,Transformer,Plant A,5,Mechanical Failure
+23000,2024-04-08,Panel,Plant B,12,Mechanical Failure
